@@ -6,28 +6,28 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+oneflow-skin: "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "OneFlow Jekyll Theme"
-title_separator          : "-"
-subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://test123domain123.de" # the base hostname & protocol for your site
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
-show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
-                                # Edit the popup itself in the respective /includes file
-masthead_title           : " "  # Overrides the website title displayed in the masthead, use " " for no title
-sticky-masthead          : true # if true, masthead/navigation bar will stay visible when the user scrolls down.
-                                # if false, it will move out of sight when scrolling.
-masthead-opacity         : 0.85 # set to any value between 0 and 1.
-                                # 0.8-0.9 is a good recommended starting point. Only relevant if masthead is sticky.
-background-image         : # '/assets/images/header.webp' # Remove / out-comment, if you don't want a background image
-background-image-mobile  : # '/assets/images/header.webp' # If you want a different (e.g upright) background image for mobile
-background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the background image
+locale: "en-US"
+title: "OneFlow Jekyll Theme"
+title_separator: "-"
+subtitle: " " # Displayed in the masthead below the title, use " " for no subtitle
+url: "https://test123domain123.de" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "/assets/images/logo.webp" # Site logo displayed in the masthead
+show-popup: true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
+# Edit the popup itself in the respective /includes file
+masthead_title: " "  # Overrides the website title displayed in the masthead, use " " for no title
+sticky-masthead: true # if true, masthead/navigation bar will stay visible when the user scrolls down.
+# if false, it will move out of sight when scrolling.
+masthead-opacity: 0.85 # set to any value between 0 and 1.
+# 0.8-0.9 is a good recommended starting point. Only relevant if masthead is sticky.
+background-image: # '/assets/images/header.webp' # Remove / out-comment, if you don't want a background image
+background-image-mobile: # '/assets/images/header.webp' # If you want a different (e.g upright) background image for mobile
+background-image-overlay: rgba(255, 255, 255, 0.5) # Set overlay for the background image
 
 
 
@@ -63,8 +63,8 @@ footer:
       url: "https://dev.to/per-starke-642"
   copyright: "Per Starke Web Development" # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Per Starke Web Development"
-      url: "https://perstarke-webdev.de"
+    name: "Per Starke Web Development"
+    url: "https://perstarke-webdev.de"
 
 
 
