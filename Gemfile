@@ -1,15 +1,18 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
+gem "webrick" # required when using Ruby >= 3 and Jekyll <= 4.2.2
+
+gem "github-pages", '~> 228', group: :jekyll_plugins
 
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
 gem 'jemoji'
 
 group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "webrick"
-  gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-feed", "~> 0.1"
+  gem "jekyll-include-cache", "~> 0.1"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem 'jekyll-tagging'
 end
