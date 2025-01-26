@@ -1,0 +1,10 @@
+<div class="box-container">
+    {% for e in site.endorsements %}
+    <div class="round-image-box round-image-box-third">
+        <div class="round-image">
+            <img src="{{ e.image-url }}">
+        </div>
+        <h3>{{ e.name }}</h3>
+    </div>
+    {% endfor %}
+</div>
