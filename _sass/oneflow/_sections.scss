@@ -18,6 +18,15 @@ section.site-section {
     left: 50%;
     right: 50%;
     transform: translateX(-50%);
+
+    @include breakpoint($large) {
+        padding-left: 12vw;
+        padding-right: 12vw;
+    }
+    @include breakpoint($x-large) {
+        padding-left: 25vw;
+        padding-right: 25vw;
+    }
 }
 
 section.first-section {

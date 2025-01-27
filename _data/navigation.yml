@@ -7,6 +7,6 @@ main:
     url: /policy
   - title: "Help Out"
     url: /help-out
-  - title: "Donate"
-    url: /#donate
-    blank: true
+#  - title: "Donate"
+#    url: /#donate
+#    blank: true
