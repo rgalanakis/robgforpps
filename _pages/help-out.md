@@ -48,7 +48,7 @@ Donations will go to:
 {% include sectionstart.html alt=1 %}
 # Endorse
 
-Have I earned your vote? [Submit your endorsement](TODO) and we'll list it below.
+Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it below.
 
 {% include /editables/endorsements.html %}
 {% include sectionend.html %}
