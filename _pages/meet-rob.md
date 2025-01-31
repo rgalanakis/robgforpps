@@ -18,14 +18,14 @@ gallery-1:
     image_path: "/assets/images/suma-planning-1.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/rats.jpg"
-    image_path: "/assets/images/rats.jpg"
+  - url: "/assets/images/daruk-bike-ride.jpg"
+    image_path: "/assets/images/daruk-bike-ride.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
 gallery-2:
-  - url: "/assets/images/daruk-bike-ride.jpg"
-    image_path: "/assets/images/daruk-bike-ride.jpg"
+  - url: "/assets/images/parking-day-discussion.jpg"
+    image_path: "/assets/images/parking-day-discussion.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: "/assets/images/farmers-market-kids-hugging.jpg"

@@ -227,9 +227,12 @@ figure {
   }
 
   &.third {
-    > a,
+    align-items: stretch;
+    gap: 1rem;
+    > a {
+      flex: 1;
+    }
     > img {
-        width: calc(33.3333% - 0.5em);
     }
 
     figcaption {
