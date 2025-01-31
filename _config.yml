@@ -14,7 +14,7 @@ title: "Rob G for PPS Board"
 title_separator: "|"
 subtitle: " " # Displayed in the masthead below the title, use " " for no subtitle
 url: "https://robgforpps.com" # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: / # the subpath of your site, e.g. "/blog"
 repository: "rgalanakis/robgforpps" # GitHub username/repo-name
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/logo.png" # Site logo displayed in the masthead
