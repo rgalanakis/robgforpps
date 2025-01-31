@@ -15,7 +15,7 @@ title_separator: "|"
 subtitle: " " # Displayed in the masthead below the title, use " " for no subtitle
 url: "https://robgforpps.com" # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. "/blog"
-#repository: "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
+repository: "rgalanakis/robgforpps" # GitHub username/repo-name
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/logo.png" # Site logo displayed in the masthead
 show-popup: false # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
