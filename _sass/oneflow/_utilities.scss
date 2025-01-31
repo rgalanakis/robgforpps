@@ -85,7 +85,7 @@ body:hover .visually-hidden button {
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: $primary-color;
+  background: $text-color;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -97,7 +97,7 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: $primary-color;
+    background: $text-color;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
@@ -268,20 +268,28 @@ body:hover .visually-hidden button {
 
 .itr-container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     text-align: center;
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px 0;
+  gap: 3em;
+}
+
+.itr-container-right {
+  justify-content: flex-end;
 }
 
 .itr-image-container {
-    margin-right: 20px;
-    margin-left: 20px;
 }
 
 .itr-text {
     flex: 1;
+  max-width: 500px;
+
+  h3 {
+    margin-top: 0.5em;
+  }
 }
 
 .itr-image {
@@ -304,4 +312,9 @@ body:hover .visually-hidden button {
         margin-bottom: 10px;
         order: -1;
     }
+}
+
+.extlink {
+  margin-left: 0.5em;
+  font-size: 80%;
 }

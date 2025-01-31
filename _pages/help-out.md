@@ -1,5 +1,5 @@
 ---
-title: "Bold Solutions for Big Problems"
+title: "Bold Solutions for Thriving Kids"
 layout: page
 permalink: /help-out
 header:
@@ -59,5 +59,9 @@ Donations will go to:
 Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it below.
 
 {% comment %}{% include /editables/endorsements.html %}{% endcomment %}
+
+Photos used with permission, including from [bikeportland.org](https://bikeportland.org){:target="_blank"}.
+Please email [robg.pdx@gmail.com](mailto:robg.pdx@gmail.com) with any questions.
+
 {% include footer/buffer.html %}
 {% include sectionend.html %}

@@ -26,6 +26,7 @@ This will allow development of 1,000 new housing units, work to right generation
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
+<a id="housing"></a>
 # School Policy is Housing Policy
 
 The performance of students of color compared to their white counterparts is a persistent issue.
@@ -53,6 +54,7 @@ And to top it off, increased enrollment is revenue-positive for PPS. Additional 
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
+<a id="transportation"></a>
 # School Policy is Transportation Policy
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
@@ -68,6 +70,7 @@ PPS should be using its role as the region’s largest car-trip-generator to sup
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
+<a id="health"></a>
 # School Policy is Health Policy
 
 As animals, we have brains in order to move. In fact, there are animals like the Sea Squirt that lose their brain when they stop moving.
@@ -93,6 +96,7 @@ Studies show this additional exercise could lead to a significant increase in te
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
+<a id="climate"></a>
 # School Policy is Climate Policy
 
 Today’s students are wrestling with a high likelihood of 2C warming by 2050, and the ensuing destruction and instability it will cause.
@@ -120,7 +124,7 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 
 Both PPS and the City of Portland are in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
-This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and pay $1.7B of that to banks in the form of interest. This bond will last 32 years.
+This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years.
 
 This bond will strangle our ability to be flexible with funds in the future. For example, if the legislature were to allow us to spend more on the Local Option Levy and thus hire more teachers, which would be revenue neutral for the state, we would not have the ability to hire more teachers without raising tax rates.  
 
@@ -152,13 +156,24 @@ By offering ways parents can be part of solutions,
 
 {% include sectionend.html %}
 
+<hr class="section-sep" />
+
 {% include sectionstart.html %}
 # Public Testimony
 
 You should know who you're voting for beyond what I'm telling you here.
 Here's a list of some public testimony or comments I've given the last few years:
 
-- 
+- Public comment opposing the 2025 Capital Bond. We shouldn't be stealing from the future and giving banks nearly half of all taxes raised: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?usp=drive_link){:target="_blank"}
+- Testimony to City Council about visiting an alternative Portland in 2030 where they invested in active, sustainable transportation: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/16vmTisha5Qxii1P_8gV2WRfYnh4UG-mA3Y9w0Wm4Bvs/edit?usp=drive_link){:target="_blank"}
+- Public comment to the PPS Climate Crisis Response Committee asking them to include family transportation emissions in their emissions calculations: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1i9JGpY_FpMs94XGsyfXiNldluhtHLw1XPtn7f8-1uCo/edit?usp=drive_link){:target="_blank"}
+- Public comment to PPS about their Safe Routes and School Streets program, which is a typical example of PPS dysfunction where one group isn't talking to another: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1v8im_kTA-axnH39C7QmP5TGIPt4dOV8lUNYO4UMRmR0/edit?usp=drive_link){:target="_blank"}
+- Testimony to City Council encouraging them to vote to put Fixing Our Streets III (gas tax renewal) on the May 2024 ballot, which is vital for safe streets: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1LqM9fOJAtlxdqVh3JdvdNu0lnDkYj38U_XSDhXgqLhc/edit?usp=drive_link){:target="_blank"}
+- Comments on the problems with the I-5 Bridge Replacement's Draft Supplemental Environmental Impact Statement (spoiler alert, the books are cooked): [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1GUyNJXUMYQXVW1u-HxrdiGAFfZTtAqnRrMpuLNiZUjw/edit?usp=drive_link){:target="_blank"}
+- Opposing an Urban Growth Boundary expansion in Sherwood. Suburban areas receive massive subsidies from urban areas, and opening up new areas to suburban development will keep damaging our school system: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1fTrPpQq2iHq4O0otMXZWJtmQXjMQZ-uxOHdExO7e5vg/edit?usp=drive_link){:target="_blank"}
+- Opposing a land use exception to allow a private school to open in the heart of the most transit and amenity rich areas of the eastside, instead of using the massive parking lot for something useful: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/15YM2swhzMnxCH9HKz2-xtUdnHlyFBIXsujZIWgWSOKI/edit?usp=drive_link){:target="_blank"}
+- Testimony to the Planning Commission to support a broad upzoning in the inner Eastside: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1duHLnn9CWsCusxsEhVcZguH9lyt4wYSiDCa4LtxLdxA/edit?usp=drive_link){:target="_blank"}
+- Public comment encouraging a stricter PPS device policy than originally proposed. I was happy to see it modified: [Link {% include ext-link-icon.html %}](https://docs.google.com/document/d/1rHIywLyrQ-A9WPfFY_c8dp11VuzdiGn8OFXIHg0yq0U/edit?usp=drive_link){:target="_blank"}
 
 {% include footer/buffer.html %}
 {% include sectionend.html %}

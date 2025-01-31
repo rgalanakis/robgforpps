@@ -93,3 +93,9 @@
     font-size: $type-size-7;
   }
 }
+
+.btn--itr {
+  color: $secondary-color !important;
+  background-color: mix(transparent, $secondary-color, 95%);
+  font-size: 110%;
+}

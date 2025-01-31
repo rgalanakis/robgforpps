@@ -50,11 +50,13 @@ I'm also an active member of other climate, transportation, and housing organiza
 
 {% include gallery id="gallery-1" %}
 
-My family moved to Portland from Reykjavík, Iceland, where we lived for 3 years and our first child was born.
+My family moved to Portland from [Reykjavík, Iceland](https://www.robg3d.com/2012/11/taking-your-dog-to-iceland/), where we lived for 3 years and our first child was born.
 When we moved back to the US, we chose the city that most closely aligned with the values of a **family-friendly interdependence**
 that we picked up abroad.
 
-**In 2021, I rode my first e-bike and it changed my life.** Before that, I'd been on exactly one ride since being a kid, and gave up due to asthma and balance issues. Since 2022, I've done nearly all local trips by cargo bike: everything from school and groceries to bringing home Christmas trees and chest freezers.
+In Portland, I was an executive/co-founder at two companies ([Cozy](https://www.oregonlive.com/silicon-forest/2018/11/cozy_portland_tech_startup_sel.html){:target="_blank"} and [Local MilkRun](https://www.koin.com/news/health/coronavirus/milkrun-delivery-connects-portland-metro-with-local-food/){:target="_blank"}) before founding my own consultancy ([Lithic Tech](https://lithic.tech){:target="_blank"}).
+
+**In 2021, I rode my first e-bike and it changed my life.** Bikes weren't for me, due to asthma and balance issues. But since 2022, I've done nearly all local trips by cargo bike: everything from school and groceries to bringing home Christmas trees and chest freezers.
 
 Experiencing Portland on two wheels, especially with my kids in tow, changed my relationship with my community.
 
@@ -63,7 +65,7 @@ Experiencing Portland on two wheels, especially with my kids in tow, changed my 
 Seeing how this one relatively inexpensive thing &mdash; an electric cargo bike that cost as much as a car repair &mdash; could improve my life
 opened up a world of possibilities, where better choices in one area create gains in another.
 
-I got to know my neighbors. I became healthier. I polluted less. I didn't need to drive, or park. My kids loved going on errands. I shopped more locally. I had more fun. I went out more. I found more friends. I found more opportunities for collective joy. I found tangible ways to make the world better.
+I got to know my neighbors. Became healthier. Polluted less. Didn't waste time in traffic or parking. My kids loved going on errands. Shopped more locally. Saved more money. Had more fun. Went out more. Met more friends. Engaged in collective joy. Found tangible ways to make the world better.
 
 Just switching to a bike did all this. Because **all of our problems are related.**
 
@@ -80,7 +82,7 @@ Our planet is burning, but we're emitting more carbon than ever.
 **But that's like asking what your hands have to do with your feet.**
 Different roles, but part of the same body.
 
-**Solving these problems is a job for every public entity.**
+We can't sit by and try to solve things one at a time. **Solving these problems is a job for every public entity.**
 
 It's time to pursue bold and creative solutions at PPS.
 Our kids, our city, our world, cannot wait.
