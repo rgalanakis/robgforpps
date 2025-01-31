@@ -5,6 +5,7 @@ permalink: /policy
 header:
     overlay_image: /assets/images/day-remembrence-1.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
+    image_position: "top center"
 excerpt: "School Policy is more than Education Policy"
 ---
 
