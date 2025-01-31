@@ -150,5 +150,15 @@ We know people opt-out of engagement when they feel like it doesn't matter. PPS 
 We know parent involvement is one of the key predictors of student outcomes.
 By offering ways parents can be part of solutions, 
 
+{% include sectionend.html %}
+
+{% include sectionstart.html %}
+# Public Testimony
+
+You should know who you're voting for beyond what I'm telling you here.
+Here's a list of some public testimony or comments I've given the last few years:
+
+- 
+
 {% include footer/buffer.html %}
 {% include sectionend.html %}

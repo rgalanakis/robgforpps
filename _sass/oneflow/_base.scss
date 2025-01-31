@@ -226,7 +226,7 @@ figure {
     }
   }
 
-  &.third {
+  &.third, &.half {
     align-items: stretch;
     gap: 1rem;
     > a {
