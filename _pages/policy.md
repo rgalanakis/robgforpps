@@ -3,7 +3,7 @@ title: "Policy Matters"
 layout: page
 permalink: /policy
 header:
-    overlay_image: /assets/images/header.webp
+    overlay_image: /assets/images/day-remembrence-1.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "School Policy is more than Education Policy"
 ---
@@ -150,5 +150,5 @@ We know people opt-out of engagement when they feel like it doesn't matter. PPS 
 We know parent involvement is one of the key predictors of student outcomes.
 By offering ways parents can be part of solutions, 
 
+{% include footer/buffer.html %}
 {% include sectionend.html %}
-

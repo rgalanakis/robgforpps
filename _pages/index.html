@@ -1,12 +1,12 @@
 ---
-title: "Big Problems Need Big Solutions"
+title: "Bold Solutions for Big Problems"
 
 layout: page
 
 permalink: /
 
 header:
-    overlay_image: /assets/images/header.webp
+    overlay_image: /assets/images/bikebus-corking.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
     #actions:
@@ -30,9 +30,10 @@ image-text-row-1:
       btn-url: "/policy#transportation"
       #btn-class: "info"
       btn-label: "Let's go!"
-      image-url: "/assets/images/header.webp"
+      image-url: "/assets/images/bike-more.jpg"
       alt-text: "Alternative text for the image"
       image-width: "400px"
+      image-height: "300px"
       image-right: false
 
 image-text-row-2:
@@ -41,9 +42,10 @@ image-text-row-2:
       btn-url: "/policy#health"
       #btn-class: "info"
       btn-label: "Get moving!"
-      image-url: "/assets/images/header.webp"
+      image-url: "/assets/images/tim-bike.jpg"
       alt-text: "Alternative text for the image"
       image-width: "400px"
+      image-height: "300px"
       image-right: true
 
 image-text-row-3:
@@ -51,11 +53,12 @@ image-text-row-3:
       excerpt: "Broad upzoning will allow more housing in our most desirable neighborhoods and schools, improving performance and decreasing costs."
       btn-url: "/policy#housing"
       #btn-class: "info"
-      btn-label: "Build housing!"
+      btn-label: "Build it!"
       blank: false
-      image-url: "/assets/images/sydney-2.webp"
+      image-url: "/assets/images/strongtowns-parking-day-glisan.jpg"
       alt-text: "Alternative text for the image"
       image-width: "400px"
+      image-height: "300px"
       image-right: false
 
 image-text-row-4:
@@ -63,11 +66,12 @@ image-text-row-4:
       excerpt: "Climate disasters are bearing down, and schools need to support the larger changes our community is making."
       btn-url: "/policy#climate"
       #btn-class: "info"
-      btn-label: "We can do it!"
+      btn-label: "Stop wasting time!"
       blank: false
-      image-url: "/assets/images/sydney-2.webp"
+      image-url: "/assets/images/city-hall-safety-ride.jpg"
       alt-text: "Alternative text for the image"
       image-width: "400px"
+      image-height: "300px"
       image-right: true
 ---
 
@@ -93,15 +97,19 @@ image-text-row-4:
 
     <p>Because School Policy is also:</p>
 
-    {% include image-text-row id="image-text-row-1" %}
-    {% include image-text-row id="image-text-row-2" %}
-    {% include image-text-row id="image-text-row-3" %}
-    {% include image-text-row id="image-text-row-4" %}
+    {% include image-text-row.html id="image-text-row-1" %}
+    {% include image-text-row.html id="image-text-row-2" %}
+    {% include image-text-row.html id="image-text-row-3" %}
+    {% include image-text-row.html id="image-text-row-4" %}
 </section>
 
+{% comment %}
 <hr class="section-sep">
 
 <section class="site-section alternative-color" id="section-3">
     <h1>Endorsements</h1>
     {% include /editables/endorsements.html %}
 </section>
+{% endcomment %}
+
+{% include footer/buffer.html %}

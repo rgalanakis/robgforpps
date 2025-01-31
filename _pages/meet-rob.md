@@ -4,36 +4,36 @@ layout: page
 permalink: /meet-rob
 
 header:
-    overlay_image: /assets/images/header.webp
+    overlay_image: /assets/images/kickoff-thumbsup.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
 excerpt: "Rob G for PPS School Board, Zone 6"
 
 gallery-1:
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/chickens.jpg"
+    image_path: "/assets/images/chickens.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/suma-planning-1.jpg"
+    image_path: "/assets/images/suma-planning-1.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/rats.jpg"
+    image_path: "/assets/images/rats.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
 gallery-2:
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/daruk-bike-ride.jpg"
+    image_path: "/assets/images/daruk-bike-ride.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/farmers-market-kids-hugging.jpg"
+    image_path: "/assets/images/farmers-market-kids-hugging.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/header.webp"
-    image_path: "/assets/images/header.webp"
+  - url: "/assets/images/strongtowns-d3-chat.jpg"
+    image_path: "/assets/images/strongtowns-d3-chat.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -83,3 +83,5 @@ Different roles, but part of the same body.
 
 It's time to pursue bold and creative solutions at PPS.
 Our kids, our city, our world, cannot wait.
+
+{% include footer/buffer.html %}

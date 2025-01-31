@@ -3,7 +3,7 @@ title: "Bold Solutions for Big Problems"
 layout: page
 permalink: /help-out
 header:
-    overlay_image: /assets/images/header.webp
+    overlay_image: /assets/images/bikebus-wave.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Join the Campaign"
 ---
@@ -16,9 +16,13 @@ after the campaign to make sure it's responsibly recycled.
 
 We also have a limited set of pennants available for your bike!
 
-Fill out the form to request a yard sign or pennant, and someone from the campaign will deliver it by bike as soon as they're available.
+<a href="https://forms.gle/xvREEnHBhnNTSRT26" target="_blank">Fill out the form</a> to request a yard sign or pennant, and someone from the campaign will deliver it by bike as soon as they're available.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSejNujRJT78jugfp7RBuprVprvR39sMmAEpS7Rl6w6keN71RA/viewform?embedded=true" width="" height="895" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%">Loading…</iframe>
 
 {% include sectionend.html %}
+
+<hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
 # Spread the Word
@@ -30,6 +34,8 @@ If you want to volunteer your time or skills, whether knocking on doors, hashing
 or just offering your opinion, email {% include email.html %}.
 
 {% include sectionend.html %}
+
+<hr class="section-sep" />
 
 {% include sectionstart.html %}
 # Donate
@@ -45,10 +51,13 @@ Donations will go to:
 
 {% include sectionend.html %}
 
+<hr class="section-sep" />
+
 {% include sectionstart.html alt=1 %}
 # Endorse
 
 Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it below.
 
-{% include /editables/endorsements.html %}
+{% comment %}{% include /editables/endorsements.html %}{% endcomment %}
+{% include footer/buffer.html %}
 {% include sectionend.html %}

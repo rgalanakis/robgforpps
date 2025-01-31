@@ -19,13 +19,13 @@ section.site-section {
     right: 50%;
     transform: translateX(-50%);
 
-    @include breakpoint($large) {
-        padding-left: 12vw;
-        padding-right: 12vw;
-    }
     @include breakpoint($x-large) {
-        padding-left: 25vw;
-        padding-right: 25vw;
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+    @include breakpoint(1500px) {
+        padding-left: calc((100vw - 1200px)/2);
+        padding-right: calc((100vw - 1200px)/2);
     }
 }
 
