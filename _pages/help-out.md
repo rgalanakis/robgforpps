@@ -49,6 +49,8 @@ Donations will go to:
 - Expertise that should be compensated, when necessary.
 - Paying for experiences of collective joy, like kid-focused bike rides and Walk+Roll activities.
 
+*Donation link coming soon, the week of Feb 3rd*
+
 {% include sectionend.html %}
 
 <hr class="section-sep" />
