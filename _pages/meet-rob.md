@@ -4,36 +4,36 @@ layout: page
 permalink: /meet-rob
 
 header:
-    overlay_image: /assets/images/kickoff-thumbsup.jpg
+    overlay_image: /assets/images/o/kickoff-thumbsup.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
 excerpt: "Rob G for PPS School Board, Zone 6"
 
 gallery-1:
-  - url: "/assets/images/chickens.jpg"
-    image_path: "/assets/images/chickens.jpg"
+  - url: "/assets/images/o/chickens.jpg"
+    image_path: "/assets/images/t/chickens.jpg"
     alt: "Rob with a couple chickens."
     title: "What other city has so many people with backyard chickens?"
-  - url: "/assets/images/suma-planning-1.jpg"
-    image_path: "/assets/images/suma-planning-1.jpg"
+  - url: "/assets/images/o/suma-planning-1.jpg"
+    image_path: "/assets/images/t/suma-planning-1.jpg"
     alt: "Three people looking at a computer screen"
     title: "Computers are fine too."
-  - url: "/assets/images/daruk-bike-ride.jpg"
-    image_path: "/assets/images/daruk-bike-ride.jpg"
+  - url: "/assets/images/o/daruk-bike-ride.jpg"
+    image_path: "/assets/images/t/daruk-bike-ride.jpg"
     alt: "child dressed in a Tingle costume from Legend of Zelda, adult dressed as Daruk from Breath of the Wild, child in a costume as Link from Minish Cap"
     title: "One of my favorite rides I've been on was 'Gears of the Kingdom.' We're in costume here as Tingle, Daruk (giant foam hands not picture), and Link from Minish Cap. My wife dressed as Zelda."
 
 gallery-2:
-  - url: "/assets/images/parking-day-discussion.jpg"
-    image_path: "/assets/images/parking-day-discussion.jpg"
+  - url: "/assets/images/o/parking-day-discussion.jpg"
+    image_path: "/assets/images/t/parking-day-discussion.jpg"
     alt: "two people standing around talking, one sitting on a bike with a squirrel mask on"
     title: "This ride from StrongTownsPDX visited various parking garages in the central city and talked about what used to exist (housing and businesses)."
-  - url: "/assets/images/safety-ride.jpg"
-    image_path: "/assets/images/safety-ride.jpg"
+  - url: "/assets/images/o/safety-ride.jpg"
+    image_path: "/assets/images/t/safety-ride.jpg"
     alt: "Rob on a bike with a hardhat on"
     title: "Maximum safety was the theme of this ride."
-  - url: "/assets/images/strongtowns-d3-chat.jpg"
-    image_path: "/assets/images/strongtowns-d3-chat.jpg"
+  - url: "/assets/images/o/strongtowns-d3-chat.jpg"
+    image_path: "/assets/images/t/strongtowns-d3-chat.jpg"
     alt: "people sitting around a table in discussion"
     title: "Groups like StrongTownsPDX are coming up with bold and pragmatic ways to solve Portland's problems."
 

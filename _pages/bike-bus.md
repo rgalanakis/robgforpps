@@ -4,50 +4,50 @@ layout: page
 permalink: /bike-bus
 
 header:
-    overlay_image: /assets/images/alameda-bike-bus.jpg
+    overlay_image: /assets/images/o/alameda-bike-bus.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
 excerpt: "Rob G for PPS School Board, Zone 6"
 
 gallery-2:
-  - url: "/assets/images/bikes-on-bikes.jpg"
-    image_path: "/assets/images/bikes-on-bikes.jpg"
+  - url: "/assets/images/o/bikes-on-bikes.jpg"
+    image_path: "/assets/images/t/bikes-on-bikes.jpg"
     alt: "many bikes on the back of a cargo bike"
     title: "Carrying 12 kids bikes home on the back of my bike after our 2023 Glencoe Bike Fair. All the bikes were fixed up and donated."
-  - url: "/assets/images/strike-bus.jpg"
-    image_path: "/assets/images/strike-bus.jpg"
+  - url: "/assets/images/o/strike-bus.jpg"
+    image_path: "/assets/images/t/strike-bus.jpg"
     alt: "many adult and kid bike riders in blue"
     title: "In November 2023, I led organization of the 'Strike Bus' in support of PPS teachers. We had about 700 riders."
-  - url: "/assets/images/farmers-market-kids-hugging.jpg"
-    image_path: "/assets/images/farmers-market-kids-hugging.jpg"
+  - url: "/assets/images/o/farmers-market-kids-hugging.jpg"
+    image_path: "/assets/images/t/farmers-market-kids-hugging.jpg"
     alt: "three kids hugging while someone speaks standing on a table"
     title: "Events like the weekly PSU Farmers Market ride build intergenerational community."
 
 gallery-1:
-  - url: "/assets/images/glencoe-bike-bus-1.jpg"
-    image_path: "/assets/images/glencoe-bike-bus-1.jpg"
+  - url: "/assets/images/o/glencoe-bike-bus-1.jpg"
+    image_path: "/assets/images/t/glencoe-bike-bus-1.jpg"
     alt: "kids and parents on bikes"
     title: "I co-lead our weekly Bike Bus, which has been going since Earth Day 2023."
-  - url: "/assets/images/council-bike-bus.jpg"
-    image_path: "/assets/images/council-bike-bus.jpg"
+  - url: "/assets/images/o/council-bike-bus.jpg"
+    image_path: "/assets/images/t/council-bike-bus.jpg"
     alt: "Comissioner Joanne Hardesty standing in front of a bike bus"
     title: "Many officials have ridden with Bike Buses around Portland. On this site you'll see Khanh Pham, Keith Wilson, Joanne Hardesty, Rene Gonzalez, and more."
-  - url: "/assets/images/abernethy-bike-bus-2.jpg"
-    image_path: "/assets/images/abernethy-bike-bus-2.jpg"
+  - url: "/assets/images/o/abernethy-bike-bus-2.jpg"
+    image_path: "/assets/images/t/abernethy-bike-bus-2.jpg"
     alt: "bike bus riding in cold weather"
     title: "Bike Buses like Abernethy show incredible latent demand for safe routes to school."
 
 gallery-3:
-  - url: "/assets/images/teachers.jpg"
-    image_path: "/assets/images/teachers.jpg"
+  - url: "/assets/images/o/teachers.jpg"
+    image_path: "/assets/images/t/teachers.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/keith-wilson.jpg"
-    image_path: "/assets/images/keith-wilson.jpg"
+  - url: "/assets/images/o/keith-wilson.jpg"
+    image_path: "/assets/images/t/keith-wilson.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: "/assets/images/pham.jpg"
-    image_path: "/assets/images/pham.jpg"
+  - url: "/assets/images/o/pham.jpg"
+    image_path: "/assets/images/t/pham.jpg"
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
