@@ -144,7 +144,7 @@ Until we can dig in and understand if and how more education spending will impro
 {% include sectionstart.html alt=1 %}
 # School Policy is Civic Policy
 
-The trope of angry parents yelling at the School Board or principal is only a trope if you've never been hurt by a decision made with no transparency, accountability, or course for reconsideration.
+The trope of angry parents yelling at the School Board or principal is only a trope if you've never been hurt by a decision, and left with no transparency, accountability, or course for reconsideration.
 
 Schools are our most local public institutions, but the lack of civic involvement sets an embarassing example for a democratic society.
 
@@ -153,13 +153,36 @@ How many school Site Councils adhere to their bylaws, which usually require elec
 We know people opt-out of engagement when they feel like it doesn't matter. PPS is happy to ask parents to wash lunch trays and rake leaves, but we're unwelcome when we want to be partners in decisionmaking.
 
 We know parent involvement is one of the key predictors of student outcomes.
-By offering ways parents can be part of solutions, 
+By recommitting to include parents in designing and implementing solutions,
+we give them a reason to engage, rather than tune out. We know this will help our students.
+And experience says this also helps our city and society at large.
+
+**Multi-solving policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.**
+
+**Multi-solving policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.**
 
 {% include sectionend.html %}
 
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
+# School Policy is City Policy
+
+For reasons I have not been able to track down, the City of Portland and Portland Public Schools seem to view themselves are totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing parking, the relationship is frigid at best and adversarial at worst.
+
+We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study.
+
+Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! There are endless examples: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer trips (30% of trips during morning hours are to school!), that hurt city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance.
+
+I pledge to work with the City to get more housing built so we can have more PPS families. To build safe streets so we have healthier and happier kids. To streamline overlaps and inefficiencies, so we can do more with limited resources.
+
+To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as brothers, or perish together as fools.  
+
+{% include sectionend.html %}
+
+<hr class="section-sep" />
+
+{% include sectionstart.html alt=1 %}
 # Public Testimony
 
 You should know who you're voting for beyond what I'm telling you here.

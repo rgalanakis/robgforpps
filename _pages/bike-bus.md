@@ -38,18 +38,18 @@ gallery-1:
     title: "Bike Buses like Abernethy show incredible latent demand for safe routes to school."
 
 gallery-3:
-  - url: "/assets/images/o/teachers.jpg"
-    image_path: "/assets/images/t/teachers.jpg"
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: "/assets/images/o/keith-wilson.jpg"
     image_path: "/assets/images/t/keith-wilson.jpg"
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: "/assets/images/o/pham.jpg"
-    image_path: "/assets/images/t/pham.jpg"
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "rob and keith wilson"
+    title: "Was thrilled to have Keith Wilson on our Bike Bus!"
+  - url: "/assets/images/o/teachers.jpg"
+    image_path: "/assets/images/t/teachers.jpg"
+    alt: "4 teachers posing on their bikes being goofy"
+    title: "Teachers coming to ride with us and support our work makes us so proud!"
+  - url: "/assets/images/o/ice-cream-bike-bus.jpg"
+    image_path: "/assets/images/t/ice-cream-bike-bus.jpg"
+    alt: "Rob with an ice cream cone helmet talking to some kids"
+    title: "My favorite rides to lead are Ice Cream Bike Buses. This one in June had almost 400 riders!"
 ---
 
 # It's not a Moment, it's a Movement
@@ -93,7 +93,7 @@ we'd see improvements across the spectrum:
 I will push hard at PPS for the following. **All of this is extremely cheap to implement**.
 We do not need to pass a bond, raise taxes, or cut staff.
 
-- Grow a bike fleet so every student can go through [Bike Safety Education](https://www.portland.gov/transportation/walking-biking-transit-safety/safe-routes/bike-safety-education) yearly. The bikes will be donated by Reborn Bikes, and grants and donations are able to pay for trailers and maintenance. Right now, PPS uses PBOT's bike fleet, which is way over-subscribed.
+- Grow a bike fleet so every student can go through [Bike Safety Education](https://www.portland.gov/transportation/walking-biking-transit-safety/safe-routes/bike-safety-education) yearly. The bikes will be donated by Reborn Bikes, and grants and donations are able to pay for trailers and maintenance. Right now, PPS uses PBOT's bike fleet, which is way over-subscribed, so schools can only have this program to 4th and 5th graders, and just once every two years.
 - Advertise bike training at every school playground, since we all see preschoolers learning to ride there. Use this to draw young families into PPS, especially neighborhood schools. Kids cannot ride their bikes to private and charter schools easily, so this is a big benefit for PPS.
 - Establish Bike Buses and Walking Buses at every PPS school as official policy. Send waivers home with all students to reduce risk and liability. Many schools will be able to staff their routes with volunteers, as they have so far. Grants are currently in use for Title I schools in North and East Portland. Eventually this should turn into a paid school function like yellow school buses.
 
