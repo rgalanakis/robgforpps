@@ -1,25 +1,15 @@
 {
-  "name": "oneflow",
+  "name": "robgforpps",
   "private": true,
   "version": "1.0",
-  "description": "OneFlow, One-Pager Websites Jekyll Theme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/perstarke-webdev/oneflow-jekyll-theme.git"
+    "url": "git://github.com/rgalanakis/robgforpss.git"
   },
-  "keywords": [
-    "jekyll",
-    "theme",
-    "one-pager"
-  ],
-  "author": "Per Starke",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/perstarke-webdev/oneflow-jekyll-theme/issues"
-  },
-  "homepage": "https://perstarke-webdev.de/",
+  "author": "Rob Galanakis",
+  "homepage": "https://www.robgforpps.com",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 22.12.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
@@ -31,5 +21,8 @@
     "add-banner": "node banner.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify && npm run add-banner"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
   }
 }
