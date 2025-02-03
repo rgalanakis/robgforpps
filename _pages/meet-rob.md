@@ -77,7 +77,7 @@ Communication is instant, but we're profoundly lonely.
 
 Our planet is burning, but we're emitting more carbon than ever.
 
-**It's easy to point figures and wonder what this has to do with PPS or public schools.**
+**It's easy to point fingers and wonder what this has to do with PPS or public schools.**
 
 **But that's like asking what your hands have to do with your feet.**
 Different roles, but part of the same body.
