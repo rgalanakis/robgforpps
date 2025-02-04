@@ -168,15 +168,15 @@ And experience says this also helps our city and society at large.
 {% include sectionstart.html %}
 # School Policy is City Policy
 
-For reasons I have not been able to track down, the City of Portland and Portland Public Schools seem to view themselves are totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing parking, the relationship is frigid at best and adversarial at worst.
+The City of Portland and Portland Public Schools view themselves are totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing streets, or anything else, the relationship is frigid at best and adversarial at worst.
 
-We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study.
+We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study. Parent groups see it frequently in issues big and small.
 
-Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! There are endless examples: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer trips (30% of trips during morning hours are to school!), that hurt city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance.
+Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! One example: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer trips (30% of trips during morning hours are to school!), that hurt city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance. The examples go on, because City and Schools are both essential parts of Portland.
 
-I pledge to work with the City to get more housing built so we can have more PPS families. To build safe streets so we have healthier and happier kids. To streamline overlaps and inefficiencies, so we can do more with limited resources.
+I pledge to work with the City to streamline overlaps and inefficiencies, so we can do more with limited resources. To build safe streets so we have healthier and happier kids. To get more housing built so we can have more PPS families.
 
-To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as brothers, or perish together as fools.  
+To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as brothers, or perish together as fools.
 
 {% include sectionend.html %}
 
@@ -196,8 +196,9 @@ Here's a list of some public testimony or comments I've given the last few years
 - Comments on the problems with the I-5 Bridge Replacement's Draft Supplemental Environmental Impact Statement (spoiler alert, the books are cooked). [{% include right-arrow.html %}](https://docs.google.com/document/d/1GUyNJXUMYQXVW1u-HxrdiGAFfZTtAqnRrMpuLNiZUjw/edit?usp=drive_link){:target="_blank"}
 - Opposing an Urban Growth Boundary expansion in Sherwood. Suburban areas receive massive subsidies from urban areas, and opening up new areas to suburban development will keep damaging our school system. [{% include right-arrow.html %}](https://docs.google.com/document/d/1fTrPpQq2iHq4O0otMXZWJtmQXjMQZ-uxOHdExO7e5vg/edit?usp=drive_link){:target="_blank"}
 - Opposing a land use exception to allow a private school to open in the heart of the most transit and amenity rich areas of the eastside, instead of using the massive parking lot for something useful. [{% include right-arrow.html %}](https://docs.google.com/document/d/15YM2swhzMnxCH9HKz2-xtUdnHlyFBIXsujZIWgWSOKI/edit?usp=drive_link){:target="_blank"}
-- Testimony to the Planning Commission to support a broad upzoning in the inner Eastside. [{% include right-arrow.html %}](https://docs.google.com/document/d/1duHLnn9CWsCusxsEhVcZguH9lyt4wYSiDCa4LtxLdxA/edit?usp=drive_link){:target="_blank"}
+- Testimony to the Planning Commission to support a broad upzoning in the inner Eastside. I grew up right next to a freeway! [{% include right-arrow.html %}](https://docs.google.com/document/d/1duHLnn9CWsCusxsEhVcZguH9lyt4wYSiDCa4LtxLdxA/edit?usp=drive_link){:target="_blank"}
 - Public comment encouraging a stricter PPS device policy than originally proposed. I was happy to see it modified. [{% include right-arrow.html %}](https://docs.google.com/document/d/1rHIywLyrQ-A9WPfFY_c8dp11VuzdiGn8OFXIHg0yq0U/edit?usp=drive_link){:target="_blank"}
+- Not testimony, but relevant: one of the more political rides I've organized was this [Strike Bus](https://bikeportland.org/2023/11/16/hundreds-roll-on-strike-bus-to-get-kids-outside-and-support-teachers-381854) during the PAT strike, which saw about 700 riders come out in support. [{% include right-arrow.html %}](https://bikeportland.org/2023/11/16/hundreds-roll-on-strike-bus-to-get-kids-outside-and-support-teachers-381854){:target="_blank"}
 
 {% include footer/buffer.html %}
 {% include sectionend.html %}
