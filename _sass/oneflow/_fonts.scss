@@ -3,5 +3,13 @@
   font-family: 'Alegreya';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/Alegreya/Alegreya-VariableFont_wght.ttf');
+  src: url('/assets/fonts/Alegreya/static/Alegreya-Regular.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/assets/fonts/Alegreya/static/Alegreya-SemiBold.ttf');
 }
