@@ -60,9 +60,9 @@ And to top it off, increased enrollment is revenue-positive for PPS. Additional 
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
 
-PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major causes of cost and delay to hardening Greenways is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
+PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
 
-**Multi-solving policy: Identify and support necessary hardening and diversion on Safe Routes along Neighborhood Greenways and around schools to support students walking and biking.**
+**Multi-solving policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.**
 
 **Multi-solving policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
 
@@ -125,9 +125,9 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 
 Both PPS and the City of Portland are in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
-This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years.
+This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years. One dollar for our kids, one dollar for the banks. For 3+ decades.
 
-This bond will strangle our ability to be flexible with funds in the future. For example, if the legislature were to allow us to spend more on the Local Option Levy and thus hire more teachers, which would be revenue neutral for the state, we would not have the ability to hire more teachers without raising tax rates.  
+This bond will strangle our ability to be flexible with funds in the future. For example, the Oregon Legislature will hopefully allow districts to raise more money with the Local Option Levy, because it is revenue-neutral for the State. This would allow PPS to hire more teachers and staff, which is our most pressing need. But this bond will tie our hands to raise those funds without raising tax rates.
 
 The fact is: PPS as a district (and Oregon as a state) is pretty average in its education budget, but performs poorly. Throwing more money at the problem would, at best, lead to very high spending and just middling performance. This isn’t a good deal for parents or taxpayers.
 
@@ -168,7 +168,7 @@ And experience says this also helps our city and society at large.
 {% include sectionstart.html %}
 # School Policy is City Policy
 
-The City of Portland and Portland Public Schools view themselves are totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing streets, or anything else, the relationship is frigid at best and adversarial at worst.
+The City of Portland and Portland Public Schools view themselves as totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing streets, or anything else, the relationship is frigid at best and adversarial at worst.
 
 We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study. Parent groups see it frequently in issues big and small.
 
