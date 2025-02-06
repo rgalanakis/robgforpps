@@ -172,11 +172,11 @@ The City of Portland and Portland Public Schools view themselves as totally inde
 
 We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study. Parent groups see it frequently in issues big and small.
 
-Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! One example: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer trips (30% of trips during morning hours are to school!), that hurt city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance. The examples go on, because City and Schools are both essential parts of Portland.
+Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! One example: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer car trips (30% of trips during morning hours are to school!), which hurts city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance. The examples go on, because City and Schools are both essential parts of Portland.
 
 I pledge to work with the City to streamline overlaps and inefficiencies, so we can do more with limited resources. To build safe streets so we have healthier and happier kids. To get more housing built so we can have more PPS families.
 
-To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as brothers, or perish together as fools.
+To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as family, or perish together as fools.
 
 {% include sectionend.html %}
 
