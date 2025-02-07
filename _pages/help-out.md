@@ -3,7 +3,7 @@ title: "Bold Solutions for Thriving Kids"
 layout: page
 permalink: /help-out
 header:
-    overlay_image: /assets/images/o/bikebus-wave.jpg
+    overlay_image: /assets/images/o/rob-arrow-wide.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Join the Campaign"
 ---

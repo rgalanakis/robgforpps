@@ -4,7 +4,7 @@ layout: page
 permalink: /bike-bus
 
 header:
-    overlay_image: /assets/images/o/alameda-bike-bus.jpg
+    overlay_image: /assets/images/o/bikebus-wave.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
 excerpt: "Rob G for PPS School Board, Zone 6"
