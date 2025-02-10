@@ -49,7 +49,7 @@ Donations will go to:
 - Expertise that should be compensated, when necessary.
 - Paying for experiences of collective joy, like kid-focused bike rides and Walk+Roll activities.
 
-*Donation link coming soon, the week of Feb 3rd*
+[Donate on Act Blue {% include right-arrow.html class="ml-2" %}](https://secure.actblue.com/donate/robgforpps){:class="mt-2 mb-0 btn btn--x-large btn--primary"}
 
 {% include sectionend.html %}
 
@@ -58,11 +58,10 @@ Donations will go to:
 {% include sectionstart.html alt=1 %}
 # Endorse
 
-Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it below.
+Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it on this page starting in late February.
 
 {% comment %}{% include /editables/endorsements.html %}{% endcomment %}
 
-Photos used with permission, including from [bikeportland.org](https://bikeportland.org){:target="_blank"}.
 Please email [robg.pdx@gmail.com](mailto:robg.pdx@gmail.com) with any questions.
 
 {% include footer/buffer.html %}

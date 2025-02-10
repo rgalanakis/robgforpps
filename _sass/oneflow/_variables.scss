@@ -1,10 +1,4 @@
-/* ==========================================================================
-   Variables
-   ========================================================================== */
-
-/*
-   Typography
-   ========================================================================== */
+/* Typography ========================================================================== */
 
 $doc-font-size: 16 !default;
 
@@ -53,9 +47,7 @@ $h-size-4: 1.0625 * $font-base-size !default; // ~17px
 $h-size-5: 1.03125 * $font-base-size !default; // ~16.5px
 $h-size-6: 1 * $font-base-size !default; // ~16px
 
-/*
-   Colors
-   ========================================================================== */
+/* Colors ========================================================================== */
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 50%) !default;
@@ -116,9 +108,26 @@ $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
-/*
-   Breakpoints
-   ========================================================================== */
+/* Spacing ========================================================================== */
+
+$spacing: 0.25em !default;
+
+$spacing-1: 1 * $spacing !default;
+$spacing-2: 2 * $spacing !default;
+$spacing-3: 4 * $spacing !default;
+$spacing-4: 6 * $spacing !default;
+$spacing-5: 8 * $spacing !default;
+
+$spacing-map: (
+        0: 0,
+        1: $spacing-1,
+        2: $spacing-2,
+        3: $spacing-3,
+        4: $spacing-4,
+        5: $spacing-5,
+);
+
+/* Breakpoints ========================================================================== */
 
 $small: 600px !default;
 $medium: 768px !default;
@@ -128,10 +137,14 @@ $x-large: 1280px !default;
 $max-width: $x-large !default;
 
 
-/*
-   Other
-   ========================================================================== */
+/* Other ========================================================================== */
 
+$direction-map: (
+        t: 'top',
+        r: 'right',
+        b: 'bottom',
+        l: 'left',
+);
 $border-radius: 4px !default;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
 $nav-height: 2em !default;
