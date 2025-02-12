@@ -58,11 +58,7 @@ Donations will go to:
 {% include sectionstart.html alt=1 %}
 # Endorse
 
-Have I earned your vote? [Submit your endorsement](https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing) and we'll list it on this page starting in late February.
-
-{% comment %}{% include /editables/endorsements.html %}{% endcomment %}
-
-Please email [robg.pdx@gmail.com](mailto:robg.pdx@gmail.com) with any questions.
+{% include /editables/endorsements.html %}
 
 {% include footer/buffer.html %}
 {% include sectionend.html %}

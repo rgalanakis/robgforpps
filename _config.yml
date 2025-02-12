@@ -39,29 +39,23 @@ footer:
       url: "https://robgforpps.com"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:hello@robgforpps.com"
+      url: "mailto:robg.pdx@gmail.com"
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/robgalanakis.bsky.social"
   copyright: "Rob G for PPS"
 
 endorsements:
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
-  - name: Something Here
-    image-url: "/assets/images/header.webp"
+  - name: Sam Balto
+    title: Nationally Recognized Safe Routes to School Advocate
+  - name: Chris Smith
+    title: Freeway-fighting Champion
+  - name: Catie Tam
+    title: Woodstock School Bike Bus
+  - name: Tony Jordan
+    title: President, Parking Reform Network
+  - name: RJ Sheperd
+    title: Safe Streets Advocate
 
 
 # Reading Files

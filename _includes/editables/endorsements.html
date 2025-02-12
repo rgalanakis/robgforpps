@@ -1,10 +1,23 @@
-<div class="box-container">
+<p>
+    Have I earned your vote? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfImNCNLS2rpueNEsSXdemyCdngafv7iF7UsTwZLhDl7iMKuw/viewform?usp=sharing">Submit your endorsement</a> and we'll list it on this page.
+    Please email <a href="mailto:robg.pdx@gmail.com">robg.pdx@gmail.com</a> with any questions.
+</p>
+
+{% if site.endorsements_photos %}<div class="box-container">
     {% for e in site.endorsements %}
     <div class="round-image-box round-image-box-third">
         <div class="round-image">
             <img src="{{ e.image-url }}">
         </div>
         <h3>{{ e.name }}</h3>
+    </div>
+    {% endfor %}
+</div>{% endif %}
+<div class="box-container">
+    {% for e in site.endorsements %}
+    <div class="box-third text-center">
+        <h3>{{ e.name }}</h3>
+        <div>{{ e.title }}</div>
     </div>
     {% endfor %}
 </div>
