@@ -5,7 +5,7 @@ search: false
 
 @charset "utf-8";
 
-@import "oneflow/skins/{{ site.oneflow-skin | default: 'default' }}"; // skin
+@import "oneflow/skins/robg"; // skin
 @import "oneflow"; // main partials
 
 @import "all.min.css"; // fontawesome
