@@ -1,10 +1,16 @@
 <div class="page__footer-follow">
-  <div>Connect with Rob: {% include email.html %}</div>
-  <div class="mt-3">
-    <a
-        class="btn btn--secondary"
-        href="https://secure.actblue.com/donate/robgforpps">Donate on Act Blue {% include right-arrow.html class="ml-2" %}</a>
+  {% include newsletter.html %}
+
+  {% include icon-divider.html class="color-primary mt-4 mb-4" %}
+
+  <div class="page__footer-donate">
+    <div class="mb-4">Throw in a few dollars to help Portland make the best damn school district in the nation.</div>
+    {% include donate-links.html variant="secondary" %}
   </div>
+
+  {% include icon-divider.html class="color-primary mt-4 mb-4" %}
+
+  <div>Connect with Rob: {% include email.html %}</div>
   <ul class="socials">
     <li></li>
     {% for link in site.footer.links %}

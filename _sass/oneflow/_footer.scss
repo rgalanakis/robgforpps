@@ -123,3 +123,19 @@
 .footer-buffer {
   margin-bottom: 90px;
 }
+
+.page__footer-donate {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter-container {
+
+}
+
+.newsletter-iframe {
+  height: 60px;
+  overflow: hidden;
+}

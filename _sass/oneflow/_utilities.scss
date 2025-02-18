@@ -320,3 +320,10 @@ body:hover .visually-hidden button {
     .p#{$short}-#{$idx} { padding-#{$long}: $sp; }
   }
 }
+
+.color-primary {
+  color: $primary-color;
+}
+.color-secondary {
+  color: $secondary-color;
+}

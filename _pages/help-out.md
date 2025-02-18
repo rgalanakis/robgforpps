@@ -40,16 +40,9 @@ or just offering your opinion, email {% include email.html %}.
 {% include sectionstart.html %}
 # Donate
 
-**I will not spend any money on large tech platforms.** They are hurting society and if democracy is to survive,
-we need to find better ways to spend hard-earned dollars.
+Great cities need great schools. Throw in a few dollars to help make Portland the best damn school district in the nation.
 
-Donations will go to:
-
-- Physical expenses, like yard signs, tshirts, stickers, etc.
-- Expertise that should be compensated, when necessary.
-- Paying for experiences of collective joy, like kid-focused bike rides and Walk+Roll activities.
-
-[Donate on Act Blue {% include right-arrow.html class="ml-2" %}](https://secure.actblue.com/donate/robgforpps){:class="mt-2 mb-0 btn btn--x-large btn--primary"}
+{% include donate-links.html size="large" variant="primary" %}
 
 {% include sectionend.html %}
 

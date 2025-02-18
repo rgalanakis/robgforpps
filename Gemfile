@@ -11,6 +11,7 @@ gem 'jemoji'
 group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.1"
   gem "jekyll-paginate"
+  gem 'jekyll-redirect-from'
   gem "jekyll-sitemap"
   gem 'jekyll-tagging'
 end

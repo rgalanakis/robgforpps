@@ -1,0 +1,21 @@
+.donation-links {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-2;
+}
+
+.donation-link-row {
+  display: flex;
+  flex-direction: row;
+  gap: $spacing-2;
+}
+
+.donation-link {
+  width: 80px;
+}
+
+@media (min-width: 512px) {
+  .donation-link {
+    width: 150px;
+  }
+}
