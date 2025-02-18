@@ -132,10 +132,30 @@
 }
 
 .newsletter-container {
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .newsletter-iframe {
+  /* At mobile/tablet widths, use the full screen width */
   height: 60px;
   overflow: hidden;
+  width: calc(100vw - 60px);
+}
+
+@media (max-width: 384px) {
+  /* At short widths, use a stacked button height */
+  .newsletter-iframe {
+    height: 104px;
+  }
+}
+
+@media (min-width: 768px) {
+  /* At larger widths, the element must have an explicit size set to the imported form value,
+  without it we can't center the element */
+  .newsletter-iframe {
+    height: 70px;
+    width: 520px;
+  }
 }
