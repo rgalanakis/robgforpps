@@ -46,9 +46,14 @@ More of these apartments could be located away from dangerous, unhealthy arteria
 Increasing housing supply would also offset PPS’s enrollment decline. PPS's projected enrollment declines are _by far_ larger than our neighbors (most of which will grow),
 and the biggest factor in outmigration is _by far_ the cost of housing. New families are leaving because they cannot afford to live in our city.
 
-And to top it off, increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
+On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted selling them.
+There's no reason we should be holding onto these properties. Their sale can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment). 
+
+It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
 
 **Multi-solving policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.**
+
+**Multi-solving policy: Sell unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.**
 
 {% include sectionend.html %}
 
@@ -63,6 +68,8 @@ Did you know that 30% of car trips during Portland’s rush hour are trips to an
 PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
 
 **Multi-solving policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.**
+
+**Multi-solving policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.**
 
 **Multi-solving policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
 
@@ -88,7 +95,7 @@ Additionally, PBOT SRTS has a Bike Training program that is nowhere near big eno
 
 Studies show this additional exercise could lead to a significant increase in test scores and attendance. And it would be basically free for PPS.
 
-**Multi-solving policy: Treat increased physical activity to and from school as an educational intervention.**
+**Multi-solving policy: Treat increased physical activity to and from school as the powerful educational intervention it is, and support it as such.**
 
 **Multi-solving policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.**
 
@@ -112,9 +119,9 @@ For example, urban households have 1/4 of the GHG emissions of suburban househol
 
 Similarly, the plan is silent on home-to-school transportation, even though these car trips have an emissions impact on par with all PPS transportation emissions. By replacing car trips with walking, biking, or the bus, PPS can reduce the emissions it is responsible for. Money spent on replacing vehicles may be better spent on getting families walking and biking.
 
-**Multi-solving policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan.**
+**Multi-solving policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan to provide a more holistic view of PPS emissions reductions or increases.**
 
-**Multi-solving policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan.**
+**Multi-solving policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.**
 
 {% include sectionend.html %}
 
@@ -125,7 +132,7 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 
 Both PPS and the City of Portland are in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
-This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years. One dollar for our kids, one dollar for the banks. For 3+ decades.
+This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years. **One dollar for our kids, one dollar for the banks.** For 3+ decades.
 
 This bond will strangle our ability to be flexible with funds in the future. For example, the Oregon Legislature will hopefully allow districts to raise more money with the Local Option Levy, because it is revenue-neutral for the State. This would allow PPS to hire more teachers and staff, which is our most pressing need. But this bond will tie our hands to raise those funds without raising tax rates.
 
@@ -134,6 +141,8 @@ The fact is: PPS as a district (and Oregon as a state) is pretty average in its 
 Until we can dig in and understand if and how more education spending will improve outcomes, we should be very wary of raising taxes or locking in future spending. 
 
 **Multi-solving policy: Reduce administrative spending to historical levels, below the current bloated average at peer districts.**
+
+**Multi-solving policy: Advocate at the state level to increase the Local Option Levy match limit for the State School Funding formula, allowing districts to raise more funds to pay for staff.**
 
 **Multi-solving policy: Do not propose or pass bonds where almost 50% of the revenue is going to interest.**
 
@@ -188,6 +197,7 @@ To support each other in our work, instead of antagonize. Portland the City and 
 You should know who you're voting for beyond what I'm telling you here.
 Here's a list of some public testimony or comments I've given the last few years:
 
+- Invited testimony to the Transportation and Infrastructure committee, asking for a Resolution for a 'Bike Bus Friendly Neighborhood Greenway Pilot.' [{% include right-arrow.html %}](https://docs.google.com/document/d/1xmh3FrrbbJzlRNv29adMBAO1B3xZiC7ZSW8XfMYNp4Y/edit?pli=1&tab=t.0){:target="_blank"}
 - Public comment opposing the 2025 Capital Bond. We shouldn't be stealing from the future and giving banks nearly half of all taxes raised. [{% include right-arrow.html %}](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?usp=drive_link){:target="_blank"}
 - Testimony to City Council about visiting an alternative Portland in 2030 where they invested in active, sustainable transportation. [{% include right-arrow.html %}](https://docs.google.com/document/d/16vmTisha5Qxii1P_8gV2WRfYnh4UG-mA3Y9w0Wm4Bvs/edit?usp=drive_link){:target="_blank"}
 - Public comment to the PPS Climate Crisis Response Committee asking them to include family transportation emissions in their emissions calculations. [{% include right-arrow.html %}](https://docs.google.com/document/d/1i9JGpY_FpMs94XGsyfXiNldluhtHLw1XPtn7f8-1uCo/edit?usp=drive_link){:target="_blank"}
