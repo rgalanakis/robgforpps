@@ -44,6 +44,8 @@ footer:
   copyright: "Rob G for PPS"
 
 endorsements:
+  - name: Mitch Green
+    title: Portland City Councilor, District 4
   - name: Sam Balto
     title: Nationally Recognized Safe Routes to School Advocate
   - name: Chris Smith
@@ -72,10 +74,14 @@ endorsements:
     title: PPS parent x3, Strong Towns PDX Co-Lead
   - name: Melissa Kostelecky
     title: Woodstock Parent, PSU Grad Student
-  - name: Michael Andersen
-    title: Cities + Towns Director, Sightline Institute
+  - name: Kiel Johnson
+    title: Owner and Founder, Go By Bike
   - name: Eva Frazier
     title: Former co-owner, Clever Cycles
+  - name: Michael Andersen
+    title: Cities + Towns Director, Sightline Institute
+  - name: Cathy Tuttle
+    title: PhD, City Planner
 
 # Reading Files
 include:
