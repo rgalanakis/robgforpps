@@ -82,9 +82,11 @@ Our planet is burning, but we're emitting more carbon than ever.
 **But that's like asking what your hands have to do with your feet.**
 Different roles, but part of the same body.
 
-We can't sit by and try to solve things one at a time. **Solving these problems is a job for every public entity.**
-
+We can't sit by and try to solve things one at a time.
 It's time to pursue bold and creative solutions at PPS.
-Our kids, our city, our world, cannot wait.
+
+We only have one planet, one school district, one Portland.
+
+We have to act like **One City.**
 
 {% include footer/buffer.html %}

@@ -1,7 +1,7 @@
 ---
-title: "Policy Matters"
+title: "One City"
 layout: page
-permalink: /policy
+permalink: /one-city
 header:
     overlay_image: /assets/images/o/day-remembrence-1.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
@@ -10,16 +10,18 @@ excerpt: "School Policy is more than Education Policy"
 ---
 
 {% include sectionstart.html alt=1 first=1 %}
-# Policy Matters
+# One City Policies
 
-Schools play a central role in our society, yet PPS treats schools like a vacuum.
+Schools play a central role in our society. We cannot treat them like a vacuum.
 The problems facing PPS, the City of Portland, and urban America in general, are all connected.
 
 **School Policy is more than Education Policy**
 
-We cannot solve problems in a disconnected way, one at a time. We need solutions that **solve multiple problems at once**.
+We cannot solve problems in a disconnected way, one at a time.
 
-Credit where it is due: [PPS’s agreement to sell its headquarters to the Albina Vision Trust](https://www.opb.org/article/2024/02/21/portland-public-schools-board-moves-ahead-plans-relocate-district-headquarters/) is a great example of multi-solving.
+We need **One City Policies** that **solve multiple problems at once**.
+
+Credit where it is due: [PPS’s agreement to sell its headquarters to the Albina Vision Trust](https://www.opb.org/article/2024/02/21/portland-public-schools-board-moves-ahead-plans-relocate-district-headquarters/) is a great example of a One City Solution.
 This will allow development of 1,000 new housing units, work to right generational wrongs of displacement, and, if relocated to downtown, help the central city’s recovery by using office space and adding workers. And it won’t cost PPS any extra.
 
 {% include sectionend.html %}
@@ -28,14 +30,14 @@ This will allow development of 1,000 new housing units, work to right generation
 
 {% include sectionstart.html %}
 <a id="housing"></a>
-# School Policy is Housing Policy
+# One City Housing Policy
 
 The performance of students of color compared to their white counterparts is a persistent issue.
 PPS has been trying, and must continue trying, to improve outcomes through education policy.
 But we also need to look at simpler, broader solutions that PPS needs to be a partner in.
 
 We need to give families unhappy with their current school other options within PPS.
-But we know doing this through charters, lotteries, and bussing often results in _worse_ outcomes overall.
+But we know doing this through charters, lotteries, longer commutes, and bussing often results in _worse_ outcomes overall.
 
 So one solution is to increase the supply of housing around higher-performing schools, to allow families more places to move within Portland.
 
@@ -46,14 +48,14 @@ More of these apartments could be located away from dangerous, unhealthy arteria
 Increasing housing supply would also offset PPS’s enrollment decline. PPS's projected enrollment declines are _by far_ larger than our neighbors (most of which will grow),
 and the biggest factor in outmigration is _by far_ the cost of housing. New families are leaving because they cannot afford to live in our city.
 
+**One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.**
+
 On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted selling them.
 There's no reason we should be holding onto these properties. Their sale can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment). 
 
+**One City Policy: Sell unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.**
+
 It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
-
-**Multi-solving policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.**
-
-**Multi-solving policy: Sell unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.**
 
 {% include sectionend.html %}
 
@@ -61,17 +63,26 @@ It gets better: increased enrollment is revenue-positive for PPS. Additional stu
 
 {% include sectionstart.html alt=1 %}
 <a id="transportation"></a>
-# School Policy is Transportation Policy
+# One City Transportation Policy
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
 
 PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
 
-**Multi-solving policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.**
+**One City Policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.**
 
-**Multi-solving policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.**
+Interventions like Walking School Buses and Bike Buses are proven ways to improve attendence.
+It is the most cost-effective, equitable way to reach many at-risk children.
 
-**Multi-solving policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
+These interventions continue to reinforce the need for a safe street network.
+
+**One City Policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.**
+
+Transportation is the largest contributor to emissions in Oregon, and it has almost no reduction over 1990 levels, largely because we are driving more.
+We need schools to be on the hook for carbon emissions reduction, not just in things like building design and electrification,
+but through encouraging more sustainable behaviors.
+
+**One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
 
 {% include sectionend.html %}
 
@@ -79,7 +90,7 @@ PPS should be using its role as the region’s largest car-trip-generator to sup
 
 {% include sectionstart.html %}
 <a id="health"></a>
-# School Policy is Health Policy
+# One City Health Policy
 
 As animals, we have brains in order to move. In fact, there are animals like the Sea Squirt that lose their brain when they stop moving.
 
@@ -91,13 +102,13 @@ But students often spend 20-60 minutes each day getting driven to school. Time w
 
 PPS must explicitly encourage families and students to get to school by walking and biking, well beyond window dressing. They should work with [Bike Bus PDX](https://bikebuspdx.org) on creating daily Bike Bus routes at _every_ PPS school, and a system that would allow children to attend without an adult, like the yellow school bus works.
 
-Additionally, PBOT SRTS has a Bike Training program that is nowhere near big enough to support PPS. These classes, done during gym for 3 weeks, are popular with students and give them the tools they need for independence and getting to school. PPS could provide bike training at all schools each year for low cost, likely covered through grant funding, but it needs to look at transportation more broadly.
+**One City Policy: Treat increased physical activity to and from school as the powerful educational intervention it is, and support it as such.**
 
-Studies show this additional exercise could lead to a significant increase in test scores and attendance. And it would be basically free for PPS.
+PBOT has a Bike Training program that is nowhere near big enough to support PPS. These classes, done during gym for 3 weeks, are popular with students and give them the tools they need for independence and getting to school. PPS could provide bike training at all schools each year for low cost, much of it covered through grant funding.
 
-**Multi-solving policy: Treat increased physical activity to and from school as the powerful educational intervention it is, and support it as such.**
+Studies show this additional exercise could lead to a significant increase in test scores and attendance. It would also improve how kids get around the city, and help re-establish Portland's cultural capital. And it would be basically free for PPS.
 
-**Multi-solving policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.**
+**One City Policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.**
 
 {% include sectionend.html %}
 
@@ -105,9 +116,9 @@ Studies show this additional exercise could lead to a significant increase in te
 
 {% include sectionstart.html alt=1 %}
 <a id="climate"></a>
-# School Policy is Climate Policy
+# One City Climate Policy
 
-Today’s students are wrestling with a high likelihood of 2C warming by 2050, and the ensuing destruction and instability it will cause.
+Today’s students are wrestling with a high likelihood of 2°C warming by 2050, and the ensuing destruction and instability it will cause.
 
 School is one of the most important institutions in the lives of families, and PPS needs to do more to fight this existential threat.
 
@@ -117,41 +128,63 @@ Instead, PPS’s climate response plan should look at the bigger picture around 
 
 For example, urban households have 1/4 of the GHG emissions of suburban households. By increasing enrollment, PPS would have a large emissions reduction impact. Money spent on certain direct GHG reductions may be better spent on enrollment increases.
 
+**One City Policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan to provide a more holistic view of PPS emissions reductions or increases.**
+
 Similarly, the plan is silent on home-to-school transportation, even though these car trips have an emissions impact on par with all PPS transportation emissions. By replacing car trips with walking, biking, or the bus, PPS can reduce the emissions it is responsible for. Money spent on replacing vehicles may be better spent on getting families walking and biking.
 
-**Multi-solving policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan to provide a more holistic view of PPS emissions reductions or increases.**
-
-**Multi-solving policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.**
+**One City Policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.**
 
 {% include sectionend.html %}
 
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
-# School Policy is Fiscal Policy
+# One City Fiscal Policy
 
-Both PPS and the City of Portland are in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
+PPS, like pretty much every public entity in the United States, is in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
-This fiscal irresponsibility is in play right now with the $1.8B 2025 PPS Capital Bond. To raise $1.8B, we actually have to raise $3.5B in taxes, and **pay $1.7B of that to banks** as interest. This bond will last 32 years. **One dollar for our kids, one dollar for the banks.** For 3+ decades.
+It's vital we see these problems for what they are: **these are not revenue problems, they are structural problems.**
 
-This bond will strangle our ability to be flexible with funds in the future. For example, the Oregon Legislature will hopefully allow districts to raise more money with the Local Option Levy, because it is revenue-neutral for the State. This would allow PPS to hire more teachers and staff, which is our most pressing need. But this bond will tie our hands to raise those funds without raising tax rates.
+There is more bad news: our structural tax problems are getting worse [due to our old fire/police pension system](https://www.wweek.com/news/2023/10/25/financial-analyst-new-to-portland-lobbies-against-costly-antiquated-pension-system/).
 
-The fact is: PPS as a district (and Oregon as a state) is pretty average in its education budget, but performs poorly. Throwing more money at the problem would, at best, lead to very high spending and just middling performance. This isn’t a good deal for parents or taxpayers.
+Then there are issues with Measure 5 and Measure 50, which cap property taxes.
 
-Until we can dig in and understand if and how more education spending will improve outcomes, we should be very wary of raising taxes or locking in future spending. 
+This doesn't leave us with too many options.
 
-**Multi-solving policy: Reduce administrative spending to historical levels, below the current bloated average at peer districts.**
+The fact is: PPS as a district (and Oregon as a state) is pretty average in its education budget, but performs poorly. Throwing more money at the problem would most likely lead to very high spending and just middling performance. This isn’t a good deal for parents or taxpayers.
 
-**Multi-solving policy: Advocate at the state level to increase the Local Option Levy match limit for the State School Funding formula, allowing districts to raise more funds to pay for staff.**
+Until we can dig in and understand if and how more education spending will improve outcomes, we should be very wary of raising taxes or locking in future spending.
 
-**Multi-solving policy: Do not propose or pass bonds where almost 50% of the revenue is going to interest.**
+
+Full funding also isn't really on the table, given competing State budget priorities.
+
+We need to be smarter about the stories we tell and what we're advocating for, because we're clearly losing.
+
+For example, in 2023, the Oregon Department of Transportation (ODOT) committed $1 billion of General Fund revenue to expand the I-5 Bridge. This money could have been used for schools. ODOT is now convincing the legislature that it needs even more money for operations and maintenance and to finish boondogle megaprojects.
+
+One of those megaprojects is a freeway expansion that requires [moving the Harriet Tubman Middle School](https://www.wweek.com/news/schools/2025/01/28/pps-says-its-paused-harriet-tubman-middle-school-relocation/).
+It is increasingly likely that this project will require General Fund dollars or increase driver fees, and that the freeway caps, which was the entire basis of the community buy-in, are not going to be built.
+
+On top of this, the main point of moving more cars along I-5 is to shuttle Washington residents into and out of Portland,
+making it even easier for Portlanders to live in Clark County, exploiting our amenities while not paying a dime.
+
+**One City Policy: Loudly oppose freeway expansions and large capital projects that inevitably will be paid at the cost of our kids.**
+
+
+
+
+**One City Policy: Reduce administrative spending to historical levels, below the current bloated average at peer districts.**
+
+**One City Policy: Advocate at the state level to increase the Local Option Levy match limit for the State School Funding formula, allowing districts to raise more funds to pay for staff.**
+
+**One City Policy: Do not propose or pass bonds where almost 50% of the revenue is going to interest.**
 
 {% include sectionend.html %}
 
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
-# School Policy is Civic Policy
+# One City Civic Policy
 
 The trope of angry parents yelling at the School Board or principal is only a trope if you've never been hurt by a decision, and left with no transparency, accountability, or course for reconsideration.
 
@@ -166,16 +199,16 @@ By recommitting to include parents in designing and implementing solutions,
 we give them a reason to engage, rather than tune out. We know this will help our students.
 And experience says this also helps our city and society at large.
 
-**Multi-solving policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.**
+**One City Policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.**
 
-**Multi-solving policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.**
+**One City Policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.**
 
 {% include sectionend.html %}
 
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
-# School Policy is City Policy
+# One City
 
 The City of Portland and Portland Public Schools view themselves as totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing streets, or anything else, the relationship is frigid at best and adversarial at worst.
 
@@ -198,7 +231,7 @@ You should know who you're voting for beyond what I'm telling you here.
 Here's a list of some public testimony or comments I've given the last few years:
 
 - Invited testimony to the Transportation and Infrastructure committee, asking for a Resolution for a 'Bike Bus Friendly Neighborhood Greenway Pilot.' [{% include right-arrow.html %}](https://docs.google.com/document/d/1xmh3FrrbbJzlRNv29adMBAO1B3xZiC7ZSW8XfMYNp4Y/edit?pli=1&tab=t.0){:target="_blank"}
-- Public comment opposing the 2025 Capital Bond. We shouldn't be stealing from the future and giving banks nearly half of all taxes raised. [{% include right-arrow.html %}](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?usp=drive_link){:target="_blank"}
+- Public comment opposing the 2025 Capital Bond. (Note: I am now a Yes on the bond, [as explained here](/may-2025-bond)) [{% include right-arrow.html %}](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?usp=drive_link){:target="_blank"}
 - Testimony to City Council about visiting an alternative Portland in 2030 where they invested in active, sustainable transportation. [{% include right-arrow.html %}](https://docs.google.com/document/d/16vmTisha5Qxii1P_8gV2WRfYnh4UG-mA3Y9w0Wm4Bvs/edit?usp=drive_link){:target="_blank"}
 - Public comment to the PPS Climate Crisis Response Committee asking them to include family transportation emissions in their emissions calculations. [{% include right-arrow.html %}](https://docs.google.com/document/d/1i9JGpY_FpMs94XGsyfXiNldluhtHLw1XPtn7f8-1uCo/edit?usp=drive_link){:target="_blank"}
 - Public comment to PPS about their Safe Routes and School Streets program, which is a typical example of PPS dysfunction where one group isn't talking to another. [{% include right-arrow.html %}](https://docs.google.com/document/d/1v8im_kTA-axnH39C7QmP5TGIPt4dOV8lUNYO4UMRmR0/edit?usp=drive_link){:target="_blank"}
