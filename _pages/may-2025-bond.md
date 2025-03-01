@@ -20,7 +20,7 @@ Eventually I came around to a **strong Yes vote**. Here I'll explain why.
 
 ## My background
 
-I am not a financal professional, but I've been doing finance-adjacent work for a long time,
+I am not a financial professional, but I've been doing finance-adjacent work for a long time,
 including building technology platforms processing billions of dollars a year.
 
 I'm definitely a policy wonk and can keep up with technical jargon pretty well.
@@ -29,7 +29,7 @@ as part of forming my opinion of this upcoming bond.
 
 I have a deep interest in municipal finance, especially as a member of [Strong Towns PDX](https://www.strongtownspdx.org/).
 Many of us are finance nerds. Our default position is that public entities spend way too much on "unprofitable" programs
-which do not increase the total wealth of the community. Suburban sprawl, which almost never ends up bring in enough tax money
+which do not increase the total wealth of the community. Suburban sprawl, which almost never ends up bringing in enough tax money
 to pay for the public expenses involved, is the common example. This approach ultimately impoverishes the entire community
 and isn't healthy for anyone.
 
@@ -51,7 +51,7 @@ A bond is a loan, sort of like a mortgage. Bondholders (banks) give PPS *princip
 
 But what we vote on is an *authorization* for PPS to borrow a certain amount of money (that $1.8 billion) over a given amount of time (32 years).
 This comes in the form of multiple loans (*offerings*) that PPS sells to bondholders every few years.
-So it's like PPS can buy a number of small mortgages, totalling $1.8 billion, over 32 years.
+So it's like PPS can buy a number of small mortgages, totaling $1.8 billion, over 32 years.
 Notably, each offering has its own interest rate, so we may want to make bigger offerings when rates are low.
 
 We also vote on a *tax levy* to raise revenue to pay back the bond. In this case, because we have other bonds we've almost paid back,
@@ -67,19 +67,19 @@ I'm going to start with the smaller stuff and end with the difficult ones, like 
 Note that these amounts are from various PPS Board Meeting presentations,
 and may not be the final amounts, but are roughly correct.
 
-### Cirriculum ($56m)
+### Curriculum ($56m)
 
 Why are we funding non-capital projects from a capital bond?
 
-Because we can, and don't have another source. This is (from what I'm told) a one-time expense to get us up-to-date on cirriculum needs.
-PPS had no standardized cirriculum for years, but we've fixed that, and this finishes that off and provides ongoing support.
+Because we can, and don't have another source. This is (from what I'm told) a one-time expense to get us up-to-date on curriculum needs.
+PPS had no standardized curriculum for years, but we've fixed that, and this finishes that off and provides ongoing support.
 
-Future cirriculum updates need to be included in normal operations budget.
+Future curriculum updates need to be included in normal operations budget.
 Financing them through the bond means we're paying interest.
 
 ### Technology Updates ($176m)
 
-Even though the bond covers 32 years, this spending only covers 8. As with cirriculum spending,
+Even though the bond covers 32 years, this spending only covers 8. As with curriculum spending,
 we need to get this out of capital spending and back into the normal budget.
 
 However, given the historic cuts we're going to have to make, the question is: should we cut more teachers
@@ -263,7 +263,7 @@ especially in the areas of projected growth (like Jefferson). It's a good bet to
 The causes for such a big bond are to get our high school modernizations done with.
 Just doing those, and nothing else, will be $1B at least.
 
-But as explained earlier, we do need to do some more things, especially deferred maintenance and technology and cirriculum upgrades.
+But as explained earlier, we do need to do some more things, especially deferred maintenance and technology and curriculum upgrades.
 
 So the only way to have a smaller bond is to defer one or two high school modernizations for 8 years,
 until we're ready to pass another bond.
