@@ -15,7 +15,7 @@ url: "https://robgforpps.com" # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. "/blog"
 repository: "rgalanakis/robgforpps" # GitHub username/repo-name
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/logo.png" # Site logo displayed in the masthead
+logo: "/assets/images/logo/png/logo-rgb-stacked1-yellow-bg.png" # Site logo displayed in the masthead
 show-popup: false # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
 # Edit the popup itself in the respective /includes file
 masthead_title: " "  # Overrides the website title displayed in the masthead, use " " for no title
@@ -23,9 +23,6 @@ sticky-masthead: true # if true, masthead/navigation bar will stay visible when 
 # if false, it will move out of sight when scrolling.
 masthead-opacity: 1 # set to any value between 0 and 1.
 # 0.8-0.9 is a good recommended starting point. Only relevant if masthead is sticky.
-background-image: # '/assets/images/header.webp' # Remove / out-comment, if you don't want a background image
-background-image-mobile: # '/assets/images/header.webp' # If you want a different (e.g upright) background image for mobile
-background-image-overlay: rgba(255, 255, 255, 0.5) # Set overlay for the background image
 
 
 
@@ -42,46 +39,6 @@ footer:
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/robgalanakis.bsky.social"
   copyright: "Rob G for PPS"
-
-endorsements:
-  - name: Mitch Green
-    title: Portland City Councilor, District 4
-  - name: Sam Balto
-    title: Nationally Recognized Safe Routes to School Advocate
-  - name: Chris Smith
-    title: Former Portland Planning Commissioner
-  - name: Alan Hipólito
-    title: Digital Justice Advocate
-  - name: Momoko Saunders
-    title: COO at Bike Farm
-  - name: Shawne Martinez
-    title: Award-winning Safe Streets Advocate
-  - name: Tony Jordan
-    title: President, Parking Reform Network
-  - name: Viv Jeevan
-    title: Bicycle Traffic Instructor
-  - name: Catie Tam
-    title: Woodstock School Bike Bus
-  - name: Jessica Fletcher
-    title: James John Bike Bus
-  - name: Emily Essley
-    title: Creston Bike Bus
-  - name: Tamara & Dean Taylor
-    title: Preschool Teacher, ER Doctor
-  - name: RJ Sheperd
-    title: Safe Streets Advocate
-  - name: Allan Rudwick
-    title: PPS parent x3, Strong Towns PDX Co-Lead
-  - name: Melissa Kostelecky
-    title: Woodstock Parent, PSU Grad Student
-  - name: Kiel Johnson
-    title: Owner and Founder, Go By Bike
-  - name: Eva Frazier
-    title: Former co-owner, Clever Cycles
-  - name: Michael Andersen
-    title: Cities + Towns Director, Sightline Institute
-  - name: Cathy Tuttle
-    title: PhD, City Planner
 
 # Reading Files
 include:

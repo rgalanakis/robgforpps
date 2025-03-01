@@ -4,18 +4,17 @@
  */
 
 const sharp = require("sharp");
-const fs = require("fs");
+const glob = require("glob");
 const path = require("path");
 
 const inputFolder = `${process.env.PWD}/assets/images/full`;
 const outputFolder = `${process.env.PWD}/assets/images`;
 
 const main = async () => {
-  const paths = fs.readdirSync(inputFolder);
+  const paths = glob.globSync(`${inputFolder}/**/*`, {nodir: true})
   const promises = [];
-  paths.forEach((f) => {
-    const p = path.join(inputFolder, f);
-    const basename = path.basename(p);
+  paths.forEach((p) => {
+    const basename = p.slice(inputFolder.length);
     const [extless] = basename.split(".");
     const width = 1280*2;
     const thumbWidth = 450*2;

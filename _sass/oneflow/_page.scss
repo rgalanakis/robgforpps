@@ -71,10 +71,43 @@ body {
   }
 }
 
+.page__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 0;
+  @include breakpoint($medium) {
+    margin-bottom: 2em;
+  }
+}
+
+.page__title-image {
+  margin-bottom: 2em;
+}
+
+.page__title-image-small {
+  width: calc(100vw - 40px);
+  max-width: 500px;
+  @include breakpoint($medium) {
+    display: none;
+  }
+}
+
+.page__title-image-medium {
+  width: calc(100vw - 120px);
+  max-width: $medium-wide;
+  display: none;
+  @include breakpoint($medium) {
+    display: block
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-3;
+  font-size: $type-size-2;
   text-align: center;
+  margin-bottom: 0;
 }
 
 .page__content {
@@ -170,27 +203,25 @@ body {
 }
 
 .page__hero {
-
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
+  min-height: 50vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
 
   &--overlay {
-    position: relative;
-    margin-bottom: 2em;
     padding: 3em 0;
-    @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -224,6 +255,12 @@ body {
   }
 }
 
+@include breakpoint($medium) {
+  .page__hero {
+    min-height: 70vh;
+  }
+}
+
 .page__hero-image {
   width: 100%;
   height: auto;
@@ -252,36 +289,5 @@ body {
   a {
     color: #fff;
     text-decoration: none;
-  }
-}
-
-
-/*
-   background-image
-   ========================================================================== */
-
-.bg {
-  //background-image: url("/assets/images/header.webp");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  z-index: 0;
-
-    /* Overlay */
-    &::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-    }
-
-  @media (max-width: 768px) {
-    //background-image: url("/assets/images/header.webp");
-    background-size: contain;
-    background-repeat: repeat-y;
-    background-attachment: scroll;
   }
 }

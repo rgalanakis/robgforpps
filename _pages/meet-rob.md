@@ -1,13 +1,14 @@
 ---
 title: "Meet Rob G"
+excerpt: "Bold Ideas for Thriving Kids"
 layout: page
 permalink: /meet-rob
 
 header:
     overlay_image: /assets/images/o/kickoff-thumbsup.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
-
-excerpt: "Rob G for PPS School Board, Zone 6"
+    
+content_class: "bg-shape-w big bg-shape-yellow-light-star"
 
 gallery-1:
   - url: "/assets/images/o/daruk-bike-ride.jpg"
@@ -82,9 +83,11 @@ Our planet is burning, but we're emitting more carbon than ever.
 **But that's like asking what your hands have to do with your feet.**
 Different roles, but part of the same body.
 
-We can't sit by and try to solve things one at a time. **Solving these problems is a job for every public entity.**
-
+We can't sit by and try to solve things one at a time.
 It's time to pursue bold and creative solutions at PPS.
-Our kids, our city, our world, cannot wait.
+
+We only have one planet, one school district, one Portland.
+
+We have to act like **One City.**
 
 {% include footer/buffer.html %}

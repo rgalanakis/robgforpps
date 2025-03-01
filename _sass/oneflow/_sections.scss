@@ -1,6 +1,6 @@
 .section-sep {
     border: 4px solid;
-    border-image: linear-gradient(to right, $link-color, $primary-color, $link-color) 1;
+    border-image: linear-gradient(to right, $secondary-color, $secondary-color, $secondary-color) 1;
     width: 100vw;
     position: relative;
     left: 50%;
@@ -10,7 +10,7 @@
 }
 
 section.site-section {
-    padding: 50px 5vw 60px 5vw;
+    padding: 60px 5vw 60px 5vw;
     width: 100vw;
     margin-top: -22px;
     margin-bottom: -22px;
@@ -30,9 +30,9 @@ section.site-section {
 }
 
 section.first-section {
-    margin-top: -2em;
+    margin-top: -3em;
 }
 
 section.alternative-color {
-    background-color: mix($background-color, $primary-color, 50%);
+    background-color: $yellow-light;
 }

@@ -1,17 +1,25 @@
+//@font-face {
+//  font-display: swap;
+//  font-family: 'Alegreya';
+//  font-style: normal;
+//  font-weight: 400;
+//  src: url('/assets/fonts/Alegreya/static/Alegreya-Regular.ttf');
+//}
+
 @font-face {
   font-display: swap;
-  font-family: 'Alegreya';
+  font-family: 'Lexend';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/Alegreya/static/Alegreya-Regular.ttf');
+  src: url('/assets/fonts/Lexend/Lexend-VariableFont_wght.ttf');
 }
 
 @font-face {
   font-display: swap;
-  font-family: 'Alegreya';
+  font-family: 'Lexend Deca';
   font-style: normal;
-  font-weight: 700;
-  src: url('/assets/fonts/Alegreya/static/Alegreya-SemiBold.ttf');
+  font-weight: 400;
+  src: url('/assets/fonts/Lexend_Deca/LexendDeca-VariableFont_wght.ttf');
 }
 
 .lead {

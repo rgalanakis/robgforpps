@@ -3,10 +3,12 @@ main:
     url: /
   - title: "Meet Rob"
     url: /meet-rob
-  - title: "Policy"
-    url: /policy
+  - title: "One City"
+    url: /one-city
   - title: "Bike Bus"
     url: /bike-bus
+  - title: "May's Bond"
+    url: /may-2025-bond
   - title: "Help Out"
     url: /help-out
 #  - title: "Donate"

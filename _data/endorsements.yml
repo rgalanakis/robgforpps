@@ -1,0 +1,51 @@
+photo:
+  - name: Councilor Mitch Green
+    title: Portland City Councilor, District 4
+    slug: mitch-green
+  - name: Coach Sam Balto
+    title: Nationally Recognized Safe Routes to School Advocate
+    slug: sam-balto
+  - name: Alan Hipólito
+    title: Digital Justice Advocate
+    slug: alan-hipolito
+  - name: Chris Smith
+    title: Former Portland Planning Commissioner
+    slug: chris-smith
+  - name: Kiel Johnson
+    title: Owner and Founder, Go By Bike
+    slug: kiel-johnson
+  - name: Eva Frazier
+    title: Former co-owner, Clever Cycles
+    slug: eva-frazier
+  - name: Walt Alexander
+    title: Co-founder, Pine State Biscuits
+    slug: walt-alexander
+  - name: Michael Andersen
+    title: Cities + Towns Director, Sightline Institute
+    slug: michael-andersen
+  - name: Cathy Tuttle
+    title: PhD, City Planner
+    slug: cathy-tuttle
+text:
+  - name: Shawne Martinez
+    title: Award-winning Safe Streets Advocate
+  - name: Momoko Saunders
+    title: COO at Bike Farm
+  - name: Tony Jordan
+    title: President, Parking Reform Network
+  - name: Viv Jeevan
+    title: Bicycle Traffic Instructor
+  - name: Catie Tam
+    title: Woodstock School Bike Bus
+  - name: Jessica Fletcher
+    title: James John Bike Bus
+  - name: Emily Essley
+    title: Creston Bike Bus
+  - name: Tamara & Dean Taylor
+    title: Preschool Teacher, ER Doctor
+  - name: RJ Sheperd
+    title: Safe Streets Advocate
+  - name: Allan Rudwick
+    title: PPS parent x3, Strong Towns PDX Co-Lead
+  - name: Melissa Kostelecky
+    title: Woodstock Parent, PSU Grad Student
