@@ -8,10 +8,18 @@
 
 @font-face {
   font-display: swap;
-  font-family: 'Alegreya';
+  font-family: 'Lexend';
   font-style: normal;
-  font-weight: 700;
-  src: url('/assets/fonts/Alegreya/static/Alegreya-SemiBold.ttf');
+  font-weight: 400;
+  src: url('/assets/fonts/Lexend/Lexend-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend Peta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/Lexend_Peta/LexendPeta-VariableFont_wght.ttf');
 }
 
 .lead {

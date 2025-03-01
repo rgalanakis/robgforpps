@@ -1,11 +1,11 @@
 ---
-title: "Bold Solutions for Thriving Kids"
+title: "Join the Campaign"
+excerpt: "One City, Many Hands"
 layout: page
 permalink: /help-out
 header:
     overlay_image: /assets/images/o/rob-arrow-wide.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
-excerpt: "Join the Campaign"
 ---
 
 {% include sectionstart.html first=1 %}
@@ -24,7 +24,7 @@ We also have a limited set of pennants available for your bike!
 
 <hr class="section-sep" />
 
-{% include sectionstart.html alt=1 %}
+{% include sectionstart.html alt=1 class="bg-shape-ne bg-shape-yellow-circle-quarter-ne" %}
 # Spread the Word
 
 Name recognition is paramount in school board races, so any time you share something on social media,
@@ -48,7 +48,7 @@ Great cities need great schools. Throw in a few dollars to help make Portland th
 
 <hr class="section-sep" />
 
-{% include sectionstart.html alt=1 %}
+{% include sectionstart.html alt=1 class="bg-shape-se bg-shape-yellow-triangle-se" %}
 # Endorse
 
 {% include /editables/endorsements.html %}

@@ -1,5 +1,6 @@
 ---
 title: "The Bike Bus"
+excerpt: "Transforming Community & Planet"
 layout: page
 permalink: /bike-bus
 
@@ -7,7 +8,6 @@ header:
     overlay_image: /assets/images/o/bikebus-wave.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
-excerpt: "Rob G for PPS School Board, Zone 6"
 
 gallery-2:
   - url: "/assets/images/o/bikes-on-bikes.jpg"

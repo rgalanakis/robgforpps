@@ -1,12 +1,12 @@
 ---
 title: "One City"
+excerpt: "School Policy is more than Education Policy"
 layout: page
 permalink: /one-city
 header:
     overlay_image: /assets/images/o/day-remembrence-1.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
     image_position: "top center"
-excerpt: "School Policy is more than Education Policy"
 ---
 
 {% include sectionstart.html alt=1 first=1 %}

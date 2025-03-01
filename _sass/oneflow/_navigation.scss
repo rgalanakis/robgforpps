@@ -33,7 +33,10 @@
     &.site-logo {
       margin-left: 0;
       margin-right: 0.5rem;
-      max-width: 300px;
+
+      img {
+        height: 60px;
+      }
     }
 
     &.site-title {

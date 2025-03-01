@@ -1,0 +1,77 @@
+
+.icon-divider {
+  width: 24px;
+  height: 24px;
+}
+
+@mixin bg-shape {
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.bg-shape-ne {
+  @include bg-shape;
+  background-position: top right;
+  background-size: 80% auto;
+}
+
+.bg-shape-e {
+  @include bg-shape;
+  background-position: right center;
+  background-size: 300% auto;
+}
+
+.bg-shape-se {
+  @include bg-shape;
+  background-position: bottom right;
+  background-size: 120vw auto;
+}
+
+.bg-shape-sw {
+  @include bg-shape;
+  background-position: bottom left;
+  background-size: 80% auto;
+}
+
+.bg-shape-w {
+  @include bg-shape;
+  background-position: -90vh center;
+  background-size: 120vh;
+}
+
+.bg-shape-nw {
+  @include bg-shape;
+  background-position: top left;
+  background-size: 170% auto;
+}
+
+$shape-colors: (
+        'yellow',
+        'yellow-dark',
+        'yellow-light',
+        'green',
+        'blue',
+        'blue-light',
+        'blue-dark'
+);
+$shapes: (
+        'star',
+        'triangle',
+        'square',
+        'circle',
+        'circle-quarter'
+);
+$shape-directions: ('ne', 'se', 'sw', 'nw');
+
+@each $color in $shape-colors {
+  @each $shape in $shapes {
+    .bg-shape-#{$color}-#{$shape} {
+      background-image: url("/assets/images/shapes/svg/shape-#{$shape}-#{$color}.svg");
+    }
+    @each $dir in $shape-directions {
+      .bg-shape-#{$color}-#{$shape}-#{$dir} {
+        background-image: url("/assets/images/shapes/svg/shape-#{$shape}-#{$color}-#{$dir}.svg");
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 ---
 title: "Meet Rob G"
+excerpt: "Bold Ideas for Thriving Kids"
 layout: page
 permalink: /meet-rob
 
@@ -7,7 +8,6 @@ header:
     overlay_image: /assets/images/o/kickoff-thumbsup.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
-excerpt: "Rob G for PPS School Board, Zone 6"
 
 gallery-1:
   - url: "/assets/images/o/daruk-bike-ride.jpg"

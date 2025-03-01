@@ -1,5 +1,6 @@
 ---
 title: "May 2025 Bond"
+excerpt: "Vote Yes and Elect Good Fiscal Stewards"
 layout: page
 permalink: /may-2025-bond
 
@@ -7,7 +8,6 @@ header:
     overlay_image: /assets/images/o/city-council-testimony-from-balcony-aaron.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
 
-excerpt: "Rob G for PPS School Board, Zone 6"
 ---
 
 # Why I'm a Yes on the May 2025 Bond
@@ -23,7 +23,7 @@ Eventually I came around to a **strong Yes vote**. Here I'll explain why.
 I am not a financal professional, but I've been doing finance-adjacent work for a long time,
 including building technology platforms processing billions of dollars a year.
 
-I can keep up with technical jargon pretty well.
+I'm definitely a policy wonk and can keep up with technical jargon pretty well.
 I have spent hours reading over PPS budgets and bond reports
 as part of forming my opinion of this upcoming bond.
 
@@ -185,10 +185,14 @@ All of this said: I have ongoing concerns about the bond. These are things I wil
   If you have a $400m bond with a $20m issue, that becomes a serious concern, at 5% of the bond.
   But if you have a $2,000m bond with a $20m issue, that is just a rounding error.
   It is much easier to ignore problems that are very significant in absolute terms ($20m is about the cost to remodel an elementary school).
-- Using bond funds for technology upgrades is simply unsustainable in the long run. We will be paying 2x the costs due to interest, compared to pay-as-you-go.
-- If revenues drop, or the interest rate increases, we may run into serious revenue problems. We aren't really holding anything back (I'm not sure if we should).
+- Using bond funds for technology upgrades is simply unsustainable in the long run. We will be paying 2x the costs due to interest, compared to pay-as-you-go. This needs to be solved as part of the operating budget.
+- If revenues drop, or the interest rate increases, we may run into serious revenue problems. We aren't really holding anything back in terms of being able to raise a big bond in the next few decades (I'm not sure if we should).
 - PPS still has structural problems, and having this money may tempt us to paper over those structural problems. A crisis is an opportunity; we must not forget we're in a crisis.
-- There is no way we can pass another bond this large in the next 20+ years, unless tax revenues go way up. The next bond will be relatively small. This bond eats up a huge chunk of our revenue capacity for many years, much more than any other bond so far. There is no do-over if we mess up spending.
+- There is no way we can pass another bond this large in the next 20+ years, unless tax revenues go way up. The next bond will be relatively small, and the bond after that potentially even smaller. This bond eats up a huge chunk of our revenue capacity for many years, much more than any other bond so far. There is no do-over if we mess up spending &mdash; I would expect a tax revolt by our residents.
 - There is a lot of potential wiggle room for some of the high school modernizations. We need to be extremely diligent about cost savings. Having this authorization must not allow us to overspend.
+- Passing a smaller bond does not mean we'll make more responsible decisions.
+  We can overspend on a small bond, and we can be good fiscal stewards on a big bond.
+  The important thing is electing the right people to the board to make good decisions on this money,
+  to push for savings where we can find them, and to make sure we provide close oversight.
 
 {% include footer/buffer.html %}
