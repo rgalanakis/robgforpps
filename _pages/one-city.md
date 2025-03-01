@@ -30,7 +30,8 @@ This will allow development of 1,000 new housing units, work to right generation
 
 {% include sectionstart.html %}
 <a id="housing"></a>
-# One City Housing Policy
+# <img src="/assets/images/policies/housing.png" alt=""> One City Housing Policy
+{:class="policy-heading"}
 
 The performance of students of color compared to their white counterparts is a persistent issue.
 PPS has been trying, and must continue trying, to improve outcomes through education policy.
@@ -63,7 +64,8 @@ It gets better: increased enrollment is revenue-positive for PPS. Additional stu
 
 {% include sectionstart.html alt=1 %}
 <a id="transportation"></a>
-# One City Transportation Policy
+# <img src="/assets/images/policies/transportation.png" alt=""> One City Transportation Policy
+{:class="policy-heading"}
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
 
@@ -90,7 +92,8 @@ but through encouraging more sustainable behaviors.
 
 {% include sectionstart.html %}
 <a id="health"></a>
-# One City Health Policy
+#  <img src="/assets/images/policies/health.png" alt=""> One City Health Policy
+{:class="policy-heading"}
 
 As animals, we have brains in order to move. In fact, there are animals like the Sea Squirt that lose their brain when they stop moving.
 
@@ -110,13 +113,27 @@ Studies show this additional exercise could lead to a significant increase in te
 
 **One City Policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.**
 
+Students do better with cleaner air. When we weigh the benefits of cleaner air against the costs of unclear air,
+the benefits are overwhelming. We need to support our staff in making sure classroom air is cleaned, and our students
+and staff are not exposed to unnecessary pathogens and pollution inside the classroom.
+
+**One City Policy: Figure out why more classrooms aren't running the air purifiers we already have.**
+
+Likewise, kids are exposed to harmful pollutants on their way into class.
+While many schools need private car access, parents don't need to be idling their cars near schools.
+PBOT actually has "idle free zone" signage but the process to put it up is cumbersome
+and many schools don't know or don't bother.
+
+**One City Policy: PBOT and PPS must work together to roll out Idle Free Zone signage and education district-wide.**
+
 {% include sectionend.html %}
 
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
 <a id="climate"></a>
-# One City Climate Policy
+#  <img src="/assets/images/policies/climate.png" alt=""> One City Climate Policy
+{:class="policy-heading"}
 
 Today’s students are wrestling with a high likelihood of 2°C warming by 2050, and the ensuing destruction and instability it will cause.
 
@@ -139,7 +156,8 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
-# One City Fiscal Policy
+# <img src="/assets/images/policies/fiscal.png" alt=""> One City Fiscal Policy
+{:class="policy-heading"}
 
 PPS, like pretty much every public entity in the United States, is in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
@@ -184,7 +202,8 @@ making it even easier for Portlanders to live in Clark County, exploiting our am
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
-# One City Civic Policy
+# <img src="/assets/images/policies/civic.png" alt=""> One City Civic Policy
+{:class="policy-heading"}
 
 The trope of angry parents yelling at the School Board or principal is only a trope if you've never been hurt by a decision, and left with no transparency, accountability, or course for reconsideration.
 
@@ -208,9 +227,10 @@ And experience says this also helps our city and society at large.
 <hr class="section-sep" />
 
 {% include sectionstart.html %}
-# One City
+# <img src="/assets/images/policies/onecity.png" alt=""> One City
+{:class="policy-heading"}
 
-The City of Portland and Portland Public Schools view themselves as totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing streets, or anything else, the relationship is frigid at best and adversarial at worst.
+The City of Portland and Portland Public Schools view themselves as totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing traffic, or anything else, the relationship is frigid at best and adversarial at worst.
 
 We saw this clearly during the PAT strike in November 2023. The city stayed as far away as it could, instead of helping to resolve the strike. We saw it in January when the City slapped Grant Bowl advocates with a $15,000 bill for a totally unnecessary traffic study. Parent groups see it frequently in issues big and small.
 
@@ -225,7 +245,8 @@ To support each other in our work, instead of antagonize. Portland the City and 
 <hr class="section-sep" />
 
 {% include sectionstart.html alt=1 %}
-# Public Testimony
+# <img src="/assets/images/policies/testimony.png" alt=""> Public Testimony
+{:class="policy-heading"}
 
 You should know who you're voting for beyond what I'm telling you here.
 Here's a list of some public testimony or comments I've given the last few years:
