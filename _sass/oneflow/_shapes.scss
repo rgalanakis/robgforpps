@@ -37,6 +37,11 @@
   @include bg-shape;
   background-position: -90vh center;
   background-size: 120vh;
+
+  &.big {
+    background-position-x: -150vh;
+    background-size: 200vh;
+  }
 }
 
 .bg-shape-nw {

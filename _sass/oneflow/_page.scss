@@ -291,34 +291,3 @@ body {
     text-decoration: none;
   }
 }
-
-
-/*
-   background-image
-   ========================================================================== */
-
-.bg {
-  //background-image: url("/assets/images/header.webp");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  z-index: 0;
-
-    /* Overlay */
-    &::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-    }
-
-  @media (max-width: 768px) {
-    //background-image: url("/assets/images/header.webp");
-    background-size: contain;
-    background-repeat: repeat-y;
-    background-attachment: scroll;
-  }
-}

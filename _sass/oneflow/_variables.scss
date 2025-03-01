@@ -7,8 +7,8 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Lexend, Georgia, Times, serif !default;
-$sans-serif: Alegreya, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: "Lexend Deca", Georgia, Times, serif !default;
+$sans-serif: Lexend, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $sans-serif-narrow: $sans-serif !default;

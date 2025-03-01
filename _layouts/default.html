@@ -25,39 +25,11 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached masthead.html %}
 
-
-    <style>
-
-        .bg {
-          background-image: url({{site.background-image}});
-        }
-
-        .bg::after {
-           background-color: {{site.background-image-overlay}};
-        }
-
-        {% if site.background-image-mobile %}
-
-        @media (max-width: 768px) {
-          .bg {
-            background-image: url({{site.background-image-mobile}});
-          }
-
-         {% endif %}
-
-        }
-    </style>
-
-
-    {% if site.background-image %}
-      <div class="bg">
-    {% endif %}
-
         {% if site.show-popup %}
         {% include popup.html %}
         {% endif %}
 
-      <div class="initial-content">
+      <div class="initial-content{% if page.content_class %} {{ page.content_class }}{% endif %}">
         {{ content }}
       </div>
 
@@ -68,11 +40,6 @@
         </footer>
       </div>
 
-    {% if site.background-image %}
-      </div>
-    {% endif %}
-
     {% include scripts.html %}
-
   </body>
 </html>

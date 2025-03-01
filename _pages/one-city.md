@@ -159,6 +159,8 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 # <img src="/assets/images/policies/fiscal.png" alt=""> One City Fiscal Policy
 {:class="policy-heading"}
 
+**Please see [May 2025 Bond](/may-2025-bond) for my detailed analysis of the upcoming bond.**
+
 PPS, like pretty much every public entity in the United States, is in the midst of budget crises decades in the making. The causes are largely the same: lower tax receipts, years of deferred maintenance coming due, and new capital projects exploding in scope.
 
 It's vital we see these problems for what they are: **these are not revenue problems, they are structural problems.**
@@ -167,35 +169,42 @@ There is more bad news: our structural tax problems are getting worse [due to ou
 
 Then there are issues with Measure 5 and Measure 50, which cap property taxes.
 
-This doesn't leave us with too many options.
+This doesn't leave us with too many options. But we have a few.
 
-The fact is: PPS as a district (and Oregon as a state) is pretty average in its education budget, but performs poorly. Throwing more money at the problem would most likely lead to very high spending and just middling performance. This isn’t a good deal for parents or taxpayers.
+**One City Policy: Make growth-centered investments.**
 
-Until we can dig in and understand if and how more education spending will improve outcomes, we should be very wary of raising taxes or locking in future spending.
+Population growth and increased density makes all of our fiscal problems easier to solve.
+This is one reason why I'm [Yes on the May 2025 Bond](/may-2025-bond).
 
+**One City Policy: Scrutinize spending.**
 
-Full funding also isn't really on the table, given competing State budget priorities.
+While growth and density allows us to solve structural problems, it can also just kick the can down the road.
+We need people who will put spending under scrutiny, to make sure it is the way we want to spend our dollars
+and contributes towards the right outcomes.
 
-We need to be smarter about the stories we tell and what we're advocating for, because we're clearly losing.
+**One City Policy: Cut state spending in areas that hurt us.**
 
-For example, in 2023, the Oregon Department of Transportation (ODOT) committed $1 billion of General Fund revenue to expand the I-5 Bridge. This money could have been used for schools. ODOT is now convincing the legislature that it needs even more money for operations and maintenance and to finish boondogle megaprojects.
+Money for expanding freeways is an obvious first target.
+
+In 2023, the Oregon Department of Transportation (ODOT) committed $1 billion of General Fund revenue to expand the I-5 Bridge. This money could have been used for schools. ODOT is now convincing the legislature that it needs even more money for operations and maintenance and to finish boondogle megaprojects.
 
 One of those megaprojects is a freeway expansion that requires [moving the Harriet Tubman Middle School](https://www.wweek.com/news/schools/2025/01/28/pps-says-its-paused-harriet-tubman-middle-school-relocation/).
-It is increasingly likely that this project will require General Fund dollars or increase driver fees, and that the freeway caps, which was the entire basis of the community buy-in, are not going to be built.
+It is increasingly likely that this project will require General Fund dollars or increased driver fees, and that the freeway caps, which was the entire basis of the community buy-in, are not going to be built.
 
 On top of this, the main point of moving more cars along I-5 is to shuttle Washington residents into and out of Portland,
 making it even easier for Portlanders to live in Clark County, exploiting our amenities while not paying a dime.
 
-**One City Policy: Loudly oppose freeway expansions and large capital projects that inevitably will be paid at the cost of our kids.**
+**One City Policy: Unify on tax reform.**
 
+Finally, we know there are structural tax issues to work on reforming.
+We need to work with the legislature on:
 
-
-
-**One City Policy: Reduce administrative spending to historical levels, below the current bloated average at peer districts.**
-
-**One City Policy: Advocate at the state level to increase the Local Option Levy match limit for the State School Funding formula, allowing districts to raise more funds to pay for staff.**
-
-**One City Policy: Do not propose or pass bonds where almost 50% of the revenue is going to interest.**
+- Reforming the State School Funding (SSF) formula so that we can raise more than what is allowed by current law before being penalized. If the state will not fund the Quality Education Model (QEM), which its own studies say we need to spend to successfully educate our kids, then it must allow districts to make the missing dollars through property taxes. This funding number, unlike the SSF itself, is just a law, not part of the constitution, so can be changed by the legislature.
+- Align on Kicker reform. I am actually a fan of the Kicker, as it works to hold our government accountable to its own plans. But, we can certainly reform it to allow the government to work more effectively. Unfortunately, the prospect of free money initiates calls to "abolish the kicker," which doesn't seem feasible. Let's get real on this, and PPS should be an entity leading the way.
+- Align on reforms to Measures 5 and 50. We need to be careful when pointing fingers at these constitutional amendments;
+  saying they are responsible for underfunded schools actually means "you should be paying more taxes."
+  That said, Measures 5 and 50 have contributed to very bad incentives, such as holding onto property well beyond when owners should.
+  This is another area where, if PPS can set the right direction, there is a real possibility that we can move the discussion on Measures 5 and 50 reform forward.
 
 {% include sectionend.html %}
 

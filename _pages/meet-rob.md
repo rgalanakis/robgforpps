@@ -7,7 +7,8 @@ permalink: /meet-rob
 header:
     overlay_image: /assets/images/o/kickoff-thumbsup.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
-
+    
+content_class: "bg-shape-w big bg-shape-yellow-light-star"
 
 gallery-1:
   - url: "/assets/images/o/daruk-bike-ride.jpg"
