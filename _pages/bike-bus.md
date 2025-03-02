@@ -53,14 +53,14 @@ gallery-3:
     title: "My favorite rides to lead are Ice Cream Bike Buses. This one in June had almost 400 riders!"
 ---
 
-# It's not a Moment, it's a Movement
+# It's a Movement, Not a Moment
 
 I am not a "bike person", any more than I am a "[toothbrush afficionado](https://bikeportland.org/2023/12/28/safe-streets-as-portlands-unique-selling-proposition-382757)" just because I do it a couple times a day.
 
 {% include gallery id="gallery-1" %}
 
 But as you may have guessed, I unapologetically support and advocate for more bike riding
-(and walking, and transit use) in our city. I am an organizer at [BikeBusPDX](https://bikebuspdx.org),
+(and walking, and transit) in our city. I am an organizer at [BikeBusPDX](https://bikebuspdx.org),
 and believe this movement shows us a way forward at PPS and urban America as a whole.
 
 Bikes and e-bikes (especially e-cargo bikes) are the most powerful tools society has to fight
