@@ -14,6 +14,7 @@ gallery-2:
     image_path: "/assets/images/t/bikes-on-bikes.jpg"
     alt: "many bikes on the back of a cargo bike"
     title: "Carrying 12 kids bikes home on the back of my bike after our 2023 Glencoe Bike Fair. All the bikes were fixed up and donated."
+    class: "objection-position-quarter"
   - url: "/assets/images/o/strike-bus.jpg"
     image_path: "/assets/images/t/strike-bus.jpg"
     alt: "many adult and kid bike riders in blue"

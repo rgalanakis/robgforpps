@@ -238,6 +238,12 @@ figure {
     figcaption {
       width: 100%;
     }
+
+    /* Use vertical layout on small screens, then side-by-side larger. */
+    flex-direction: column;
+    @include breakpoint($figure-image-vertical-breakpoint) {
+      flex-direction: row;
+    }
   }
 }
 

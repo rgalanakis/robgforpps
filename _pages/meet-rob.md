@@ -23,6 +23,7 @@ gallery-1:
     image_path: "/assets/images/t/chopping-wood.jpg"
     alt: "Rob chopping wood while holding a child"
     title: "I do everything with my kids. Even chop wood."
+    class: "objection-position-quarter"
 
 gallery-2:
   - url: "/assets/images/o/suma-planning-1.jpg"

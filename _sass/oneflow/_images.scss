@@ -1,13 +1,30 @@
 .third > .image-popup > img {
   min-height: 100%;
-  max-height: 300px;
   object-fit: cover;
   object-position: center;
+  max-height: 200px;
+  height: 200px;
 }
 
 .half > .image-popup > img {
   min-height: 100%;
-  max-height: 500px;
   object-fit: cover;
   object-position: center;
+  max-height: 200px;
+  height: 200px;
+}
+
+.objection-position-quarter {
+  object-position: center 25% !important;
+}
+
+/* Use vertical layout on small screens, then side-by-side larger. */
+@include breakpoint($figure-image-vertical-breakpoint) {
+  .third > .image-popup > img {
+    max-height: 300px;
+  }
+
+  .half > .image-popup > img {
+    max-height: 500px;
+  }
 }

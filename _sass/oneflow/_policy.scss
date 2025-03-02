@@ -13,11 +13,14 @@
   border-radius: $border-radius * 2;
 
   .policy-nav-icon {
-    width: $h-size-1;
+    width: 40px;
+    min-width: 40px;
     margin-right: $spacing-3;
+    display: flex;
+    align-items: center;
 
     img {
-      height: $h-size-1;
+      width: 40px;
     }
   }
 
