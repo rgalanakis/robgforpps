@@ -24,14 +24,23 @@ We need **One City Policies** that **solve multiple problems at once**.
 Credit where it is due: [PPS’s agreement to sell its headquarters to the Albina Vision Trust](https://www.opb.org/article/2024/02/21/portland-public-schools-board-moves-ahead-plans-relocate-district-headquarters/) is a great example of a One City Solution.
 This will allow development of 1,000 new housing units, work to right generational wrongs of displacement, and, if relocated to downtown, help the central city’s recovery by using office space and adding workers. And it won’t cost PPS any extra.
 
+<a id="toc"></a>
+<div class="policy-toc">
+  {% include policy-nav.html title="Abundant Housing, Increased Enrollment" slug="housing" %}
+  {% include policy-nav.html title="Safe, Social, Green Transportation" slug="transportation" %}
+  {% include policy-nav.html title="Improve Student Health" slug="health" %}
+  {% include policy-nav.html title="Fight Climate Change" slug="climate" %}
+  {% include policy-nav.html title="Prioritize Fiscal Stewardship" slug="fiscal" %}
+  {% include policy-nav.html title="Schools are Laboratories of Democracy" slug="civic" %}
+  {% include policy-nav.html title="We Are One City" slug="onecity" %}
+  {% include policy-nav.html title="Read My Public Testimony" slug="testimony" %}
+</div>
+
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html %}
-<a id="housing"></a>
-# <img src="/assets/images/policies/housing.png" alt=""> One City Housing Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="housing" title="One City Housing Policy" %}
 
 The performance of students of color compared to their white counterparts is a persistent issue.
 PPS has been trying, and must continue trying, to improve outcomes through education policy.
@@ -58,14 +67,12 @@ There's no reason we should be holding onto these properties. Their sale can rai
 
 It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html alt=1 %}
-<a id="transportation"></a>
-# <img src="/assets/images/policies/transportation.png" alt=""> One City Transportation Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="transportation" title="One City Transportation Policy" %}
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
 
@@ -86,14 +93,12 @@ but through encouraging more sustainable behaviors.
 
 **One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html %}
-<a id="health"></a>
-#  <img src="/assets/images/policies/health.png" alt=""> One City Health Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="health" title="One City Health Policy" %}
 
 As animals, we have brains in order to move. In fact, there are animals like the Sea Squirt that lose their brain when they stop moving.
 
@@ -126,14 +131,12 @@ and many schools don't know or don't bother.
 
 **One City Policy: PBOT and PPS must work together to roll out Idle Free Zone signage and education district-wide.**
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html alt=1 %}
-<a id="climate"></a>
-#  <img src="/assets/images/policies/climate.png" alt=""> One City Climate Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="climate" title="One City Climate Policy" %}
 
 Today’s students are wrestling with a high likelihood of 2°C warming by 2050, and the ensuing destruction and instability it will cause.
 
@@ -151,13 +154,12 @@ Similarly, the plan is silent on home-to-school transportation, even though thes
 
 **One City Policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.**
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html %}
-# <img src="/assets/images/policies/fiscal.png" alt=""> One City Fiscal Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="fiscal" title="One City Fiscal Policy" %}
 
 **Please see [May 2025 Bond](/may-2025-bond) for my detailed analysis of the upcoming bond.**
 
@@ -206,13 +208,12 @@ We need to work with the legislature on:
   That said, Measures 5 and 50 have contributed to very bad incentives, such as holding onto property well beyond when owners should.
   This is another area where, if PPS can set the right direction, there is a real possibility that we can move the discussion on Measures 5 and 50 reform forward.
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html alt=1 %}
-# <img src="/assets/images/policies/civic.png" alt=""> One City Civic Policy
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="civic" title="One City Civic Policy" %}
 
 The trope of angry parents yelling at the School Board or principal is only a trope if you've never been hurt by a decision, and left with no transparency, accountability, or course for reconsideration.
 
@@ -231,13 +232,12 @@ And experience says this also helps our city and society at large.
 
 **One City Policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.**
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html %}
-# <img src="/assets/images/policies/onecity.png" alt=""> One City
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="onecity" title="One City" %}
 
 The City of Portland and Portland Public Schools view themselves as totally independent entities. Whether it comes to who is responsible for mowing a lawn, or managing traffic, or anything else, the relationship is frigid at best and adversarial at worst.
 
@@ -249,13 +249,12 @@ I pledge to work with the City to streamline overlaps and inefficiencies, so we 
 
 To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as family, or perish together as fools.
 
+{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
-
 <hr class="section-sep" />
-
 {% include sectionstart.html alt=1 %}
-# <img src="/assets/images/policies/testimony.png" alt=""> Public Testimony
-{:class="policy-heading"}
+
+{% include policy-heading.html slug="testimony" title="Public Testimony" %}
 
 You should know who you're voting for beyond what I'm telling you here.
 Here's a list of some public testimony or comments I've given the last few years:
@@ -273,5 +272,6 @@ Here's a list of some public testimony or comments I've given the last few years
 - Public comment encouraging a stricter PPS device policy than originally proposed. I was happy to see it modified. [{% include right-arrow.html %}](https://docs.google.com/document/d/1rHIywLyrQ-A9WPfFY_c8dp11VuzdiGn8OFXIHg0yq0U/edit?usp=drive_link){:target="_blank"}
 - Not testimony, but relevant: one of the more political rides I've organized was this [Strike Bus](https://bikeportland.org/2023/11/16/hundreds-roll-on-strike-bus-to-get-kids-outside-and-support-teachers-381854) during the PAT strike, which saw about 700 riders come out in support. [{% include right-arrow.html %}](https://bikeportland.org/2023/11/16/hundreds-roll-on-strike-bus-to-get-kids-outside-and-support-teachers-381854){:target="_blank"}
 
+{% include back-to-top.html anchor="toc" %}
 {% include footer/buffer.html %}
 {% include sectionend.html %}

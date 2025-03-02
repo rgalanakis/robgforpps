@@ -105,9 +105,11 @@ body {
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-2;
+  font-size: $type-size-3;
   text-align: center;
+  margin-top: 2em;
   margin-bottom: 0;
+  text-wrap: balance;
 }
 
 .page__content {
@@ -158,10 +160,6 @@ body {
   a:not(.btn) {
     &:hover {
       text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
     }
   }
 
