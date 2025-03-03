@@ -47,7 +47,7 @@ but there may be much better ways to spend the money; if we get too caught up in
 
 Let's get on the same page with a true-enough but simplified definition of what a bond is.
 
-A bond is a loan, sort of like a mortgage. Bondholders (banks) give PPS *principle* ($1.8 billion) upfront and then expect PPS to pay back the *principle plus interest* in the future (like $2.5 billion). It's sort of like a mortgage.
+A bond is a loan, sort of like a mortgage. Bondholders (banks) give PPS *principal* ($1.8 billion) upfront and then expect PPS to pay back the *principal plus interest* in the future (like $2.5 billion).
 
 But what we vote on is an *authorization* for PPS to borrow a certain amount of money (that $1.8 billion) over a given amount of time (32 years).
 This comes in the form of multiple loans (*offerings*) that PPS sells to bondholders every few years.
@@ -95,7 +95,7 @@ Improvements at West Sylvan, Roosevelt, Grant, and Franklin.
 
 I am not too familiar with these, honestly. It's possible there is some unnecessary spending here.
 But this is the sort of stuff capital bonds are supposed to be used for.
-If you have something to add, please let me know! robg.pdx@gamil.com
+If you have something to add, please let me know! robg.pdx@gmail.com
 
 ### Deferred Maintenance ($190m)
 
@@ -198,9 +198,9 @@ That said, our audits for previous bonds have actually turned out well, with exc
 I have "audited the audits" to a small degree, and they are rigorous,
 not cherry-picked to arrive at a foregone conclusion.
 
-The two problems with previous bonds are:
+The two problems with previous bonds identified by auditors are:
 
-- The Center for Black Student Excellence. I don't really have much to say about this that hasn't been said by others.
+- The Center for Black Student Excellence. I don't really have much to say about this that [hasn't been said by others](https://www.wweek.com/news/schools/2024/12/17/auditor-warns-portland-public-schools-center-for-black-student-excellence-is-falling-behind/).
 - High school modernization costs.
 
 ### Smaller Bonds are not Necessarily More Frugal
