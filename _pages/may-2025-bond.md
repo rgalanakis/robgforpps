@@ -33,7 +33,7 @@ which do not increase the total wealth of the community. Suburban sprawl, which 
 to pay for the public expenses involved, is the common example. This approach ultimately impoverishes the entire community
 and isn't healthy for anyone.
 
-Councilor Mitch Green (a campaign endorser!) introduced me to the term **fiscal stewardship**.
+**Councilor Mitch Green (a campaign endorser!) introduced me to the term _fiscal stewardship_.**
 I have a major focus on fiscal stewardship.
 
 Educating kids is expensive, and there's no free lunch. Except at school,
@@ -85,7 +85,7 @@ we need to get this out of capital spending and back into the normal budget.
 However, given the historic cuts we're going to have to make, the question is: should we cut more teachers
 to pay for technology updates in the short term? Or should we pay 20-40% more but kick the can down the road?
 
-I'm okay with kicking the can down the road. Cutting another $20m/year from the budget would do such tremendous damage,
+I'm okay with kicking *this* can down the road. Cutting another $20m/year from the budget would do such tremendous damage,
 that I can't believe this is medicine we should be taking. Technology updates are a relatively new thing,
 and the legislature will need to factor it into school funding in the next few years.
 
@@ -167,7 +167,7 @@ There are a few things going on:
 - Grant is already overcrowded.
 - We are going to need to rebalance our high schools, and a key part of that will include the area near Jefferson.
 - Jefferson being a modern school is the only way we can pull off this rebalancing.
-- I am long on Portland and believe we are going to grow as a city, significantly, in the next few decades
+- I am betting on Portland for the long term, and believe we are going to grow as a city, significantly, in the next few decades
   (we will probably have a few more flat/down years). To handle even modest growth, we need to have some capacity in our schools;
   dealing with this later by trying to site and build a new high school will be even more expensive.
 - When betting on the future, we have to think about the upside vs. the downside.
@@ -175,6 +175,8 @@ There are a few things going on:
   In the downside case (Portland shrinks), the extra cost will be a drop in the bucket.
   We have massive structural problems with paying out firefighter pensions that makes growth almost a requirement.
   I can't see a future where we lament wasting $100m on Jefferson, since that future will be a huge tax abyss.
+- Betting on future growth must not be an invitation to spend on lower-value projects.
+  We need to tighten our spending considerably.
 
 ## General Concerns and Thoughts
 
@@ -209,6 +211,15 @@ Case in point is the mess we find ourselves in, behind on high school modernizat
 If we passed a smaller bond, there is no reason to believe we'd get cheaper high schools.
 
 **To cut costs, we need the right people on the board to keep an eye on costs, and have the hard discussions about where to cut.**
+
+### We Went 17 Years With No Capital Bond
+
+In 1995, voters passed a modernization bond; then next bond passed was in 2012.
+We are playing catch-up, and as explained above, deferred maintenance gets expensive.
+
+I cannot say how things would be different if, say, we had authorized a capital bond every 8 years.
+But we're in the situation we're in, to some degree because of lack of previous investment.
+Even if we halved the costs of the high school modernizations, we'd still need a big bond to catch up.
 
 ### There is Place for Pork to Hide
 
