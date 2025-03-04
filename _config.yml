@@ -38,7 +38,6 @@ footer:
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/robgalanakis.bsky.social"
-  copyright: "Rob G for PPS"
 
 # Reading Files
 include:
