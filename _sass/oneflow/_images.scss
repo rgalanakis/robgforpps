@@ -18,6 +18,10 @@
   object-position: center 25% !important;
 }
 
+.objection-position-top {
+  object-position: center 10% !important;
+}
+
 /* Use vertical layout on small screens, then side-by-side larger. */
 @include breakpoint($figure-image-vertical-breakpoint) {
   .third > .image-popup > img {

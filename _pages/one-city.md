@@ -12,6 +12,10 @@ header:
 {% include sectionstart.html alt=1 first=1 %}
 # One City Policies
 
+My platform is called **One City**.
+I believe that, to get out of the multipronged crises we are in,
+**we must act with urgency and creativity across our school, city, and county governments.**
+
 Schools play a central role in our society. We cannot treat them like a vacuum.
 The problems facing PPS, the City of Portland, and urban America in general, are all connected.
 
@@ -20,6 +24,7 @@ The problems facing PPS, the City of Portland, and urban America in general, are
 We cannot solve problems in a disconnected way, one at a time.
 
 We need **One City Policies** that **solve multiple problems at once**.
+We don&rsquo;t have the time or money for anything else.
 
 Credit where it is due: [PPS’s agreement to sell its headquarters to the Albina Vision Trust](https://www.opb.org/article/2024/02/21/portland-public-schools-board-moves-ahead-plans-relocate-district-headquarters/) is a great example of a One City Solution.
 This will allow development of 1,000 new housing units, work to right generational wrongs of displacement, and, if relocated to downtown, help the central city’s recovery by using office space and adding workers. And it won’t cost PPS any extra.
