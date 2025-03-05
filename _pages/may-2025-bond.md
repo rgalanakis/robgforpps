@@ -13,7 +13,7 @@ header:
 # Why I'm a Yes on the May 2025 Bond
 
 In January and February 2025, I had serious reservations about the May 2025 General Obligation Bond.
-In fact, in January I [testified against](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?tab=t.0)
+In fact, in January I [testified against](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?tab=t.0){:target="_blank"}
 the bond authorization.
 
 Eventually I came around to a **strong Yes vote**. Here I'll explain why.
@@ -155,7 +155,7 @@ in the same cluster.
 
 ### Jefferson High School ($366m)
 
-Jefferson High School's remodel has been so contentious. It currently has around 500 students.
+Jefferson High School's remodel has been contentious. It currently has around 500 students.
 The remodel would have capacity for 1700 students.
 
 This seems ridiculous and was definitely one of the areas of most serious criticism I had.
@@ -163,18 +163,19 @@ Shouldn't we be looking at *closing* Jefferson, not expanding it?
 
 There are a few things going on:
 
-- Even though PPS enrollment projections are going down, the areas projected to grow feed into Grant and Jefferson.
+- Even though PPS enrollment projections are going down, the areas projected to shrink the least feed into Grant and Jefferson.
 - Grant is already overcrowded.
 - We are going to need to rebalance our high schools, and a key part of that will include the area near Jefferson.
 - Jefferson being a modern school is the only way we can pull off this rebalancing.
 - I am betting on Portland for the long term, and believe we are going to grow as a city, significantly, in the next few decades
   (we will probably have a few more flat/down years). To handle even modest growth, we need to have some capacity in our schools;
   dealing with this later by trying to site and build a new high school will be even more expensive.
+  I discuss this more when talking about enrollment forecasts below.
 - When betting on the future, we have to think about the upside vs. the downside.
   In the upside case (Portland grows), there is a very large upside, as just explained.
   In the downside case (Portland shrinks), the extra cost will be a drop in the bucket.
   We have massive structural problems with paying out firefighter pensions that makes growth almost a requirement.
-  I can't see a future where we lament wasting $100m on Jefferson, since that future will be a huge tax abyss.
+  I can't see a future where we lament wasting $100m on a too-big Jefferson, since that future will be a huge tax abyss.
 - Betting on future growth must not be an invitation to spend on lower-value projects.
   We need to tighten our spending considerably.
 
@@ -202,7 +203,7 @@ not cherry-picked to arrive at a foregone conclusion.
 
 The two problems with previous bonds identified by auditors are:
 
-- The Center for Black Student Excellence. I don't really have much to say about this that [hasn't been said by others](https://www.wweek.com/news/schools/2024/12/17/auditor-warns-portland-public-schools-center-for-black-student-excellence-is-falling-behind/).
+- The Center for Black Student Excellence. I don't really have much to say about this that [hasn't been said by others](https://www.wweek.com/news/schools/2024/12/17/auditor-warns-portland-public-schools-center-for-black-student-excellence-is-falling-behind/){:target="_blank"}.
 - High school modernization costs.
 
 ### Smaller Bonds are not Necessarily More Frugal
@@ -252,8 +253,8 @@ We need to be in a position to borrow less in the aggregate.
 
 ### Growth is Important
 
-It's very important Portland grow in population for its fiscal health (including for our absurd [legacy fire/police pension system](https://www.wweek.com/news/2023/10/25/financial-analyst-new-to-portland-lobbies-against-costly-antiquated-pension-system/)).
-If we have deteriorating schools, that becomes very difficult.
+It's very important Portland grow in population for its fiscal health (including for our absurd [legacy fire/police pension system](https://www.wweek.com/news/2023/10/25/financial-analyst-new-to-portland-lobbies-against-costly-antiquated-pension-system/){:target="_blank"}).
+If we have deteriorating schools, that becomes almost impossible.
 
 Eliminating your debt and moving to a pay-as-you-go system sounds nice
 to these "son of an immigrant" ears, but in practical terms, it creates a "doom loop" where your economy shrinks,
@@ -267,7 +268,29 @@ That is to say: you must "spend money to make money." But not all spending is cr
 and we need to be smart about it.
 
 This bond is "spending money to make money" by modernizing our schools to keep and attract parents to PPS,
-especially in the areas of projected growth (like Jefferson). It's a good bet to take.
+especially in the areas most likely to see growth (like Jefferson). It's a good bet to take.
+
+### Enrollment Forecasts Are Just That
+
+The Portland State University Population Research Center [enrollment forecasts](https://www.pps.net/Page/1834){:target="_blank"}
+are truly excellent work. But, they're statistics, so can only predict future performance based on past performance.
+Take a sampling of projections to see how they have fared:
+
+- 2007: 45k students. 43-49k students in 2021.
+- 2012: 46k students. 47-52k students in 2021
+- 2016: 48k students, 50-52k students in 2021, 52-57k in 2031
+- 2021: 47k students, 45-47k students in 2031
+- 2023: 44k students, 38k students in 2032
+
+The 2007 estimate for 2021 was actually more correct than the 2016 estimate.
+This isn't because the later estimate was worse; it's just how statistics works!
+Trends are powerful, but trends change.
+
+If Portland were to see growth along the lines of what we had in the 2010's,
+we can easily be looking at 10k or more students above projections.
+
+Let's remember that the enrollment projections are not fate,
+and by creating a better school system and city, we have the ability to change what happens.
 
 ### Smaller Bonds May Not Be Workable
 
@@ -276,17 +299,51 @@ Just doing those, and nothing else, will be $1B at least.
 
 But as explained earlier, we do need to do some more things, especially deferred maintenance and technology and curriculum upgrades.
 
-So the only way to have a smaller bond is to defer one or two high school modernizations for 8 years,
-until we're ready to pass another bond.
+So the only way to have a smaller bond ($1.4B instead of $1.8B, so still huge)
+is to defer one or two high school modernizations for 8 years, until we're ready to pass another bond.
 
-We could certainly do this! I understand the moral issues involved. But if I had my druthers, I would have cut $400m from this bond
-by delaying a high school modernization.
+We could certainly do this! I understand the moral issues involved. If I had my druthers, I would have cut $400m from this bond
+by delaying a high school modernization. Many of my arguments make positive assumptions about Portland's trajectory,
+and in 8 years we'd know more.
 
-That said, it doesn't seem like this delay changes the financial situation all that much, either.
+If those positive assumptions play out, then authorizing (and spending) the money sooner doesn't make much difference.
+Your taxes are going to stay at the same rate when we'd raise the new bond to modernize Jefferson in 8 years.
 
-The other option would be to eliminate a modernization entirely, effectively closing down a high school,
-almost certainly Jefferson. Unfortunately, this isn't smart long-term, as this is the only area
-of PPS projected to grow in the next few years, and Grant is already overcrowded.
+If those assumptions don't play out, and enrollment forecasts mean we don't need the capacity Jefferson affords,
+we will have overspent. It'll be among the least of our problems, due to structural budget issues explained elsewhere.
+It will also not be the worst of things to overspend on, as explained next.
+
+### Purposes For Raised Funds Are Limited
+
+It is possible that we spend $300m or more on Jefferson, and it turns out to be less important than this bond expects.
+It's worth considering what else this money could have been used for.
+
+Because of the way Measure 5 and 50 work, this "unraised money" (the $400m we could have eliminated from this bond)
+can **only be raised for other PPS capital projects.** We cannot, say, use this revenue capacity to authorize a bond
+to build an MLB stadium or whatever other ideas people have.
+
+The only things we can prioritize against the $400m for Jefferson are:
+
+**Other PPS capital projects.** There is a compelling case here, especially if we look at something like
+using capital funds for technology upgrades that would free up operating budget.
+Or we could speed up elementary and middleschool renovations.
+As someone on the more cautious side, this is what I would have gone for.
+But reasonable people can disagree on this and there is obviously merit to the Jefferson case.
+
+**Returning the funds to taxpayers.** While $400m is a lot (really, more like $500m due to interest),
+it's over 32 years, so we are not looking at some big tax break without it.
+But, it's still a big chunk of change, and spending taxes on stuff we don't need is a bad thing.
+
+If you are upset about spending money on stuff we don't need, as I am,
+there are plenty of projects that could use your scorn. For example,
+[we're spending $2b to widen a mile of freeway](https://cityobservatory.org/if-were-so-broke-why-are-we-spending-2-billion-to-widen-a-mile-of-freeway/){:target="_blank"}.
+I am *not* trying to minimize wasteful spending through "whataboutism".
+What I *am* saying is that, projects like the Jefferson modernization have a much more compelling argument
+than a lot of the stuff our local and state governments are spending billions of dollars on.
+
+And it bears repeating: while the modernization itself has compelling arguments,
+we need to look at all the features of the modernization and cut whatever does not have a compelling argument
+compared to spending the money on other projects.
 
 ## Ongoing Concerns
 

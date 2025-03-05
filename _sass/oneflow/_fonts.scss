@@ -31,3 +31,23 @@
 .text-center {
   text-align: center;
 }
+
+.endorsement-callout {
+  color: $blue-dark;
+  font-size: $h-size-3 !important;
+  text-wrap: balance !important;
+  line-height: 1.6em !important;
+  border-left: 0.3em solid $blue-dark;
+  padding-left: $spacing-3;
+
+  i {
+    font-size: $h-size-2;
+    margin-right: $spacing-1;
+    vertical-align: text-bottom;
+  }
+
+  .signature {
+    font-style: italic;
+    text-align: center;
+  }
+}

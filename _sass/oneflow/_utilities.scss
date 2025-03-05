@@ -316,8 +316,8 @@ body:hover .visually-hidden button {
 
 @each $idx, $sp in $spacing-map {
   @each $short, $long in $direction-map {
-    .m#{$short}-#{$idx} { margin-#{$long}: $sp; }
-    .p#{$short}-#{$idx} { padding-#{$long}: $sp; }
+    .m#{$short}-#{$idx} { margin-#{$long}: $sp !important; }
+    .p#{$short}-#{$idx} { padding-#{$long}: $sp !important; }
   }
 }
 
