@@ -77,6 +77,8 @@ $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
+$masthead-font-size: 0.9 * $font-base-size !default; // ~14.5px
+
 /* notices */
 $notice-background-mix: 80% !default;
 $code-notice-background-mix: 90% !default;
