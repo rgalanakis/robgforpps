@@ -12,11 +12,18 @@
 
 .donation-link {
   width: 80px;
-  color: $text-color !important;
 }
 
 @media (min-width: 512px) {
   .donation-link {
     width: 150px;
   }
+}
+
+.donation-link-primary {
+  color: $background-color !important;
+}
+
+.donation-link-secondary {
+  color: $text-color !important;
 }
