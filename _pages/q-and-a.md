@@ -100,7 +100,7 @@ If you believe #1 is false, then you must try to measure everything, and will fa
 If you believe #2 is false, your hiring and retention process will be almost entirely random.
 It's also obviously that threatening people produces worse performance.
 
-So this is why I hate the word 'accountability'. It assumes people can be doing better than they can,
+So this is why I hate the word 'accountability'. It often assumes people can be doing better just by telling them they're doing poorly,
 and/or that the best way to better results is replacing poor performers.
 But the reality of high-performing groups of employees is that they are given the supports and environment to succeed.
 I have not been a teacher, so I don't know what that support system looks like yet for teachers.
@@ -124,7 +124,6 @@ We have not seen productivity gains in education, because caring for kids is fun
 what technology has traditionally been for from prehistory (automating labor).
 
 It would be like asking "what is the role of technology in a marriage."
-
 Our shared calendars are great! But I don't think it makes partnerships fundamentally different.
 
 There may be specific applications of technology that make sense.
@@ -136,16 +135,17 @@ But we need to remember that educating kids is, and will continue to be, expensi
 ##### How can PPS best serve LGBTQ+ and BIPOC students?
 
 I don't know how PPS can best serve these students. 
-That will be up to policies that members of these communities to put forward.
+That will be up to policies that members of these communities put forward.
 
 I can best serve these students in my capacity as a board member
-by helping to make sure the policies are evidence based and effective.
+by helping to make sure those policies are evidence based and effective,
+and being stalwart ally.
 
 {% include back-to-top.html anchor="toc" %}
 
 ##### What does school safety mean?
 
-Three things that I'll weigh in on, though the list can go on much longer.
+Three things that I'll weigh in on, though the list can go on.
 
 First would be safety from violence.
 I have not seen evidence that the presence of police officers or School Resource Officers
@@ -160,8 +160,8 @@ I will continue to listen to and support experts on this.
 
 Third is safety from discrimination. This is more difficult as it's another case where the school system
 is going to reflect larger cultural trends. That said, the school system also informs these trends,
-and I've been heartened by some of the progress since when I was in school. This is another case where
-my role is to support folks who are experts in this space.
+and I've been heartened the progress since when I was in school.
+Here again my role is to support experts and be a stalwart ally. 
 
 {% include back-to-top.html anchor="toc" %}
 
