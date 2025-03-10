@@ -165,5 +165,72 @@ Here again my role is to support experts and be a stalwart ally.
 
 {% include back-to-top.html anchor="toc" %}
 
+##### What does "Kicker reform" mean? Do you want to abolish the Kicker/raise taxes?
+
+No, I do not want to abolish the Kicker. I actually like it, as it forces a government to be accountable to its budget.
+
+That said, it's been 45 years since the Kicker law was approved, and 26 since it has been in the Oregon Constitution.
+Haven't we learned some things that could improve implementation?
+
+One major problem with school funding in Oregon is that our budget can fluctuate so much year-to-year,
+since it's income tax, not property tax, based.
+In a down year, like a recession, we may have to make severe cuts to school budgets,
+but funding goes back up next year. All we've done is turn over staff and increase costs.
+
+Kicker reform could look something like allocating a portion of the overpayment (5%?) to a "rainy day fund"
+that is used to normalize the budget during down years.
+This would reduce staff reductions that are just a result of temporary economic conditions.
+
+Simply abolishing the kicker would raise taxes and probably result in even _worse_ budget problems,
+like overspending on one-time programs, as Multnomah County has.
+But smart reform could make this well-intentioned program work even better.
+
+{% include back-to-top.html anchor="toc" %}
+
+##### You want to "reform" Measure 5 and 50. Does that mean you want to raise property taxes?
+
+No, I do not want to raise property taxes.
+
+My problems with Measure 5 and 50 are that they create bad land use incentives (which reduces overall revenue by having fewer taxpayers),
+not that we need to raise more revenue per-household.
+
+It's important to understand that real estate taxes (what we call a property tax) are largely regressive.
+Most people with real estate, have it in their home, and if we increase taxes on real estate, it hits the middle class the hardest.
+Property taxes are also passed onto renters. Raising property taxes doesn't really impact the wealthy.
+
+The limit on growth in taxable value of property to 3% a year incentivizes people to hold onto property that they
+otherwise would have financial pressures to sell or develop. There are two distinct groups here: residents who don't need the space
+(like a retired couple living alone in the home they raised children in), and investors who own under-utilized lots
+(either vacant, abandoned, or an underperforming land use like a surface parking lot).
+
+Let's handle investors first, since it's easier. If you go to [Portland Maps](https://www.portlandmaps.com/)
+and find your closest long-vacant property, you'll almost certainly find they're paying very little property tax.
+If their property values grow 5% a year due to improvement in the neighborhood, but their taxes can only grow 3% a year,
+they are incentivized to hold onto the property. Even though this empty property is negatively impacting the neighborhood.
+This is a classic [Free Rider problem](https://en.wikipedia.org/wiki/Free-rider_problem).
+Reforming Measure 5 and 50 would allow something like a [Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax),
+which would raise rates on these investor-owned lots, so they either develop them, or sell them to someone who will.
+This is a plus for the community and the city for both revenue and land use (it does raise taxes on these lots).
+
+Let's handle the hardest residential case now: seniors on fixed income who have owned their home for 40 years.
+Reforming Measure 5/50 would mean raising their effective property taxes and making them homeless, right?
+
+Well, no. The difference in the taxable vs. real value of their home is actually the amount we're subsidizing these taxpayers,
+to the tune of tens of thousands of dollars a year in many cases. This is just the direct fiscal subsidy;
+there is also the opportunity cost of 1) lots that could be redeveloped for more productive use,
+and 2) families that cannot live in the city so move elsewhere, which depletes population (PPS enrollment!) and contributes to (expensive!) sprawl.
+
+It would be cheaper and better for older adults, too, to directly subsidize their move to smaller houses or apartments.
+Keep in mind as well that older adults are the fastest-growing age group experiencing homelessness.
+Our current tax policies, which prevent improved land use and have restricted housing development,
+directly contribute to this crisis.
+
+And to be clear, these things do not mean 'raise property taxes' in the aggregate.
+We could probably reduce many bills of those who are paying a higher share (usually lower wealth),
+while those who are underpaying (higher wealth) would see their bills increase.
+Reform would also result in better land use. The better land use, not a higher rate, would result in more revenue.
+
+{% include back-to-top.html anchor="toc" %}
+
 {% include footer/buffer.html %}
 {% include sectionend.html %}
