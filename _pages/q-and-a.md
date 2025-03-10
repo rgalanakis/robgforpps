@@ -167,6 +167,8 @@ Here again my role is to support experts and be a stalwart ally.
 
 ##### What does "Kicker reform" mean? Do you want to abolish the Kicker/raise taxes?
 
+<a id="what-does-kicker-reform-mean-do-you-want-to-abolish-the-kickerraise-taxes"></a>
+
 No, I do not want to abolish the Kicker. I actually like it, as it forces a government to be accountable to its budget.
 
 That said, it's been 45 years since the Kicker law was approved, and 26 since it has been in the Oregon Constitution.
@@ -188,6 +190,8 @@ But smart reform could make this well-intentioned program work even better.
 {% include back-to-top.html anchor="toc" %}
 
 ##### You want to "reform" Measure 5 and 50. Does that mean you want to raise property taxes?
+
+<a id="you-want-to-reform-measure-5-and-50-does-that-mean-you-want-to-raise-property-taxes"></a>
 
 No, I do not want to raise property taxes.
 

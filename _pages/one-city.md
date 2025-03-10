@@ -207,11 +207,11 @@ Finally, we know there are structural tax issues to work on reforming.
 We need to work with the legislature on:
 
 - Reforming the State School Funding (SSF) formula so that we can raise more than what is allowed by current law before being penalized. If the state will not fund the Quality Education Model (QEM), which its own studies say we need to spend to successfully educate our kids, then it must allow districts to make the missing dollars through property taxes. This funding number, unlike the SSF itself, is just a law, not part of the constitution, so can be changed by the legislature.
-- Align on Kicker reform. I am actually a fan of the Kicker, as it works to hold our government accountable to its own plans. But, we can certainly reform it to allow the government to work more effectively. Unfortunately, the prospect of free money initiates calls to "abolish the kicker," which doesn't seem feasible. Let's get real on this, and PPS should be an entity leading the way.
+- Align on Kicker reform. I am actually a fan of the Kicker, as it works to hold our government accountable to its own plans. But, we can certainly reform it to allow the government to work more effectively. Unfortunately, the prospect of free money initiates calls to "abolish the kicker," which doesn't seem feasible. Let's get real on this, and PPS should be an entity leading the way. [More on Kicker Reform](/q-and-a#what-does-kicker-reform-mean-do-you-want-to-abolish-the-kickerraise-taxes)
 - Align on reforms to Measures 5 and 50. We need to be careful when pointing fingers at these constitutional amendments;
   saying they are responsible for underfunded schools actually means "you should be paying more taxes."
   That said, Measures 5 and 50 have contributed to very bad incentives, such as holding onto property well beyond when owners should.
-  This is another area where, if PPS can set the right direction, there is a real possibility that we can move the discussion on Measures 5 and 50 reform forward.
+  This is another area where, if PPS can set the right direction, there is a real possibility that we can move the discussion on Measures 5 and 50 reform forward. [More on Measure 5 & 50 Reform](/q-and-a#you-want-to-reform-measure-5-and-50-does-that-mean-you-want-to-raise-property-taxes)
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
