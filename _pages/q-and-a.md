@@ -17,7 +17,7 @@ As voters ask my opinion on certain topics, I add them here so you can see where
 I believe this is important for accountability and transparency,
 so you can see I'm not just telling oyu what I think you want to hear.
 
-**Want a question answered? Email [robg.pdx@gmail.com](mailto:robg.pdx@gmail.com).**
+**Want a question answered? Email {% include email.html %}.**
 
 <a id="toc"></a>
 * TOC

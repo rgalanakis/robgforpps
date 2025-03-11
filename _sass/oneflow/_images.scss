@@ -14,11 +14,11 @@
   height: 200px;
 }
 
-.objection-position-quarter {
+.object-position-quarter {
   object-position: center 25% !important;
 }
 
-.objection-position-top {
+.object-position-top {
   object-position: center 10% !important;
 }
 
@@ -31,4 +31,15 @@
   .half > .image-popup > img {
     max-height: 500px;
   }
+}
+
+.image-media-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-2;
+}
+
+.image-media-portrait {
+  max-width: 400px;
+  object-fit: cover;
 }
