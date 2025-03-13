@@ -226,6 +226,23 @@ figure {
     }
   }
 
+  &.single {
+    margin-bottom: 1em;
+
+    > a,
+    > img {
+      /* Use full width on smaller screens, half on bigger */
+      width: calc(100% - 0.5em);
+      @include breakpoint($medium-wide) {
+        width: calc(50% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+
   &.third, &.half {
     align-items: stretch;
     gap: 1rem;

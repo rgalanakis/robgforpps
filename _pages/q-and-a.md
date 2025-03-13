@@ -7,6 +7,23 @@ header:
     overlay_image: /assets/images/o/ice-cream-bike-bus.jpg
     overlay_filter: rgba(0, 0, 0, 0.6)
     image_position: "center 30%"
+
+gallery-pat-1:
+  - url: "/assets/images/o/pat-glencoe.jpg"
+    image_path: "/assets/images/t/pat-glencoe.jpg"
+    alt: "Teachers and families picketing in front of a school"
+    title: "Picketing with families and teachers was a great way to talk about big issues like means of production with the kids!"
+gallery-pat-2:
+  - url: "/assets/images/o/pat-corking.jpg"
+    image_path: "/assets/images/t/pat-corking.jpg"
+    alt: "Teacher on a strike march a block away."
+    title: "It was a joy to cork for our PAT marchers Downtown."
+    class: "object-position-75"
+gallery-pat-3:
+  - url: "/assets/images/o/pat-strike-bus.jpg"
+    image_path: "/assets/images/t/pat-strike-bus.jpg"
+    alt: "Hundreds of bike riders wearing blue carrying strike signs."
+    title: "The Strike Bus was a highlight of my advocacy. Tons of fun and a big success."
 ---
 
 {% include sectionstart.html alt=1 first=1 %}
@@ -26,6 +43,47 @@ so you can see I'm not just telling oyu what I think you want to hear.
 {% include sectionend.html %}
 <hr class="section-sep" />
 {% include sectionstart.html %}
+
+##### What are your views on the Portland Association of Teachers?
+
+<a id="what-are-your-views-on-the-portland-association-of-teachers"></a>
+
+There's no question: I support our teachers and their union.
+
+When our teachers struck in November 2023, I wasn't just on the picket line, I was cooking them breakfast
+and helping raise money.
+
+{% include gallery id="gallery-pat-1" layout="single" %}
+
+When teachers were marching, like this one Downtown from Lincoln,
+I wasn't just with them, I was corking their march as protection.
+
+{% include gallery id="gallery-pat-2" layout="single" %}
+
+And when the strike was dragging on, I didn't sit on the sidelines. I led the organization of a
+[700-rider Strike Bus](https://bikeportland.org/2023/11/16/hundreds-roll-on-strike-bus-to-get-kids-outside-and-support-teachers-381854)
+to show the District we were behind our teachers.
+
+{% include gallery id="gallery-pat-3" layout="single" %}
+
+I do understand the criticisms of the PAT during the strike.
+But it's naive to blame one side in a negotiation for pushing for a better deal.
+**Why is it always our teachers and nurses who are expected to take a bad deal?**
+My wife is an ONA nurse at Providence Portland, who just wrapped up her second strike in three years.
+The guilt game, sacrificing these essential workers who care for our kids and our sick, is always the same.
+
+The job of resolving the strike lies with the Board, not the PAT.
+The Board is a democratically elected neutral party; they are *not* Administration,
+but they lined up as such, we got a prolonged clash, and everyone suffered.
+
+There are other ways the board could have acted.
+For an example, we can look at the City of Portland's behavior with AFSCME.
+In December 2024, the previous City Council was threatening to sue AFSCME, and AFSCME would have certainly struck.
+Once the new City Council took office, [some councilors joined a practice picket](https://www.wweek.com/news/city/2025/01/09/afscme-holds-practice-picket-at-portland-building-as-contract-negotiations-near-precipice/)
+to demonstrate their established solidarity with labor, and avoided a strike.
+We can do better!
+
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What is your position on school choice? Specifically, charter and lottery schools? What about vouchers?
 
@@ -61,7 +119,7 @@ The parent page is even called [School Choice](https://www.pps.net/schoolchoice)
 PPS needs to have a serious discussion about the role of its lottery schools,
 what purpose they are supposed to serve, and if they are effectively fulfilling that purpose.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### You used to oppose the May Bond. Now you support it. What changed your mind?
 
@@ -77,7 +135,7 @@ We need to do a much better job of explaining why this bond is vital to pass!
 If PPS had made a better argument from the start, and explained all the things I know now,
 I would have supported it earlier.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What are your thoughts on labor unions?
 
@@ -91,7 +149,7 @@ and the teachers and their union, can and traditionally have gotten along.
 It also speaks to how important having a good board,
 that understands the role of a board, is, because they are the ones bearing ultimate accountability for the strike.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What are your thoughts on performance pay and teacher accountability more broadly?
 
@@ -107,7 +165,7 @@ I have not been a teacher, so I don't know what that support system looks like y
 But we should listen to teachers who want to be doing better, observe teachers who are doing really well,
 and find interventions that will improve the outcomes we're looking for.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What are your thoughts about investing in class size reductions versus other interventions?
 
@@ -115,7 +173,7 @@ Class size reductions are super expensive. If we're going to invest in the staff
 then let's do it. If we're going to invest in lowering class sizes by one student,
 we need to look at how else that significant chunk of money can be spent.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What is the role of technology in the classroom?
 
@@ -130,7 +188,7 @@ There may be specific applications of technology that make sense.
 I'll leave this to education and subject-matter experts to sort out.
 But we need to remember that educating kids is, and will continue to be, expensive.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### How can PPS best serve LGBTQ+ and BIPOC students?
 
@@ -141,7 +199,7 @@ I can best serve these students in my capacity as a board member
 by helping to make sure those policies are evidence based and effective,
 and being stalwart ally.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What does school safety mean?
 
@@ -163,7 +221,7 @@ is going to reflect larger cultural trends. That said, the school system also in
 and I've been heartened the progress since when I was in school.
 Here again my role is to support experts and be a stalwart ally. 
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### What does "Kicker reform" mean? Do you want to abolish the Kicker/raise taxes?
 
@@ -187,7 +245,7 @@ Simply abolishing the kicker would raise taxes and probably result in even _wors
 like overspending on one-time programs, as Multnomah County has.
 But smart reform could make this well-intentioned program work even better.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 ##### You want to "reform" Measure 5 and 50. Does that mean you want to raise property taxes?
 
@@ -234,7 +292,7 @@ We could probably reduce many bills of those who are paying a higher share (usua
 while those who are underpaying (higher wealth) would see their bills increase.
 Reform would also result in better land use. The better land use, not a higher rate, would result in more revenue.
 
-{% include back-to-top.html anchor="toc" %}
+{% include back-to-top-hr.html anchor="toc" %}
 
 {% include footer/buffer.html %}
 {% include sectionend.html %}

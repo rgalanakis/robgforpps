@@ -38,7 +38,19 @@ gallery-2:
     image_path: "/assets/images/t/strongtowns-d3-chat.jpg"
     alt: "people sitting around a table in discussion"
     title: "Groups like StrongTownsPDX are coming up with bold and pragmatic ways to solve Portland's problems."
-
+gallery-2b:
+  - url: "/assets/images/o/pat-glencoe.jpg"
+    image_path: "/assets/images/t/pat-glencoe.jpg"
+    alt: "Teachers and families picketing in front of a school"
+    title: "Picketing with families and teachers was a great way to talk about big issues like means of production with the kids!"
+  - url: "/assets/images/o/pat-corking.jpg"
+    image_path: "/assets/images/t/pat-corking.jpg"
+    alt: "Teacher on a strike march a block away."
+    title: "It was a joy to cork for our PAT marchers Downtown."
+  - url: "/assets/images/o/pat-strike-bus.jpg"
+    image_path: "/assets/images/t/pat-strike-bus.jpg"
+    alt: "Hundreds of bike riders wearing blue carrying strike signs."
+    title: "The Strike Bus was a highlight of my advocacy. Tons of fun and a big success."
 ---
 
 # PPS Parent, Community Advocate
@@ -63,6 +75,9 @@ In Portland, I was an executive/co-founder at two companies ([Cozy](https://www.
 Experiencing Portland on two wheels, especially with my kids in tow, changed my relationship with my community.
 
 {% include gallery id="gallery-2" %}
+{% include gallery id="gallery-2b" %}
+
+(Read more about [my support for the Portland Association of Teachers](/q-and-a#what-are-your-views-on-the-portland-association-of-teachers))
 
 Seeing how this one relatively inexpensive thing &mdash; an electric cargo bike that cost as much as a car repair &mdash; could improve my life
 opened up a world of possibilities, where better choices in one area create gains in another.
