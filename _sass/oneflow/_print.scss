@@ -2,10 +2,22 @@
    PRINT STYLES
    ========================================================================== */
 
+.print-display {
+  display: none;
+}
+
 @media print {
 
   [hidden] {
     display: none;
+  }
+
+  .print-hidden {
+    display: none;
+  }
+
+  .print-display {
+    display: unset;
   }
 
   * {
@@ -238,6 +250,7 @@
   .page__related,
   .pagination,
   .ads,
+  .page__hero,
   .page__footer,
   .page__comments-form,
   .author__avatar,

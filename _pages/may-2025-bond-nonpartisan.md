@@ -1,8 +1,8 @@
 ---
-title: "May 2025 Bond"
-excerpt: "Vote Yes and Elect Good Fiscal Stewards"
+title: "May 2025 Bond Analysis"
+excerpt: "Nonpartisan Analysis of the May 2025 Bond"
 layout: page
-permalink: /may-2025-bond
+permalink: /may-2025-bond-nonpartisan
 
 header:
     overlay_image: /assets/images/o/city-council-testimony-from-balcony-aaron.jpg
@@ -10,14 +10,23 @@ header:
 
 ---
 
-# Why I'm a Yes on the May 2025 Bond
+# Vote Yes on the May 2025 Bond
 
-**NOTE: Need a nonpartisan version of this page to share with your PTA or other group?
-[Head this way](/may-2025-bond-nonpartisan) and safe as a PDF.**
+**NOTE: This is an edited version of the article at [https://www.robgforpps.com/may-2025-bond](https://www.robgforpps.com/may-2025-bond).**
+{:class="print-hidden"}
+
+**NOTE: This is an edited version of the article at<br />https://www.robgforpps.com/may-2025-bond.**
+{:class="print-display"}
+
+If you want a more condensed version, try asking ChatGPT or an alternative for a summary. This page can also be printed or converted to PDF.
+{:class="print-hidden"}
+
+[View as PDF](/assets/downloads/May 2025 Bond Analysis.pdf){:class="print-hidden"}
+
+<hr />{:class="print-hidden"}
 
 In January and February 2025, I had serious reservations about the May 2025 General Obligation Bond.
-In fact, in January I [testified against](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?tab=t.0){:target="_blank"}
-the bond authorization.
+In fact, in January I testified against the bond authorization.
 
 Eventually I came around to a **strong Yes vote**. Here I'll explain why.
 
@@ -30,14 +39,13 @@ I'm definitely a policy wonk and can keep up with technical jargon pretty well.
 I have spent hours reading over PPS budgets and bond reports
 as part of forming my opinion of this upcoming bond.
 
-I have a deep interest in municipal finance, especially as a member of [Strong Towns PDX](https://www.strongtownspdx.org/).
+I have a deep interest in municipal finance, especially as a member of Strong Towns PDX.
 Many of us are finance nerds. Our default position is that public entities spend way too much on "unprofitable" programs
 which do not increase the total wealth of the community. Suburban sprawl, which almost never ends up bringing in enough tax money
 to pay for the public expenses involved, is the common example. This approach ultimately impoverishes the entire community
 and isn't healthy for anyone.
 
-**Councilor Mitch Green (a campaign endorser!) introduced me to the term _fiscal stewardship_.**
-I have a major focus on fiscal stewardship.
+We can say that making good spending decisions if about **fiscal stewardship.**
 
 Educating kids is expensive, and there's no free lunch. Except at school,
 because free lunch is an excellent way to improve outcomes of students living in poverty.
@@ -199,6 +207,7 @@ This actually happened when the bond was presented to the board for a vote;
 I still cringe, and think it is worth keeping in mind that we need to apply extra scrutiny.
 
 I am worried that, if the wrong people are on the board, we will make irresponsible spending decisions.
+Along with the bond, will be four Board Director elections. Vote wisely!
 
 That said, our audits for previous bonds have actually turned out well, with exceptions noted below.
 I have "audited the audits" to a small degree, and they are rigorous,
@@ -214,7 +223,8 @@ The two problems with previous bonds identified by auditors are:
 Case in point is the mess we find ourselves in, behind on high school modernizations.
 If we passed a smaller bond, there is no reason to believe we'd get cheaper high schools.
 
-**To cut costs, we need the right people on the board to keep an eye on costs, and have the hard discussions about where to cut.**
+Good fiscal stewardship and smarter spending comes down to who you elect,
+not the bonds you pass.
 
 ### We Went 17 Years With No Capital Bond
 
@@ -234,8 +244,7 @@ That said, some of these numbers are taken largely for granted.
 Do we need $176m for technology upgrades? Has that project been managed well?
 Can we find some millions in savings?
 
-I don't know. This is a concern. The only way to solve it is to have an engaged, independent board
-who is able to challenge staff on their numbers.
+I don't know. This is a concern. It warrants more scrutiny.
 
 ### We Cannot Pass Another Large Bond
 
@@ -313,7 +322,7 @@ If those positive assumptions play out, then authorizing (and spending) the mone
 Your taxes are going to stay at the same rate when we'd raise the new bond to modernize Jefferson in 8 years.
 
 If those assumptions don't play out, and enrollment forecasts mean we don't need the capacity Jefferson affords,
-we will have overspent. It'll be among the least of our problems, due to structural budget issues explained elsewhere.
+we will have overspent. It'll be among the least of our problems, due to structural budget issues explained above.
 It will also not be the worst of things to overspend on, as explained next.
 
 ### Purposes For Raised Funds Are Limited
@@ -350,23 +359,11 @@ compared to spending the money on other projects.
 
 ## Ongoing Concerns
 
-All of this said: I have ongoing concerns about the bond. These are things I will keep at top of mind while I'm on the board.
+All of this said: I have ongoing concerns about the bond.
 
 - Using bond funds for technology upgrades is simply unsustainable in the long run. We will be paying 2x the costs due to interest, compared to pay-as-you-go. This needs to be solved as part of the operating budget.
 - If revenues drop, or the interest rate increases, we will run into serious revenue problems. We aren't really holding anything back in terms of being able to raise a big bond in the next few decades, as explained above. This is the right decision, I think, but we need to keep in mind the high stakes this bond comes with.
 - PPS still has structural problems, and having this money may tempt us to paper over those structural problems. A crisis is an opportunity; we must not forget we're in a crisis.
 - There is a lot of potential wiggle room for some of the high school modernizations. We need to be extremely diligent about cost savings. Having this authorization must not allow us to overspend.
-
-## Final Thoughts
-
-Passing a smaller bond does not mean we'll make more responsible decisions.
-
-We can overspend on a small bond, and we can be good fiscal stewards on a big bond.
-
-The important thing is electing the right people to the board to make good decisions on this money,
-to push for savings where we can find them, and to make sure we provide close oversight.
-
-I hope this analysis shows you that **I'm the right candidate to provide the fiscal stewardship
-our board requires, and I look forward to serving all of Portland.**
 
 {% include footer/buffer.html %}
