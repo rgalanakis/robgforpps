@@ -111,7 +111,7 @@ This brain-body unification explains why students do better in school when they 
 
 Addressing this solely through Physical Education and Recess has limits. There is only so much room in the gym, or on the playground, and this time comes at the expense of academic instruction.
 
-But students often spend 20-60 minutes each day getting driven to school. Time which must be better spent if we want better schools.
+But students often spend 20-60 minutes each day getting driven to school. Time which must be better spent if we want great schools.
 
 PPS must explicitly encourage families and students to get to school by walking and biking, well beyond window dressing. They should work with [Bike Bus PDX](https://bikebuspdx.org) on creating daily Bike Bus routes at _every_ PPS school, and a system that would allow children to attend without an adult, like the yellow school bus works.
 
