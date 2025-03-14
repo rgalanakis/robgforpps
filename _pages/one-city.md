@@ -31,79 +31,16 @@ This will allow development of 1,000 new housing units, work to right generation
 
 <a id="toc"></a>
 <div class="policy-toc">
-  {% include policy-nav.html title="Abundant Housing, Increased Enrollment" slug="housing" %}
-  {% include policy-nav.html title="Safe, Social, Green Transportation" slug="transportation" %}
   {% include policy-nav.html title="Improve Student Health" slug="health" %}
+  {% include policy-nav.html title="Safe, Social, Green Transportation" slug="transportation" %}
   {% include policy-nav.html title="Fight Climate Change" slug="climate" %}
+  {% include policy-nav.html title="Abundant Housing, Increased Enrollment" slug="housing" %}
   {% include policy-nav.html title="Prioritize Fiscal Stewardship" slug="fiscal" %}
   {% include policy-nav.html title="Schools are Laboratories of Democracy" slug="civic" %}
   {% include policy-nav.html title="We Are One City" slug="onecity" %}
   {% include policy-nav.html title="Read My Public Testimony" slug="testimony" %}
 </div>
 
-{% include sectionend.html %}
-<hr class="section-sep" />
-{% include sectionstart.html %}
-
-{% include policy-heading.html slug="housing" title="One City Housing Policy" %}
-
-The performance of students of color compared to their white counterparts is a persistent issue.
-PPS has been trying, and must continue trying, to improve outcomes through education policy.
-But we also need to look at simpler, broader solutions that PPS needs to be a partner in.
-
-One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.
-{:class="policy-proposal"}
-
-We need to give families unhappy with their current school other options within PPS.
-But we know doing this through charters, lotteries, longer commutes, and bussing often results in _worse_ outcomes overall.
-
-So one solution is to increase the supply of housing around higher-performing schools, to allow families more places to move within Portland.
-
-Unfortunately, most of the city is still zoned for large-lot residential, which limits mobility by economically disadvantaged families. If PPS were advocating for a broad upzoning, like the [Inner Eastside for All](https://portlandneighborswelcome.org/inner-eastside-for-all) plan, we would see more family-friendly apartments that are affordable to families of color, feeding into our higher-performing neighborhood schools.
-
-More of these apartments could be located away from dangerous, unhealthy arterials, where most apartment stock is forced to be located now.
-
-Increasing housing supply would also offset PPS’s enrollment decline. PPS's projected enrollment declines are _by far_ larger than our neighbors (most of which will grow),
-and the biggest factor in outmigration is _by far_ the cost of housing. New families are leaving because they cannot afford to live in our city.
-
-One City Policy: Lease unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.
-{:class="policy-proposal"}
-
-On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted leasing or using them.
-There's no reason we should be holding onto vacant properties. We can lease (or sell) them, which can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment).
-
-It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
-
-{% include back-to-top.html anchor="toc" %}
-{% include sectionend.html %}
-<hr class="section-sep" />
-{% include sectionstart.html alt=1 %}
-
-{% include policy-heading.html slug="transportation" title="One City Transportation Policy" %}
-
-Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
-
-One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools.
-{:class="policy-proposal"}
-
-Transportation is the largest contributor to emissions in Oregon, and it has almost no reduction over 1990 levels, largely because we are driving more.
-We need schools to be on the hook for carbon emissions reduction, not just in things like building design and electrification,
-but through encouraging more sustainable behaviors.
-
-One City Policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.
-{:class="policy-proposal"}
-
-PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
-
-One City Policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.
-{:class="policy-proposal"}
-
-Interventions like Walking School Buses and Bike Buses are proven ways to improve attendence.
-It is the most cost-effective, equitable way to reach many at-risk children.
-
-These interventions continue to reinforce the need for a safe street network.
-
-{% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
 <hr class="section-sep" />
 {% include sectionstart.html %}
@@ -150,6 +87,35 @@ and many schools don't know or don't bother.
 <hr class="section-sep" />
 {% include sectionstart.html alt=1 %}
 
+{% include policy-heading.html slug="transportation" title="One City Transportation Policy" %}
+
+Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school?
+
+One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools.
+{:class="policy-proposal"}
+
+But home-to-school transportation is not under the purview of anyone at PPS.
+Schools need to be on the hook for increasing the numbers of kids walking and biking to school,
+which impacts carbon emissions, health, land use, enrollment, and will make significant impacts on educational achievement.
+
+One City Policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.
+{:class="policy-proposal"}
+
+PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
+
+One City Policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.
+{:class="policy-proposal"}
+
+Interventions like Walking School Buses and Bike Buses are proven ways to improve attendence.
+It is the most cost-effective, equitable way to reach many at-risk children.
+
+These interventions continue to reinforce the need for a safe street network.
+
+{% include back-to-top.html anchor="toc" %}
+{% include sectionend.html %}
+<hr class="section-sep" />
+{% include sectionstart.html %}
+
 {% include policy-heading.html slug="climate" title="One City Climate Policy" %}
 
 Today’s students are wrestling with a high likelihood of 2°C warming by 2050, and the ensuing destruction and instability it will cause.
@@ -168,7 +134,42 @@ For example, urban households have 1/4 of the GHG emissions of suburban househol
 One City Policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.
 {:class="policy-proposal"}
 
-Similarly, the plan is silent on home-to-school transportation, even though these car trips have an emissions impact on par with all PPS transportation emissions. By replacing car trips with walking, biking, or the bus, PPS can reduce the emissions it is responsible for. Money spent on replacing vehicles may be better spent on getting families walking and biking.
+Transportation is the largest contributor to emissions in Oregon, and it has almost no reduction over 1990 levels, largely because we are driving more.
+Yet the plan is silent on home-to-school transportation, even though these car trips have an emissions impact on par with all PPS transportation emissions. By replacing car trips with walking, biking, or the bus, PPS can reduce the emissions it is responsible for. Money spent on replacing vehicles may be better spent on getting families walking and biking.
+
+{% include back-to-top.html anchor="toc" %}
+{% include sectionend.html %}
+<hr class="section-sep" />
+{% include sectionstart.html alt=1 %}
+
+{% include policy-heading.html slug="housing" title="One City Housing Policy" %}
+
+The performance of students of color compared to their white counterparts is a persistent issue.
+PPS has been trying, and must continue trying, to improve outcomes through education policy.
+But we also need to look at simpler, broader solutions that PPS needs to be a partner in.
+
+One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.
+{:class="policy-proposal"}
+
+We need to give families unhappy with their current school other options within PPS.
+But we know doing this through charters, lotteries, longer commutes, and bussing often results in _worse_ outcomes overall.
+
+So one solution is to increase the supply of housing around higher-performing schools, to allow families more places to move within Portland.
+
+Unfortunately, most of the city is still zoned for large-lot residential, which limits mobility by economically disadvantaged families. If PPS were advocating for a broad upzoning, like the [Inner Eastside for All](https://portlandneighborswelcome.org/inner-eastside-for-all) plan, we would see more family-friendly apartments that are affordable to families of color, feeding into our higher-performing neighborhood schools.
+
+More of these apartments could be located away from dangerous, unhealthy arterials, where most apartment stock is forced to be located now.
+
+Increasing housing supply would also offset PPS’s enrollment decline. PPS's projected enrollment declines are _by far_ larger than our neighbors (most of which will grow),
+and the biggest factor in outmigration is _by far_ the cost of housing. New families are leaving because they cannot afford to live in our city.
+
+One City Policy: Lease unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.
+{:class="policy-proposal"}
+
+On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted leasing or using them.
+There's no reason we should be holding onto vacant properties. We can lease (or sell) them, which can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment).
+
+It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
@@ -195,7 +196,7 @@ One City Policy: Make growth-centered investments.
 Population growth and increased density makes all of our fiscal problems easier to solve.
 This is one reason why I'm [Yes on the May 2025 Bond](/may-2025-bond).
 
-One City Policy: Scrutinize spending.
+One City Policy: Scrutinize spending by making tradeoffs and priorities clear.
 {:class="policy-proposal"}
 
 While growth and density allows us to solve structural problems, it can also just kick the can down the road.

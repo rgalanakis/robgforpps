@@ -41,13 +41,9 @@
 
 .policy-proposal {
   @include notice($yellow-light);
-  margin-top: 1.75em !important;
-  margin-bottom: 1em !important;
 }
 .alternative-color {
   .policy-proposal {
     @include notice($background-color);
-    margin-top: 1.75em !important;
-    margin-bottom: 1em !important;
   }
 }
