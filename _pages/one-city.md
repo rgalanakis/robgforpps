@@ -51,6 +51,9 @@ The performance of students of color compared to their white counterparts is a p
 PPS has been trying, and must continue trying, to improve outcomes through education policy.
 But we also need to look at simpler, broader solutions that PPS needs to be a partner in.
 
+One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.
+{:class="policy-proposal"}
+
 We need to give families unhappy with their current school other options within PPS.
 But we know doing this through charters, lotteries, longer commutes, and bussing often results in _worse_ outcomes overall.
 
@@ -63,14 +66,11 @@ More of these apartments could be located away from dangerous, unhealthy arteria
 Increasing housing supply would also offset PPS’s enrollment decline. PPS's projected enrollment declines are _by far_ larger than our neighbors (most of which will grow),
 and the biggest factor in outmigration is _by far_ the cost of housing. New families are leaving because they cannot afford to live in our city.
 
-One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.
+One City Policy: Lease unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.
 {:class="policy-proposal"}
 
 On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted leasing or using them.
 There's no reason we should be holding onto vacant properties. We can lease (or sell) them, which can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment).
-
-One City Policy: Lease unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.
-{:class="policy-proposal"}
 
 It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
 
@@ -83,25 +83,25 @@ It gets better: increased enrollment is revenue-positive for PPS. Additional stu
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school? But home-to-school transportation is not under the purview of anyone at PPS.
 
-PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
-
-One City Policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.
-{:class="policy-proposal"}
-
-Interventions like Walking School Buses and Bike Buses are proven ways to improve attendence.
-It is the most cost-effective, equitable way to reach many at-risk children.
-
-These interventions continue to reinforce the need for a safe street network.
-
-One City Policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.
+One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools.
 {:class="policy-proposal"}
 
 Transportation is the largest contributor to emissions in Oregon, and it has almost no reduction over 1990 levels, largely because we are driving more.
 We need schools to be on the hook for carbon emissions reduction, not just in things like building design and electrification,
 but through encouraging more sustainable behaviors.
 
-One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools.
+One City Policy: Support students walking and biking with reduced car speeds and less exposure to traffic on Safe Routes along Neighborhood Greenways and around schools.
 {:class="policy-proposal"}
+
+PPS should be using its role as the region’s largest car-trip-generator to support policies that result in fewer car trips. For example, PPS should work with Portland Bureau of Transportation (PBOT) Safe Routes to School (SRTS) to add infrastructure to Neighborhood Greenways that also serve schools. One of the major drivers of cost is public engagement&mdash; but by being a partner to PBOT, PPS can defray this cost and deliver schools that even young children are safe to walk and bike to.
+
+One City Policy: Establish walking school buses supported by volunteer stipends, which are proven to improve attendence of at-risk youth.
+{:class="policy-proposal"}
+
+Interventions like Walking School Buses and Bike Buses are proven ways to improve attendence.
+It is the most cost-effective, equitable way to reach many at-risk children.
+
+These interventions continue to reinforce the need for a safe street network.
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
@@ -114,36 +114,36 @@ As animals, we have brains in order to move. In fact, there are animals like the
 
 This brain-body unification explains why students do better in school when they get more exercise, as shown and explained in books like [Spark](https://www.goodreads.com/book/show/721609.Spark).
 
-Addressing this solely through Physical Education and Recess has limits. There is only so much room in the gym, or on the playground, and this time comes at the expense of academic instruction.
+One City Policy: Treat increased physical activity to and from school as the powerful educational intervention it is, and support it as such.
+{:class="policy-proposal"}
+
+Addressing exercise solely through Physical Education and Recess has limits. There is only so much room in the gym, or on the playground, and this time comes at the expense of academic instruction.
 
 But students often spend 20-60 minutes each day getting driven to school. Time which must be better spent if we want great schools.
 
 PPS must explicitly encourage families and students to get to school by walking and biking, well beyond window dressing. They should work with [Bike Bus PDX](https://bikebuspdx.org) on creating daily Bike Bus routes at _every_ PPS school, and a system that would allow children to attend without an adult, like the yellow school bus works.
 
-One City Policy: Treat increased physical activity to and from school as the powerful educational intervention it is, and support it as such.
+One City Policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.
 {:class="policy-proposal"}
 
-PBOT has a Bike Training program that is nowhere near big enough to support PPS. These classes, done during gym for 3 weeks, are popular with students and give them the tools they need for independence and getting to school. PPS could provide bike training at all schools each year for low cost, much of it covered through grant funding.
+PBOT has a Bike Training program that is nowhere near big enough to support PPS. These classes, done during gym for 3 weeks (which I have taught for the last 2 years), are popular with students and give them the tools they need for independence and getting to school. PPS could provide bike training at all schools each year for low cost, much of it covered through grant funding.
 
 Studies show this additional exercise could lead to a significant increase in test scores and attendance. It would also improve how kids get around the city, and help re-establish Portland's cultural capital. And it would be basically free for PPS.
 
-One City Policy: Incorporate bike education into K-8 education at all schools to establish independence and healthy habits.
+One City Policy: Figure out why more classrooms aren't running the air purifiers we already have.
 {:class="policy-proposal"}
 
 Students do better with cleaner air. When we weigh the benefits of cleaner air against the costs of unclear air,
 the benefits are overwhelming. We need to support our staff in making sure classroom air is cleaned, and our students
 and staff are not exposed to unnecessary pathogens and pollution inside the classroom.
 
-One City Policy: Figure out why more classrooms aren't running the air purifiers we already have.
+One City Policy: PBOT and PPS must work together to roll out Idle Free Zone signage and education district-wide.
 {:class="policy-proposal"}
 
 Likewise, kids are exposed to harmful pollutants on their way into class.
 While many schools need private car access, parents don't need to be idling their cars near schools.
 PBOT actually has "idle free zone" signage but the process to put it up is cumbersome
 and many schools don't know or don't bother.
-
-One City Policy: PBOT and PPS must work together to roll out Idle Free Zone signage and education district-wide.
-{:class="policy-proposal"}
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
@@ -156,19 +156,19 @@ Today’s students are wrestling with a high likelihood of 2°C warming by 2050,
 
 School is one of the most important institutions in the lives of families, and PPS needs to do more to fight this existential threat.
 
+One City Policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan to provide a more holistic view of PPS emissions reductions or increases.
+{:class="policy-proposal"}
+
 PPS has an aggressive, but unfunded and toothless, Climate Crisis Response Plan. This plan exists in a vacuum, looking only at direct sources of emissions and how to replace them. For example, transportation decarbonization is based entirely on replacing the fossil fuel fleet. Unfortunately, this is expensive, slow, and unfunded.
 
 Instead, PPS’s climate response plan should look at the bigger picture around Greenhouse Gas (GHG) Reduction, and prioritize what is practical and effective to change.
 
 For example, urban households have 1/4 of the GHG emissions of suburban households. By increasing enrollment, PPS would have a large emissions reduction impact. Money spent on certain direct GHG reductions may be better spent on enrollment increases.
 
-One City Policy: Incorporate impacts that PPS influences but does not control outright, such as enrollment, into the Climate Crisis Response Plan to provide a more holistic view of PPS emissions reductions or increases.
+One City Policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.
 {:class="policy-proposal"}
 
 Similarly, the plan is silent on home-to-school transportation, even though these car trips have an emissions impact on par with all PPS transportation emissions. By replacing car trips with walking, biking, or the bus, PPS can reduce the emissions it is responsible for. Money spent on replacing vehicles may be better spent on getting families walking and biking.
-
-One City Policy: Incorporate home-to-school transportation into the Climate Crisis Response Plan to encourage pulling more levers to reduce carbon emissions.
-{:class="policy-proposal"}
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
@@ -255,30 +255,30 @@ The trope of angry parents yelling at the School Board or principal is only a tr
 
 Schools are our most local public institutions, but the lack of civic involvement sets an embarassing example for a democratic society.
 
+One City Policy: Ensure schools adhere to and enhance Site Council and Climate & Culture Team bylaws on democratic involvement to increase teacher and parent engagement.
+{:class="policy-proposal"}
+
 How many school Site Councils adhere to their bylaws, which usually require elections, meeting minutes, and communications? How many Climate & Culture Teams make community-wide decisions with no community input?
 
 We know people opt-out of engagement when they feel like it doesn't matter. PPS is happy to ask parents to wash lunch trays and rake leaves, but we're unwelcome when we want to be partners in decisionmaking.
 
-One City Policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.
+One City Policy: Lead the way on democratic good governance by adding a PAT representative to the PPS Board,
+to help implement smart policies, and ensure a healthy, strike-free relationship.
+{:class="policy-proposal"}
+
+Studies repeatedly show that corporations with union representatives on their boards outperform those without.
+Having union representation on boards is common in Nordic countries for example.
+We already have a Student Representative on the PPS board.
+We should add a PAT representative as well. They can start off with similar restrictions to the Student Rep,
+and we can evaluate how it works.
+
+One City Policy: Create a process to identify and remove administrative roadblocks that parents and teachers run into when trying to improve their school.
 {:class="policy-proposal"}
 
 We know parent involvement is one of the key predictors of student outcomes.
 By recommitting to include parents in designing and implementing solutions,
 we give them a reason to engage, rather than tune out. We know this will help our students.
 And experience says this also helps our city and society at large.
-
-One City Policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.
-{:class="policy-proposal"}
-
-On top of that, studies repeatedly show that corporations with union representatives on their boards outperform those without.
-Having Union representation on boards is common in Nordic countries for example.
-We already have a Student Representative on the PPS board.
-We should add a PAT representative as well. They can start off with similar restrictions to the Student Rep,
-and we can evaluate how it works.
-
-One City Policy: Lead the way on democratic good governance by adding a PAT representative to the PPS Board,
-to help implement smart policies, and ensure a healthy, strike-free relationship.
-{:class="policy-proposal"}
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
@@ -294,8 +294,10 @@ We saw this clearly during the PAT strike in November 2023. The city stayed as f
 Our schools do more than teach our kids&mdash; they are essential to the health of our city. And our city is essential to the health of our schools! One example: the city's lack of housing affordable to families has resulted in a flight to the suburbs; this reduces tax revenue, forcing cuts in PPS spending. Or how about: PPS's poor performance pushes more children into charter and private schools, creating longer car trips (30% of trips during morning hours are to school!), which hurts city climate goals, creates congestion, and puts pressure on astronomically expensive roadway maintenance. The examples go on, because City and Schools are both essential parts of Portland.
 
 I pledge to work with the City to streamline overlaps and inefficiencies, so we can do more with limited resources. To build safe streets so we have healthier and happier kids. To get more housing built so we can have more PPS families.
-
+<br />
+<br />
 To support each other in our work, instead of antagonize. Portland the City and Portland the School District must learn to live together as family, or perish together as fools.
+{:class="policy-proposal"}
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
