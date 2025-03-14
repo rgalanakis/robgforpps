@@ -65,10 +65,10 @@ and the biggest factor in outmigration is _by far_ the cost of housing. New fami
 
 **One City Policy: Advocate for broad upzoning and increased housing supply to improve student performance and increase enrollment.**
 
-On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted selling them.
-There's no reason we should be holding onto these properties. Their sale can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment). 
+On top of this, PPS is one of the largest landholders in the city. Many properties sit vacant, and PPS has resisted leasing or using them.
+There's no reason we should be holding onto vacant properties. We can lease (or sell) them, which can raise funds, reduce maintenance and liabilities, and increase housing supply (and enrollment).
 
-**One City Policy: Sell unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.**
+**One City Policy: Lease unused property to raise funds, reduce maintenance and liabilities, and increase housing supply and enrollment.**
 
 It gets better: increased enrollment is revenue-positive for PPS. Additional students are served by the same fixed costs that are already paid for. And of course, the additional housing leads to additional property taxes to fund PPS.
 
@@ -96,7 +96,7 @@ Transportation is the largest contributor to emissions in Oregon, and it has alm
 We need schools to be on the hook for carbon emissions reduction, not just in things like building design and electrification,
 but through encouraging more sustainable behaviors.
 
-**One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director and they should be evaluated on reduction of car trips at neighborhood schools.**
+**One City Policy: All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools.**
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}
