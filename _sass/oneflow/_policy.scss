@@ -38,3 +38,12 @@
     height: $h-size-1;
   }
 }
+
+.policy-proposal {
+  @include notice($yellow-light);
+}
+.alternative-color {
+  .policy-proposal {
+    @include notice($background-color);
+  }
+}
