@@ -201,6 +201,21 @@ It is increasingly likely that this project will require General Fund dollars or
 On top of this, the main point of moving more cars along I-5 is to shuttle Washington residents into and out of Portland,
 making it even easier for Portlanders to live in Clark County, exploiting our amenities while not paying a dime.
 
+**One City Policy: Better use PPS's bond-raising capacity.**
+
+While the City of Portland doesn't have $3m to rebuild the vital [Columbia Park Pool](https://northpeninsulareview.com/parks-to-demolish-columbia-pool-reopen-pier-pool/), PPS has plenty of money for capital projects.
+In fact, while schools can bond against 0.5% of property values, the rest of the entire city can only bond against 1%,
+and this 1% covers a lot of stuff (fire, police, pensions). The 0.5% for PPS is almost entirely for capital projects.
+
+PPS could make an enormously positive impact on the lives of its families
+by taking on the most cost-effective projects from Portland Parks & Recreation,
+like renovating pools and recreation centers. PPS could buy part of the property,
+renovate it using its capital bond raising authority, and hand it back to Parks.
+
+Before we argue about whether this makes sense or not, consider how utterly arbitrary
+the school vs. everything-else caps on property tax rates are.
+This is another case where we can be revenue-neutral and make a tremendously better impact than our current plans achieve.
+
 **One City Policy: Unify on tax reform.**
 
 Finally, we know there are structural tax issues to work on reforming.
@@ -228,14 +243,23 @@ How many school Site Councils adhere to their bylaws, which usually require elec
 
 We know people opt-out of engagement when they feel like it doesn't matter. PPS is happy to ask parents to wash lunch trays and rake leaves, but we're unwelcome when we want to be partners in decisionmaking.
 
+**One City Policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.**
+
 We know parent involvement is one of the key predictors of student outcomes.
 By recommitting to include parents in designing and implementing solutions,
 we give them a reason to engage, rather than tune out. We know this will help our students.
 And experience says this also helps our city and society at large.
 
-**One City Policy: Ensure schools are adhering to Site Council and Climate & Culture Team bylaws that include parent involvement, and revisit PPS policy and those bylaws, to keep parents engaged.**
-
 **One City Policy: Identify and eliminate administrative directives that override local democratic participation and are not connected to education activities, for example related to site management. Eliminate bureaucracy and make better local decisions.**
+
+On top of that, studies repeatedly show that corporations with union representatives on their boards outperform those without.
+Having Union representation on boards is common in Nordic countries for example.
+We already have a Student Representative on the PPS board.
+We should add a PAT representative as well. They can start off with similar restrictions to the Student Rep,
+and we can evaluate how it works.
+
+**One City Policy: Lead the way on democratic good governance by adding a PAT representative to the PPS Board,
+to help implement smart policies, and ensure a healthy, strike-free relationship.**
 
 {% include back-to-top.html anchor="toc" %}
 {% include sectionend.html %}

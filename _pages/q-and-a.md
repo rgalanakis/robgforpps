@@ -78,7 +78,7 @@ It's easy to forget that the strike happened amid a toxic environment that PAT d
 
 On top of that, Board leadership bears blame,
 both for allowing relationships to deteriorate so tragically, and also their behavior during the strike.
-While their only legal responsibility is to approve contracts, they are also a democratically represented
+While their only legal responsibility was to vote on contracts, they are also a democratically represented
 and neutral third party. They should have been working with both sides, as they are accountable to voters.
 Unfortunately, leadership lined up as part of management, we got a prolonged clash, and everyone suffered.
 
@@ -87,7 +87,8 @@ For an example, we can look at the City of Portland's behavior with AFSCME.
 In December 2024, the previous City Council was threatening to sue AFSCME, and AFSCME would have certainly struck.
 Once the new City Council took office, [some councilors joined a practice picket](https://www.wweek.com/news/city/2025/01/09/afscme-holds-practice-picket-at-portland-building-as-contract-negotiations-near-precipice/)
 to demonstrate their established solidarity with labor, and avoided a strike.
-We can do better!
+
+We can do better! Why not [add a PAT representative to the board](/one-city#civic)?
 
 {% include back-to-top-hr.html anchor="toc" %}
 
