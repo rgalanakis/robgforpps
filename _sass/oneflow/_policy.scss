@@ -47,3 +47,16 @@
     @include notice($background-color);
   }
 }
+
+.policy-proposal-divider {
+  display: flex;
+  justify-content: center;
+}
+
+.policy-proposal-icon {
+  height: 16px;
+  min-height: 16px;
+  margin-right: $spacing-1;
+  display: inline;
+  vertical-align: middle;
+}
