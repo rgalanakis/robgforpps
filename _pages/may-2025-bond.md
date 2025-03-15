@@ -13,7 +13,7 @@ header:
 # Why I'm a Yes on the May 2025 Bond
 
 **NOTE: Need a nonpartisan version of this page to share with your PTA or other group?
-[Head this way](/may-2025-bond-nonpartisan) and safe as a PDF.**
+[Head this way](/may-2025-bond-nonpartisan) and save as a PDF.**
 
 In January and February 2025, I had serious reservations about the May 2025 General Obligation Bond.
 In fact, in January I [testified against](https://docs.google.com/document/d/1pfrKTY1GyICIqLEWHT3SZmY8aw3B6Radrvn5XnSyZeQ/edit?tab=t.0){:target="_blank"}

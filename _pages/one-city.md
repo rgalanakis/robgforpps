@@ -67,7 +67,7 @@ Studies show this additional exercise could lead to a significant increase in te
 
 {% include policy-proposal.html slug="health" text="Figure out why more classrooms aren't running the air purifiers we already have." %}
 
-Students do better with cleaner air. When we weigh the benefits of cleaner air against the costs of unclear air,
+Students do better with cleaner air. When we weigh the benefits of cleaner air against the costs of unclean air,
 the benefits are overwhelming. We need to support our staff in making sure classroom air is cleaned, and our students
 and staff are not exposed to unnecessary pathogens and pollution inside the classroom.
 
