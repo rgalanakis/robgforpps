@@ -14,6 +14,9 @@ photo:
   - name: Alan Hipólito
     title: Digital Justice Advocate
     slug: alan-hipolito
+  - name: Moms Demand Action
+    title: Distinction, not Endorsement
+    slug: gun-sense
   - name: Kiel Johnson
     title: Owner and Founder, Go By Bike
     slug: kiel-johnson
@@ -26,19 +29,21 @@ photo:
   - name: Cathy Tuttle
     title: PhD & City Planner
     slug: cathy-tuttle
+  - name: Walt Alexander
+    title: Co-founder, Pine State Biscuits
+    slug: walt-alexander
+  - name: Viv Jeevan
+    title: Bicycle Traffic Instructor
+    slug: viv-jeevan
 text:
   - name: Shawne Martinez
     title: Award-winning Safe Streets Advocate
-  - name: Walt Alexander
-    title: Co-founder, Pine State Biscuits
   - name: Eva Frazier
     title: Former co-owner, Clever Cycles
   - name: Momoko Saunders
     title: COO at Bike Farm
   - name: Tony Jordan
     title: President, Parking Reform Network
-  - name: Viv Jeevan
-    title: Bicycle Traffic Instructor
   - name: Lauren McCune
     title: Abernethy Bike Bus
   - name: Catie Tam
