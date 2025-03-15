@@ -2,24 +2,24 @@ photo:
   - name: Councilor Mitch Green
     title: Portland City Councilor, District 4
     slug: mitch-green
+  - name: Rita Moore
+    title: Former PPS Board Member
+    slug: rita-moore
+  - name: Chris Smith
+    title: Former Portland Planning Commissioner
+    slug: chris-smith
   - name: Coach Sam Balto
     title: Nationally Recognized Safe Routes to School Advocate
     slug: sam-balto
   - name: Alan Hipólito
     title: Digital Justice Advocate
     slug: alan-hipolito
-  - name: Chris Smith
-    title: Former Portland Planning Commissioner
-    slug: chris-smith
   - name: Kiel Johnson
     title: Owner and Founder, Go By Bike
     slug: kiel-johnson
   - name: Victoria Via
     title: Architect & Strong Towns PDX Co-Lead
     slug: victoria-via
-  - name: Walt Alexander
-    title: Co-founder, Pine State Biscuits
-    slug: walt-alexander
   - name: Michael Andersen
     title: Cities + Towns Director, Sightline Institute
     slug: michael-andersen
@@ -29,6 +29,8 @@ photo:
 text:
   - name: Shawne Martinez
     title: Award-winning Safe Streets Advocate
+  - name: Walt Alexander
+    title: Co-founder, Pine State Biscuits
   - name: Eva Frazier
     title: Former co-owner, Clever Cycles
   - name: Momoko Saunders
