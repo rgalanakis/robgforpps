@@ -176,9 +176,18 @@ and find interventions that will improve the outcomes we're looking for.
 
 ##### What are your thoughts about investing in class size reductions versus other interventions?
 
-Class size reductions are super expensive. If we're going to invest in the staff for halving class sizes,
-then let's do it. If we're going to invest in lowering class sizes by one student,
-we need to look at how else that significant chunk of money can be spent.
+We all know class sizes are too large. Unfortunately, class sizes are very expensive to reduce directly
+(it doesn't make a difference if we are talking about max class sizes, or averages).
+
+I would love if Portlanders and Oregonians made the investment to bring down class sizes way down,
+which would take increased revenue and likely higher taxes.
+
+Short of that, we need to get creative about mitigating the impacts of large class sizes.
+It isn't clear what levers we have to pull, as the research is hard to untangle.
+
+I believe we're at the start of this process; figuring out how to cope will require the involvement
+of classroom teachers, along with researchers, and a best effort from parents
+and the rest of our school communities.
 
 {% include back-to-top-hr.html anchor="toc" %}
 
