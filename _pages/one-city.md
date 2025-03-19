@@ -88,9 +88,24 @@ and many schools don't know or don't bother.
 
 Did you know that 30% of car trips during Portland’s rush hour are trips to and from school? And that the majority of students are driven to school?
 
-{% include policy-proposal.html slug="transportation" text="All home-to-school transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools." %}
+{% include policy-proposal.html slug="transportation" text="Reduce bussing needs to get better school start times." %}
 
-But home-to-school transportation is not under the purview of anyone at PPS.
+Did you know that school start times are determined by the costs and availability of bussing?
+
+Elementary schools start too early, at 8am. Middle schools start too late, at 9:15am.
+School start times are *entirely* a transportation issue.
+
+Aside from the broad impacts, cconsider how inequitable the current regime is:
+bus riders are disproportionately lower-income, and in many cases kids are sitting on the bus for 40+ minutes for what would be a 10-minute bike ride. What would you give for 30 minutes of extra sleep and 10 minutes of exercise for your kid each morning?
+
+If individual schools could "opt in" to alternative transportation schemes, like daily Bike Buses that cover certain bus stops,
+we could speed up bus routes, and potentially eliminate entire routes (the bus could serve a different school, pushing back pickup times so kids can sleep in more).
+
+The need to provide yellow school buses is defined in state code, but changing it to allow exceptions would not cost any money. 
+
+{% include policy-proposal.html slug="transportation" text="All transportation should be the responsibility of the Transportation Director, and they should be evaluated on reduction of car trips at neighborhood schools." %}
+
+But non-bus transportation is not under the purview of anyone at PPS.
 Schools need to be on the hook for increasing the numbers of kids walking and biking to school,
 which impacts carbon emissions, health, land use, enrollment, and will make significant impacts on educational achievement.
 
@@ -213,6 +228,9 @@ PPS could make an enormously positive impact on the lives of its families
 by taking on the most cost-effective projects from Portland Parks & Recreation,
 like renovating pools and recreation centers. PPS could buy part of the property,
 renovate it using its capital bond raising authority, and hand it back to Parks.
+
+For another example, with SUN programs being cut in the Parks budget (something which really should already be operated by PPS),
+PPS could make up those cuts by taking on Parks capital spending, and allow Parks to continue to operate SUN programs.
 
 Before we argue about whether this makes sense or not, consider how utterly arbitrary
 the school vs. everything-else caps on property tax rates are.
