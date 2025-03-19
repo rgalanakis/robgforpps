@@ -96,9 +96,11 @@ and the legislature will need to factor it into school funding in the next few y
 
 Improvements at West Sylvan, Roosevelt, Grant, and Franklin.
 
-I am not too familiar with these, honestly. It's possible there is some unnecessary spending here.
-But this is the sort of stuff capital bonds are supposed to be used for.
-If you have something to add, please let me know! robg.pdx@gmail.com
+I am not too familiar with these, but it doesn't seem like this is as important as the rest.
+This is an obvious area to cut, but I'm sure there are some entrenched interests.
+That said: this is the sort of stuff capital bonds are often used for.
+
+I would much rather [spend this money on rehabbing pools and staffing SUN schools](/one-city#fiscal).
 
 ### Deferred Maintenance ($190m)
 
@@ -323,7 +325,7 @@ It's worth considering what else this money could have been used for.
 
 Because of the way Measure 5 and 50 work, this "unraised money" (the $400m we could have eliminated from this bond)
 can **only be raised for other PPS capital projects.** We cannot, say, use this revenue capacity to authorize a bond
-to build an MLB stadium or whatever other ideas people have.
+to build an MLB stadium or whatever other ideas people have (well, unless PPS owned the stadium).
 
 The only things we can prioritize against the $400m for Jefferson are:
 
@@ -336,6 +338,11 @@ But reasonable people can disagree on this and there is obviously merit to the J
 **Returning the funds to taxpayers.** While $400m is a lot (really, more like $500m due to interest),
 it's over 32 years, so we are not looking at some big tax break without it.
 But, it's still a big chunk of change, and spending taxes on stuff we don't need is a bad thing.
+
+We could also look at being more 'clever' with the bond dollars
+by working with the City and County on Intra-Governmental Agreements
+to build capital projects they need, and in return we'd get staffing or dollars (like SUN program staffing
+provided by Parks & Rec, due to be cut in the next Portland budget).
 
 If you are upset about spending money on stuff we don't need, as I am,
 there are plenty of projects that could use your scorn. For example,
