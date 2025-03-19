@@ -1,5 +1,5 @@
 ---
-title: "One City"
+title: "School Policy is more than Education Policy"
 excerpt: "School Policy is more than Education Policy"
 layout: page
 permalink: /one-city
@@ -10,10 +10,11 @@ header:
 ---
 
 {% include sectionstart.html first=1 %}
-# One City Policies
+# Policy Matters
 
-My platform is called **One City**.
-I believe that, to get out of the multipronged crises we are in,
+We must think of Portland &mdash; schools, city, and county &mdash; as **One City**.
+
+To get out of the many crises we are in,
 **we must act with urgency and creativity across our school, city, and county governments.**
 
 Schools play a central role in our society. We cannot treat them like a vacuum.

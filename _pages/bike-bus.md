@@ -71,7 +71,7 @@ What else comes close? When you ride a bike you:
 - Emit basically zero carbon, even on an e-bike. Electric cars still emit about 1/3 the carbon of ICE cars.
 - Don't pollute. Even with electric cars, tire and brake dust are a significant contributor to pollution.
 - Exercise. Exercise is just as important for mental health as it is for physical helath,
-  as explained on the [policy page](/policy).
+  as explained on the [Policy page](/one-city).
 - Meet your neighbors. It's amazing what happens when you're not tucked in a metal and steel box.
 - Free up space for necessary driving. Driving is great! We just can't do all do it all the time. Let's make room for trips that make a lot more sense to be driven.
 - Free up space for housing. One of the main forces against new housing development is around parking and congestion. When you ride your bike for more local trips, you see more neighbors as a benefit, rather than a concern.
