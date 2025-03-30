@@ -26,6 +26,7 @@ I prefer to be pictured in my Bike Bus gear but the plain ones are okay as well.
 {% include media-image.html src="/assets/images/portraits/robgforpps-portrait-sweater.jpg" alt="Rob in a grey sweater." %}
 {% include media-image.html src="/assets/images/portraits/robgforpps-headshot-bikebus-1.jpg" alt="Rob in his yellow Bike Bus jacket." %}
 {% include media-image.html src="/assets/images/portraits/robgforpps-headshot-bikebus-2.jpg" alt="Rob in his yellow Bike Bus jacket." %}
+{% include media-image.html src="/assets/images/portraits/robgforpps-headshot-bikebus-3.jpg" alt="Rob in his yellow Bike Bus jacket in front of a playground." %}
 {% include media-image.html src="/assets/images/portraits/robgforpps-headshot-sweater.jpg" alt="Rob in a grey sweater." %}
 </div>
 
