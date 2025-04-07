@@ -253,9 +253,13 @@ since it's income tax, not property tax, based.
 In a down year, like a recession, we may have to make severe cuts to school budgets,
 but funding goes back up next year. All we've done is turn over staff and increase costs.
 
-Kicker reform could look something like allocating a portion of the overpayment (5%?) to a "rainy day fund"
+Kicker reform could look something like allocating a portion of the overpayment to a "rainy day fund"
 that is used to normalize the budget during down years.
 This would reduce staff reductions that are just a result of temporary economic conditions.
+
+It would also make sense to hold back some portion of every kicker for the general fund,
+since more revenue than expected almost always means population growth,
+which means service delivery took more than we were planning.
 
 Simply abolishing the kicker would raise taxes and probably result in even _worse_ budget problems,
 like overspending on one-time programs, as Multnomah County has.
