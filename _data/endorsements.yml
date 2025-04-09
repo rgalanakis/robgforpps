@@ -17,9 +17,6 @@ photo:
   - name: Coach Sam Balto
     title: Nationally Recognized Safe Routes to School Advocate
     slug: sam-balto
-  - name: Alan Hipólito
-    title: Digital Justice Advocate
-    slug: alan-hipolito
   - name: Moms Demand Action
     title: Distinction, not Endorsement
     slug: gun-sense
@@ -42,6 +39,8 @@ photo:
     title: Bicycle Traffic Instructor
     slug: viv-jeevan
 text:
+  - name: Alan Hipólito
+    title: Digital Justice Advocate
   - name: Shawne Martinez
     title: Award-winning Safe Streets Advocate
   - name: Eva Frazier
