@@ -11,10 +11,10 @@ header:
 content_class: "bg-shape-w big bg-shape-yellow-light-star"
 
 gallery-1:
-  - url: "/assets/images/o/daruk-bike-ride.jpg"
-    image_path: "/assets/images/t/daruk-bike-ride.jpg"
-    alt: "child dressed in a Tingle costume from Legend of Zelda, adult dressed as Daruk from Breath of the Wild, child in a costume as Link from Minish Cap"
-    title: "One of my favorite rides I've been on was 'Gears of the Kingdom.' We're in costume here as Tingle, Daruk (giant foam hands not picture), and Link from Minish Cap. My wife dressed as Zelda."
+  - url: "/assets/images/o/iceland-shark.jpg"
+    image_path: "/assets/images/t/iceland-shark.jpg"
+    alt: "me and my wife standing under a shed with shark being hung to ferment"
+    title: "Yes, I've eaten the famous Icelandic 'pee shark' many times. It's not that bad!"
   - url: "/assets/images/o/chickens.jpg"
     image_path: "/assets/images/t/chickens.jpg"
     alt: "Rob with a couple chickens."
@@ -26,18 +26,18 @@ gallery-1:
     class: "object-position-quarter"
 
 gallery-2:
-  - url: "/assets/images/o/suma-planning-1.jpg"
-    image_path: "/assets/images/t/suma-planning-1.jpg"
-    alt: "Three people looking at a computer screen"
-    title: "Computers are fine too."
-  - url: "/assets/images/o/parking-day-discussion.jpg"
-    image_path: "/assets/images/t/parking-day-discussion.jpg"
-    alt: "two people standing around talking, one sitting on a bike with a squirrel mask on"
-    title: "This ride from StrongTownsPDX visited various parking garages in the central city and talked about what used to exist (housing and businesses)."
+  - url: "/assets/images/o/daruk-bike-ride.jpg"
+    image_path: "/assets/images/t/daruk-bike-ride.jpg"
+    alt: "child dressed in a Tingle costume from Legend of Zelda, adult dressed as Daruk from Breath of the Wild, child in a costume as Link from Minish Cap"
+    title: "One of my favorite rides I've been on was 'Gears of the Kingdom.' We're in costume here as Tingle, Daruk (giant foam hands not picture), and Link from Minish Cap. My wife dressed as Zelda."
   - url: "/assets/images/o/strongtowns-d3-chat.jpg"
     image_path: "/assets/images/t/strongtowns-d3-chat.jpg"
     alt: "people sitting around a table in discussion"
     title: "Groups like StrongTownsPDX are coming up with bold and pragmatic ways to solve Portland's problems."
+  - url: "/assets/images/o/parking-day-discussion.jpg"
+    image_path: "/assets/images/t/parking-day-discussion.jpg"
+    alt: "two people standing around talking, one sitting on a bike with a squirrel mask on"
+    title: "This ride from StrongTownsPDX visited various parking garages in the central city and talked about what used to exist (housing and businesses)."
 ---
 
 # PPS Parent, Community Advocate
