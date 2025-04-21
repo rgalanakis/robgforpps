@@ -55,7 +55,7 @@ gallery-3:
 
 # It's a Movement, Not a Moment
 
-I am not a "bike person", any more than I am a "[toothbrush afficionado](https://bikeportland.org/2023/12/28/safe-streets-as-portlands-unique-selling-proposition-382757)" just because I do it a couple times a day.
+I am not a "bike person", any more than I am a "[toothbrush afficionado](https://bikeportland.org/2023/12/28/safe-streets-as-portlands-unique-selling-proposition-382757)" just because I do it a couple of times a day.
 
 {% include gallery id="gallery-1" %}
 
@@ -70,7 +70,7 @@ What else comes close? When you ride a bike you:
 
 - Emit basically zero carbon, even on an e-bike. Electric cars still emit about 1/3 the carbon of ICE cars.
 - Don't pollute. Even with electric cars, tire and brake dust are a significant contributor to pollution.
-- Exercise. Exercise is just as important for mental health as it is for physical helath,
+- Exercise. Exercise is just as important for mental health as it is for physical health,
   as explained on the [Policy page](/one-city).
 - Meet your neighbors. It's amazing what happens when you're not tucked in a metal and steel box.
 - Free up space for necessary driving. Driving is great! We just can't do all do it all the time. Let's make room for trips that make a lot more sense to be driven.
@@ -94,7 +94,7 @@ we'd see improvements across the spectrum:
 I will push hard at PPS for the following. **All of this is extremely cheap to implement**.
 We do not need to pass a bond, raise taxes, or cut staff.
 
-- Grow a bike fleet so every student can go through [Bike Safety Education](https://www.portland.gov/transportation/walking-biking-transit-safety/safe-routes/bike-safety-education) yearly. The bikes will be donated by Reborn Bikes, and grants and donations are able to pay for trailers and maintenance. Right now, PPS uses PBOT's bike fleet, which is way over-subscribed, so schools can only have this program to 4th and 5th graders, and just once every two years.
+- Grow a bike fleet so every student can go through [Bike Safety Education](https://www.portland.gov/transportation/walking-biking-transit-safety/safe-routes/bike-safety-education) yearly. The bikes will be donated by Reborn Bikes, and grants and donations are able to pay for trailers and maintenance. Right now, PPS uses PBOT's bike fleet, which is way oversubscribed, so schools can only have this program to 4th and 5th graders, and just once every two years.
 - Advertise bike training at every school playground, since we all see preschoolers learning to ride there. Use this to draw young families into PPS, especially neighborhood schools. Kids cannot ride their bikes to private and charter schools easily, so this is a big benefit for PPS.
 - Establish Bike Buses and Walking Buses at every PPS school as official policy. Send waivers home with all students to reduce risk and liability. Many schools will be able to staff their routes with volunteers, as they have so far. Grants are currently in use for Title I schools in North and East Portland. Eventually this should turn into a paid school function like yellow school buses.
 
