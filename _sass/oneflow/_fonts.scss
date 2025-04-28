@@ -25,7 +25,7 @@
 .lead {
   font-family: $header-font-family;
   font-weight: bold;
-  font-size: $h-size-3;
+  font-size: $h-size-3 !important;
 }
 
 .text-center {

@@ -53,18 +53,20 @@ gallery-3:
     title: "My favorite rides to lead are Ice Cream Bike Buses. This one in June had almost 400 riders!"
 ---
 
+
+{: .lead}
+Portland has over **20 active Bike Buses!** I'm riding them *all* this spring.
+<br />[Check out my progress!](https://bsky.app/profile/robgalanakis.bsky.social/post/3lnu2x6sjdc2j)
+
 # It's a Movement, Not a Moment
 
-I am not a "bike person", any more than I am a "[toothbrush afficionado](https://bikeportland.org/2023/12/28/safe-streets-as-portlands-unique-selling-proposition-382757)" just because I do it a couple of times a day.
-
-{% include gallery id="gallery-1" %}
-
-But as you may have guessed, I unapologetically support and advocate for more bike riding
-(and walking, and transit) in our city. I am an organizer at [BikeBusPDX](https://bikebuspdx.org),
+I am an organizer at [BikeBusPDX](https://bikebuspdx.org),
 and believe this movement shows us a way forward at PPS and urban America as a whole.
 
 Bikes and e-bikes (especially e-cargo bikes) are the most powerful tools society has to fight
 climate change, improve physical health, reduce lonliness, increase civic engagement, decrease poverty, and eliminate congestion and pollution.
+
+{% include gallery id="gallery-1" %}
 
 What else comes close? When you ride a bike you:
 
