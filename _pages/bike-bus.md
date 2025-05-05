@@ -56,7 +56,7 @@ gallery-3:
 
 {: .lead}
 Portland has over **20 active Bike Buses!** I'm riding them *all* this spring.
-<br />[Check out my progress!](https://bsky.app/profile/robgalanakis.bsky.social/post/3lnuwual5322q)
+<br />[Check out my progress!](https://bsky.app/profile/robgalanakis.bsky.social/post/3lohhlqh65z22)
 
 # It's a Movement, Not a Moment
 
