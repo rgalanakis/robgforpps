@@ -53,6 +53,9 @@ gallery-3:
     title: "My favorite rides to lead are Ice Cream Bike Buses. This one in June had almost 400 riders!"
 ---
 
+# What is a Bike Bus?
+
+The Bike Bus is a community program that organizes groups of kids to ride their bikes together to school weekly (though some ride more or less often). By fostering camaraderie and providing a sense of security, the Bike Bus encourages kids to embrace cycling as a fun and social activity. This initiative not only reduces traffic congestion and carbon emissions, but also instills a lifelong habit of active transportation in young individuals.
 
 {: .lead}
 Portland has over **20 active Bike Buses!** I'm riding them *all* this spring.
