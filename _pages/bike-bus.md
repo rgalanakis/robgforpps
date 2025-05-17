@@ -64,7 +64,7 @@ I am an organizer at [BikeBusPDX](https://bikebuspdx.org),
 and believe this movement shows us a way forward at PPS and urban America as a whole.
 
 Bikes and e-bikes (especially e-cargo bikes) are the most powerful tools society has to fight
-climate change, improve physical health, reduce lonliness, increase civic engagement, decrease poverty, and eliminate congestion and pollution.
+climate change, improve physical health, reduce loneliness, increase civic engagement, decrease poverty, and eliminate congestion and pollution.
 
 {% include gallery id="gallery-1" %}
 
