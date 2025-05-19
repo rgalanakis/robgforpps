@@ -59,7 +59,7 @@ The Bike Bus is a community program that organizes groups of kids to ride their 
 
 {: .lead}
 Portland has over **20 active Bike Buses!** I'm riding them *all* this spring.
-<br />[Check out my progress!](https://bsky.app/profile/robgalanakis.bsky.social/post/3lohhlqh65z22)
+<br />[Check out my progress!](https://bsky.app/profile/robgalanakis.bsky.social/post/3lpkpbhaywc2x)
 
 # It's a Movement, Not a Moment
 
